@@ -20,12 +20,13 @@ engine:
     - abc_segmentor
     - fallback_segmentor
   translators:
-    - table_translator
+    - r10n_translator
   filters:
     - uniquifier
     
 translator:
   dictionary: emoji
+  spelling_hints: 1
   
 key_binder:
   import_preset: default
