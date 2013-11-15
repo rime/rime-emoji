@@ -3,7 +3,7 @@
 schema:
   schema_id: emoji
   name: Emoji
-  version: "2.1"
+  version: "2.2"
   description: |
     由Unicode中「Emoticons」部份和「Miscellaneous Symbols and Pictographs」部份合成。
     可在Mac中輸入iOS設備通用的Emoji表情，其他系統可能需安装專門字體。
@@ -40,17 +40,18 @@ speller:
   delimiter: " '"
   algebra:
     - "abbrev/^.+$/all/"
-    - "abbrev/^[a-z,]+;([a-z])[a-z]*'?([a-z])?[a-z]*'?([a-z])?[a-z]*$/$1$2$3/"
-    - "derive/^[a-z,]+;([a-z]+)'?([a-z]*)'?([a-z]*)$/$1$2$3/"
-    - "derive/^[a-z]+,([a-z]+)(;[a-z']+)?$/$1/"
-    - "derive/^([a-z]+),?[a-z]*;[a-z']+$/$1/"
-    - "xform/^([a-z]+),?([a-z]*);[a-z']+$/$1$2/"
+    - "abbrev/^[a-z,]+;([a-z])[a-z]*'?([a-z])?[a-z]*'?([a-z])?[a-z]*`?[a-z]*$/$1$2$3/"
+    - "derive/^[a-z,]+;([a-z]+)'?([a-z]*)'?([a-z]*)`?[a-z]*$/$1$2$3/"
+    - "derive/^[^`]+`([a-z]+)$/$1/"
+    - "derive/^[a-z]+,([a-z]+)(;[a-z'`]+)?$/$1/"
+    - "derive/^([a-z]+),?[a-z]*;[a-z'`]+$/$1/"
+    - "xform/^([a-z]+),?([a-z]*);[a-z'`]+$/$1$2/"
 
 translator:
   dictionary: emoji
   spelling_hints: 1
   comment_format:
-    - "xform/;[a-z']*$//"
+    - "xform/;[a-z'`]*$//"
     - "xform/^/ /"
     - "xform/,/ (/"
     - xform/\((.*)$/\($1\)/
