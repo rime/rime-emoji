@@ -384,19 +384,19 @@ use_preset_vocabulary: false
 💑	love;ai'qing
 💒	wedding;ai'qing
 #心
-💓	heart;xix
-💔	broken,heart;xix
-💕	heart;xix
-💖	heart;xix
-💗	heart;xix
-💘	heart;xix
-💙	heart;xix
-💚	heart;xix
-💛	heart;xix
-💜	heart;xix
-💝	heart;xix
-💞	heart;xix
-💟	heart;xix
+💓	heart;xin
+💔	broken,heart;xin
+💕	heart;xin
+💖	heart;xin
+💗	heart;xin
+💘	heart;xin
+💙	heart;xin
+💚	heart;xin
+💛	heart;xin
+💜	heart;xin
+💝	heart;xin
+💞	heart;xin
+💟	heart;xin
 #效果
 💠	icon;xiao'guo
 💡	bulb;xiao'guo
@@ -730,7 +730,7 @@ use_preset_vocabulary: false
 🚍	bus;jiao'tong
 🚎	bus;jiao'tong
 🚏	bus;jiao'tong
-🚐	pmini,bus;jiao'tong
+🚐	mini,bus;jiao'tong
 🚑	ambulence,emergency;jiao'tong
 🚒	fireman,emergency;jiao'tong
 🚓	police,emergency;jiao'tong
