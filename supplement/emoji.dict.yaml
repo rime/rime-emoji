@@ -15,7 +15,7 @@ use_preset_vocabulary: false
 ⛆	haze;tian'qi`weather
 ⛅	cloudy;tian'qi`weather
 ☁	cloud;tian'qi`weather
-⛄	snow;tian'qi`weather
+❄	snow;tian'qi`weather
 ⚡	lightening;tian'qi`weather
 🌊	tsunami;tian'qi`weather
 🌀	typhoon;tian'qi`weather
@@ -173,6 +173,7 @@ use_preset_vocabulary: false
 🎯	dart,target;you'xi`game
 🎰	gamble;you'xi`game
 🎱	billiards;you'xi`game
+⛄	snowman;you'xi`game
 🎲	dice;you'xi`game
 🎳	bowling;you'xi`game
 🎴	cards,flower;you'xi`game
