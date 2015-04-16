@@ -5,7 +5,7 @@
 
 ---
 name: emoji
-version: "2.4"
+version: "2.5"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -372,6 +372,12 @@ columns:
 🙋	hand,raise;ren`people	8177749
 🙍	upset;ren`people	3062491
 🙎	stare;ren`people	1068795
+#膚色
+🏻	white;fu'se`tone
+🏼	yellow;fu'se`tone
+🏽	brown;fu'se`tone
+🏾	dark;fu'se`tone
+🏿	black;fu'se`tone
 #化妝
 💄	lip,stick;hua'zhuang`makeup	627751
 💅	nail,polisher;hua'zhuang`makeup	2789941
@@ -634,6 +640,38 @@ columns:
 🇷🇺	russia,country;guo	423154	80292	63792
 🇬🇧	uk,country;guo	499461
 🇩🇪	germany,country;guo	139766
+🇦🇺	austrilia,country;guo
+🇦🇹	austria,country;guo
+🇧🇪	belgium,country;guo
+🇧🇷	brazil,country;guo
+🇨🇦	canada,country;guo
+🇨🇱	chile,country;guo
+🇨🇴	colombia,country;guo
+🇩🇰	denmark,country;guo
+🇫🇮	finland,country;guo
+🇭🇰	hongkong,country;guo
+🇮🇳	india,country;guo
+🇮🇩	indonesia,country;guo
+🇮🇪	ireland,country;guo
+🇮🇱	israel,country;guo
+🇲🇴	macau,country;guo
+🇲🇾	malaysia,country;guo
+🇲🇽	mexico,country;guo
+🇳🇱	netherlands,country;guo
+🇳🇿	newzealand,country;guo
+🇳🇴	norway,country;guo
+🇵🇭	philippin,country;guo
+🇵🇱	poland,country;guo
+🇵🇹	portugal,country;guo
+🇵🇷	puertorico,country;guo
+🇸🇦	saudiarabia,country;guo
+🇸🇬	singapore,country;guo
+🇿🇦	southafrica,country;guo
+🇸🇪	sweden,country;guo
+🇹🇷	turkey,country;guo
+🇨🇭	switzerland,country;guo
+🇦🇪	unitedarab,country;guo
+🇻🇳	vietnam,country;guo
 #表情
 #微笑
 😀	smile,happy;biao'qing	5732540
