@@ -726,14 +726,14 @@ columns:
 😻	like,happy;biao'qing	6298445
 😽	like,happy;biao'qing	1303998
 #驚喜
-😨	supprise;biao'qing	3633824
-😳	supprise;biao'qing	51861810
-😖	supprise;biao'qing	9940594
-😦	supprise;biao'qing	1695715
-😧	supprise;biao'qing	2069022
-😬	supprise;biao'qing	9749617
-😮	supprise;biao'qing	2636735
-😯	supprise;biao'qing	2548727
+😨	surprise;biao'qing	3633824
+😳	surprise;biao'qing	51861810
+😖	surprise;biao'qing	9940594
+😦	surprise;biao'qing	1695715
+😧	surprise;biao'qing	2069022
+😬	surprise;biao'qing	9749617
+😮	surprise;biao'qing	2636735
+😯	surprise;biao'qing	2548727
 #咧嘴笑
 😏	grin;biao'qing	71614858
 😁	grin;biao'qing	65097366
@@ -753,9 +753,9 @@ columns:
 😰	doubt;biao'qing	5641447
 😿	doubt;biao'qing	1841188
 #猴子表情
-🙈	shy;biao'qing	30945531
-🙉	supprise;biao'qing	2704402
-🙊	laugh,happy;s;biao'qing	22319510
+🙈	no,see;biao'qing	30945531
+🙉	no,hear;biao'qing	2704402
+🙊	no,speak;biao'qing	22319510
 #交通
 🚀	rocket;jiao'tong`transportation	975972
 🚁	helicopter;jiao'tong`transportation	80491
