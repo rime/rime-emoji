@@ -1,7 +1,7 @@
 # emoji.dict.yaml
 # 雪齋 <leoyoontsaw@gmail.com>
-# 編碼以Unicode分類爲主，瑾昀整理
-# 29-Apr-2014 添加字頻，字頻得自http://www.emojitracker.com，統計自twitter.com
+# 編碼以 Unicode 分類爲主，Kunki Chou 整理
+# 29-Apr-2014 添加字頻，字頻得自 http://www.emojitracker.com ，統計自 twitter.com
 
 ---
 name: emoji
