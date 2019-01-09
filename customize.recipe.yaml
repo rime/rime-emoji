@@ -14,4 +14,4 @@ install_files: >-
 patch_files:
   ${schema:-luna_pinyin}.custom.yaml:
     - patch/+:
-      __include: emoji_suggestion:/patch
+        __include: emoji_suggestion:/patch
