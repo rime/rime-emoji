@@ -2,7 +2,7 @@
 
 配方： ℞ **emoji**
 
-[Rime](http://rime.im) 繪文字
+[Rime](https://rime.im) 繪文字
 
 ## 安裝
 
