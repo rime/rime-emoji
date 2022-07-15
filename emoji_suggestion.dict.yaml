@@ -1,0 +1,7314 @@
+# Rime dictionary for emoji
+# encoding: utf-8
+
+---
+name: emoji_suggestion
+version: "0.1"
+sort: by_weight
+...
+
+〇	ling
+㖿	xie
+㞎㞎	ba ba
+㡌	mao
+㡌子	mao zi
+䲡鱼	qiu yu
+一	yi
+一个人	yi ge ren
+一人	yi ren
+一個人	yi ge ren
+一分鐘	yi fen zhong
+一分钟	yi fen zhong
+一卷報紙	yi juan bao zhi
+一卷报纸	yi juan bao zhi
+一定	yi ding
+一定女	yi ding nv
+一定男	yi ding nan
+一家	yi jia
+一家三口	yi jia san kou
+一家四口	yi jia si kou
+一小会	yi xiao hui
+一小撮	yi xiao cuo
+一小會	yi xiao hui
+一摞书	yi luo shu
+一摞書	yi luo shu
+一摞課本	yi luo ke ben
+一摞课本	yi luo ke ben
+一撮	yi cuo
+一束花	yi shu hua
+一杯酒	yi bei jiu
+一点	yi dian
+一点半	yi dian ban
+一点点	yi dian dian
+一百分	yi bai fen
+一碗面	yi wan mian
+一碗飯	yi wan fan
+一碗饭	yi wan fan
+一碗麵	yi wan mian
+一群人	yi qun ren
+一边去	yi bian qu
+一邊去	yi bian qu
+一阵间	yi zhen jian
+一陣間	yi zhen jian
+一點	yi dian
+一點半	yi dian ban
+一點點	yi dian dian
+一齊	yi qi
+一齐	yi qi
+七	qi
+七夕	qi xi
+七夕树	qi xi shu
+七夕樹	qi xi shu
+七星瓢虫	qi xing piao chong
+七星瓢蟲	qi xing piao chong
+七点	qi dian
+七点半	qi dian ban
+七點	qi dian
+七點半	qi dian ban
+万圣节	wan sheng jie
+万岁	wan sui
+万那杜	wan na du
+丈夫	zhang fu
+三	san
+三分裤	san fen ku
+三分褲	san fen ku
+三叶草	san ye cao
+三戟叉	san ji cha
+三文治	san wen zhi
+三明治	san ming zhi
+三点	san dian
+三点半	san dian ban
+三点装	san dian zhuang
+三葉草	san ye cao
+三角尺	san jiao chi
+三角旗	san jiao qi
+三輪車	san lun che
+三轮车	san lun che
+三點	san dian
+三點半	san dian ban
+三點裝	san dian zhuang
+上	shang
+上一首	shang yi shou
+上下顛倒	shang xia dian dao
+上下颠倒	shang xia dian dao
+上厕所	shang ce suo
+上头	shang tou
+上廁所	shang ce suo
+上弦月	shang xian yue
+上課	shang ke
+上課女	shang ke nv
+上課男	shang ke nan
+上课	shang ke
+上课女	shang ke nv
+上课男	shang ke nan
+上边	shang bian
+上邊	shang bian
+上鎖	shang suo
+上锁	shang suo
+上面	shang mian
+上頭	shang tou
+下	xia
+下一首	xia yi shou
+下午好	xia wu hao
+下大雨	xia da yu
+下头	xia tou
+下弦月	xia xian yue
+下跪	xia gui
+下跪女	xia gui nv
+下跪男	xia gui nan
+下載郵件	xia zai you jian
+下载邮件	xia zai you jian
+下边	xia bian
+下邊	xia bian
+下雨	xia yu
+下雪	xia xue
+下面	xia mian
+下頭	xia tou
+不	bu
+不一定	bu yi ding
+不丹	bu dan
+不会	bu hui
+不会吧	bu hui ba
+不会啦	bu hui la
+不信	bu xin
+不关我事	bu guan wo shi
+不关我事女	bu guan wo shi nv
+不关我事男	bu guan wo shi nan
+不准	bu zhun
+不准听	bu zhun ting
+不准吸烟	bu zhun xi yan
+不准吸煙	bu zhun xi yan
+不准看	bu zhun kan
+不准聽	bu zhun ting
+不准說	bu zhun shuo
+不准说	bu zhun shuo
+不可能	bu ke neng
+不听	bu ting
+不告訴你	bu gao su ni
+不告诉你	bu gao su ni
+不哭	bu ku
+不喜欢	bu xi huan
+不喜歡	bu xi huan
+不女	bu nv
+不好	bu hao
+不好吧	bu hao ba
+不好女	bu hao nv
+不好意思	bu hao yi si
+不好玩	bu hao wan
+不好男	bu hao nan
+不对吧	bu dui ba
+不對吧	bu dui ba
+不干	bu gan
+不干女	bu gan nv
+不干男	bu gan nan
+不幹	bu gan
+不幹女	bu gan nv
+不幹男	bu gan nan
+不开心	bu kai xin
+不得	bu de
+不懂	bu dong
+不敢听	bu gan ting
+不敢看	bu gan kan
+不敢聽	bu gan ting
+不敢說	bu gan shuo
+不敢说	bu gan shuo
+不是吧	bu shi ba
+不晓得	bu xiao de
+不曉得	bu xiao de
+不會	bu hui
+不會吧	bu hui ba
+不會啦	bu hui la
+不清楚	bu qing chu
+不爽	bu shuang
+不男	bu nan
+不看	bu kan
+不知道	bu zhi dao
+不知道女	bu zhi dao nv
+不知道男	bu zhi dao nan
+不管	bu guan
+不管女	bu guan nv
+不管男	bu guan nan
+不聽	bu ting
+不能听	bu neng ting
+不能看	bu neng kan
+不能聽	bu neng ting
+不能說	bu neng shuo
+不能说	bu neng shuo
+不行	bu xing
+不行女	bu xing nv
+不行男	bu xing nan
+不要	bu yao
+不要怕	bu yao pa
+不見	bu jian
+不见	bu jian
+不許看	bu xu kan
+不許聽	bu xu ting
+不許說	bu xu shuo
+不說	bu shuo
+不說了	bu shuo le
+不講	bu jiang
+不讲	bu jiang
+不许听	bu xu ting
+不许看	bu xu kan
+不许说	bu xu shuo
+不说	bu shuo
+不说了	bu shuo le
+不通	bu tong
+不錯	bu cuo
+不錯啊	bu cuo a
+不错	bu cuo
+不错啊	bu cuo a
+不開心	bu kai xin
+不關我事	bu guan wo shi
+不關我事女	bu guan wo shi nv
+不關我事男	bu guan wo shi nan
+不高兴	bu gao xing
+不高興	bu gao xing
+专家	zhuan jia
+专家女	zhuan jia nv
+专家男	zhuan jia nan
+世界	shi jie
+东京	dong jing
+东加	dong jia
+东帝汶	dong di wen
+东正教	dong zheng jiao
+両替	liang ti
+两人	liang ren
+两仪	liang yi
+两点	liang dian
+两点半	liang dian ban
+两边打开	liang bian da kai
+並肩	bing jian
+中产	zhong chan
+中产女	zhong chan nv
+中产男	zhong chan nan
+中午好	zhong wu hao
+中华人民共和国	zhong hua ren min gong he guo
+中华民国	zhong hua min guo
+中国	zhong guo
+中国大陆	zhong guo da lu
+中國	zhong guo
+中國大陸	zhong guo da lu
+中学	zhong xue
+中學	zhong xue
+中指	zhong zhi
+中方块	zhong fang kuai
+中方塊	zhong fang kuai
+中產	zhong chan
+中產女	zhong chan nv
+中產男	zhong chan nan
+中秋	zhong qiu
+中秋節	zhong qiu jie
+中秋节	zhong qiu jie
+中等白方	zhong deng bai fang
+中等黑方	zhong deng hei fang
+中華人民共和國	zhong hua ren min gong he guo
+中華民國	zhong hua min guo
+中非	zhong fei
+丰收	feng shou
+串烧	chuan shao
+串燒	chuan shao
+丸子	wan zi
+丹麥	dan mai
+丹麦	dan mai
+为何	wei he
+为啥	wei sha
+为甚么	wei shen me
+主厨	zhu chu
+主厨女	zhu chu nv
+主厨男	zhu chu nan
+主廚	zhu chu
+主廚女	zhu chu nv
+主廚男	zhu chu nan
+主意	zhu yi
+举起拳头	ju qi quan tou
+举重	ju zhong
+举重女	ju zhong nv
+举重男	ju zhong nan
+义大利	yi da li
+义大利面	yi da li mian
+乌克兰	wu ke lan
+乌兹别克	wu zi bie ke
+乌兹别克斯坦	wu zi bie ke si tan
+乌干达	wu gan da
+乌拉圭	wu la gui
+乌鱡	wu zei
+乌龟	wu gui
+乍得	zha de
+乐曲	yue qu
+乒乓	ping pang
+乒乓球	ping pang qiu
+乒乓球拍	ping pang qiu pai
+乔治亚	qiao zhi ya
+乖	guai
+乖孩子	guai hai zi
+乘	cheng
+九	jiu
+九枝灯台	jiu zhi deng tai
+九枝燈臺	jiu zhi deng tai
+九点	jiu dian
+九点半	jiu dian ban
+九點	jiu dian
+九點半	jiu dian ban
+也就这样	ye jiu zhe yang
+也就這樣	ye jiu zhe yang
+也門	ye men
+也门	ye men
+习题	xi ti
+书	shu
+书写	shu xie
+书包	shu bao
+书呆子	shu dai zi
+书本	shu ben
+书签	shu qian
+乱噏	luan xi
+乱讲	luan jiang
+乳	ru
+乳液	ru ye
+乳酪	ru lao
+乾杯	qian bei
+亂噏	luan xi
+亂講	luan jiang
+二	er
+云	yun
+云霄飞车	yun xiao fei che
+五	wu
+五弦琴	wu xian qin
+五指	wu zhi
+五点	wu dian
+五点半	wu dian ban
+五角星	wu jiao xing
+五點	wu dian
+五點半	wu dian ban
+井号键	jing hao jian
+井號鍵	jing hao jian
+亚军	ya jun
+亚塞拜然	ya sai bai ran
+亚森欣	ya sen xin
+亚洲	ya zhou
+亚美尼亚	ya mei ni ya
+亞塞拜然	ya sai bai ran
+亞森欣	ya sen xin
+亞洲	ya zhou
+亞美尼亞	ya mei ni ya
+亞軍	ya jun
+交通灯	jiao tong deng
+交通燈	jiao tong deng
+享受	xiang shou
+亮蛋	liang dan
+亮蛋女	liang dan nv
+亮蛋男	liang dan nan
+亲	qin
+亲一个	qin yi ge
+亲亲	qin qin
+亲吻	qin wen
+亲嘴	qin zui
+亲爱	qin ai
+人字拖	ren zi tuo
+人工智能	ren gong zhi neng
+人民币	ren min bi
+人民幣	ren min bi
+人造卫星	ren zao wei xing
+人造衛星	ren zao wei xing
+人魚	ren yu
+人魚女	ren yu nv
+人魚男	ren yu nan
+人鱼	ren yu
+人鱼女	ren yu nv
+人鱼男	ren yu nan
+仓鼠	cang shu
+仔	zi
+仔細	zi xi
+仔细	zi xi
+他	ta
+他们	ta men
+他們	ta men
+仙人	xian ren
+仙人女	xian ren nv
+仙人掌	xian ren zhang
+仙人男	xian ren nan
+仙女	xian nv
+仙女棒	xian nv bang
+仙子	xian zi
+以色列	yi se lie
+仲秋	zhong qiu
+企	qi
+企女	qi nv
+企男	qi nan
+企鵝	qi e
+企鹅	qi e
+伊拉克	yi la ke
+伊斯兰	yi si lan
+伊斯兰教	yi si lan jiao
+伊斯蘭	yi si lan
+伊斯蘭教	yi si lan jiao
+伊朗	yi lang
+休息	xiu xi
+休旅車	xiu lv che
+休旅车	xiu lv che
+伞	san
+传呼机	chuan hu ji
+传真	chuan zhen
+传真机	chuan zhen ji
+伤	shang
+伤了	shang le
+伤心	shang xin
+伪装	wei zhuang
+伯利兹	bo li zi
+估吓	gu xia
+低温	di wen
+低溫	di wen
+低音量	di yin liang
+住宅区	zhu zhai qu
+住宅區	zhu zhai qu
+住宿	zhu su
+住店	zhu dian
+体操	ti cao
+体操女	ti cao nv
+体操男	ti cao nan
+体温计	ti wen ji
+体育场	ti yu chang
+体育馆	ti yu guan
+佛堂	fo tang
+佛得角	fo de jiao
+佛殿	fo dian
+佛珠	fo zhu
+作弄	zuo nong
+作曲	zuo qu
+你	ni
+你也是	ni ye shi
+你大爷	ni da ye
+你大爺	ni da ye
+你好	ni hao
+你妈	ni ma
+你妈屄	ni ma bi
+你妹	ni mei
+你媽	ni ma
+你媽屄	ni ma bi
+你猜	ni cai
+來信	lai xin
+來郵件	lai you jian
+侦探	zhen tan
+侦探女	zhen tan nv
+侦探男	zhen tan nan
+便便	bian bian
+便利店	bian li dian
+便当	bian dang
+便条	bian tiao
+便條	bian tiao
+便當	bian dang
+便餐	bian can
+俄国	e guo
+俄國	e guo
+俄罗斯	e luo si
+俄羅斯	e luo si
+保加利亚	bao jia li ya
+保加利亞	bao jia li ya
+保齡	bao ling
+保齡球	bao ling qiu
+保龄	bao ling
+保龄球	bao ling qiu
+信	xin
+信件	xin jian
+信你有鬼	xin ni you gui
+信号	xin hao
+信号灯	xin hao deng
+信封	xin feng
+信用卡	xin yong ka
+信箱	xin xiang
+信號	xin hao
+信號燈	xin hao deng
+倉鼠	cang shu
+倒	dao
+倒带	dao dai
+倒帶	dao dai
+倒彩	dao cai
+倒挂列车	dao gua lie che
+倒掛列車	dao gua lie che
+倒楣	dao mei
+倒水	dao shui
+倒退	dao tui
+借記卡	jie ji ka
+借记卡	jie ji ka
+假肢	jia zhi
+假面	jia mian
+做礼拜	zuo li bai
+做禮拜	zuo li bai
+停	ting
+停止	ting zhi
+停止播放	ting zhi bo fang
+停車	ting che
+停車場	ting che chang
+停车	ting che
+停车场	ting che chang
+偵探	zhen tan
+偵探女	zhen tan nv
+偵探男	zhen tan nan
+偷看	tou kan
+偷瞄	tou miao
+偷窥	tou kui
+偷窺	tou kui
+偷笑	tou xiao
+傍晚	bang wan
+傘	san
+備忘錄	bei wang lu
+储蓄卡	chu xu ka
+傳呼機	chuan hu ji
+傳真	chuan zhen
+傳真機	chuan zhen ji
+傷	shang
+傷了	shang le
+傷心	shang xin
+傻	sha
+傻冒	sha mao
+傻屄	sha bi
+傻逼	sha bi
+像素游戏	xiang su you xi
+像素遊戲	xiang su you xi
+僞裝	wei zhuang
+僵尸	jiang shi
+僵尸女	jiang shi nv
+僵尸男	jiang shi nan
+儲蓄卡	chu xu ka
+儿	er
+儿子	er zi
+儿童	er tong
+元宵	yuan xiao
+兄妹	xiong mei
+兄弟	xiong di
+兄弟姊妹	xiong di zi mei
+兄弟姐妹	xiong di jie mei
+充电	chong dian
+充電	chong dian
+先生	xian sheng
+光头	guang tou
+光头女	guang tou nv
+光头男	guang tou nan
+光明	guang ming
+光明節	guang ming jie
+光明节	guang ming jie
+光环	guang huan
+光環	guang huan
+光盘	guang pan
+光盤	guang pan
+光碟	guang die
+光頭	guang tou
+光頭女	guang tou nv
+光頭男	guang tou nan
+克尔白	ke er bai
+克爾白	ke er bai
+克罗地亚	ke luo di ya
+克罗埃西亚	ke luo ai xi ya
+克羅地亞	ke luo di ya
+克羅埃西亞	ke luo ai xi ya
+兌換	dui huan
+免打扰	mian da rao
+免打擾	mian da rao
+免費	mian fei
+免費電話	mian fei dian hua
+免费	mian fei
+免费电话	mian fei dian hua
+兑换	dui huan
+兒	er
+兒子	er zi
+兒童	er tong
+兔	tu
+兔头	tu tou
+兔女	tu nv
+兔女郎	tu nv lang
+兔子	tu zi
+兔年	tu nian
+兔男	tu nan
+兔肉	tu rou
+兔頭	tu tou
+入场券	ru chang quan
+入場券	ru chang quan
+內褲	nei ku
+全家	quan jia
+兩人	liang ren
+兩儀	liang yi
+兩邊打開	liang bian da kai
+兩點	liang dian
+兩點半	liang dian ban
+八	ba
+八带鱼	ba dai yu
+八帶魚	ba dai yu
+八点	ba dian
+八点半	ba dian ban
+八爪魚	ba zhao yu
+八爪鱼	ba zhao yu
+八角星	ba jiao xing
+八點	ba dian
+八點半	ba dian ban
+公主	gong zhu
+公交車	gong jiao che
+公交車站	gong jiao che zhan
+公交车	gong jiao che
+公交车站	gong jiao che zhan
+公园	gong yuan
+公園	gong yuan
+公放	gong fang
+公文包	gong wen bao
+公牛	gong niu
+公羊	gong yang
+公車	gong che
+公車站	gong che zhan
+公车	gong che
+公车站	gong che zhan
+公雞	gong ji
+公鸡	gong ji
+六	liu
+六点	liu dian
+六点半	liu dian ban
+六芒星	liu mang xing
+六點	liu dian
+六點半	liu dian ban
+关东煮	guan dong zhu
+关岛	guan dao
+关机	guan ji
+养神	yang shen
+养鱼	yang yu
+兽人	shou ren
+内裤	nei ku
+円	yuan
+冇眼睇	mao yan di
+冈比亚	gang bi ya
+再見	zai jian
+再见	zai jian
+冒泡	mao pao
+写	xie
+写作	xie zuo
+写作业	xie zuo ye
+写信	xie xin
+写字	xie zi
+写字楼	xie zi lou
+农户	nong hu
+农户女	nong hu nv
+农户男	nong hu nan
+农民	nong min
+农民女	nong min nv
+农民工	nong min gong
+农民工女	nong min gong nv
+农民工男	nong min gong nan
+农民男	nong min nan
+冠军	guan jun
+冠軍	guan jun
+冥想	ming xiang
+冥想女	ming xiang nv
+冥想男	ming xiang nan
+冰	bing
+冰冷	bing leng
+冰刀	bing dao
+冰块	bing kuai
+冰塊	bing kuai
+冰壶	bing hu
+冰壺	bing hu
+冰岛	bing dao
+冰島	bing dao
+冰淇淋	bing qi lin
+冰激淋	bing ji lin
+冰球	bing qiu
+冰鞋	bing xie
+冲凉	chong liang
+冲浪	chong lang
+冲浪女	chong lang nv
+冲浪男	chong lang nan
+冷	leng
+冷漠	leng mo
+冷笑	leng xiao
+冻	dong
+准确	zhun que
+凉鞋	liang xie
+凋謝	diao xie
+凋谢	diao xie
+凋零	diao ling
+凍	dong
+减	jian
+几内亚	ji nei ya
+几内亚比索	ji nei ya bi suo
+几内亚比绍	ji nei ya bi shao
+凤梨	feng li
+凭条	ping tiao
+出丑	chu chou
+出事了	chu shi le
+出国	chu guo
+出國	chu guo
+出汗	chu han
+出洋相	chu yang xiang
+出海	chu hai
+出游	chu you
+出租車	chu zu che
+出租车	chu zu che
+出色	chu se
+出警	chu jing
+出遊	chu you
+出醜	chu chou
+击中	ji zhong
+击剑	ji jian
+击掌	ji zhang
+刀	dao
+刀叉	dao cha
+分手	fen shou
+分析報告	fen xi bao gao
+分析报告	fen xi bao gao
+切	qie
+划船	hua chuan
+划船女	hua chuan nv
+划船男	hua chuan nan
+划艇	hua ting
+划艇女	hua ting nv
+划艇男	hua ting nan
+列印机	lie yin ji
+列印機	lie yin ji
+列支敦士登	lie zhi dun shi deng
+列支敦斯登	lie zhi dun si deng
+刚果	gang guo
+刚果金	gang guo jin
+创可贴	chuang ke tie
+初中	chu zhong
+別亂說	bie luan shuo
+別亂講	bie luan jiang
+別出聲	bie chu sheng
+別在意	bie zai yi
+別墅	bie shu
+別墅區	bie shu qu
+別煩我	bie fan wo
+別理我	bie li wo
+別說	bie shuo
+別說了	bie shuo le
+別說話	bie shuo hua
+別針	bie zhen
+別騙我	bie pian wo
+刨冰	bao bing
+利是	li shi
+利比亚	li bi ya
+利比亞	li bi ya
+利比里亚	li bi li ya
+利比里亞	li bi li ya
+别乱讲	bie luan jiang
+别乱说	bie luan shuo
+别出声	bie chu sheng
+别在意	bie zai yi
+别墅	bie shu
+别墅区	bie shu qu
+别烦我	bie fan wo
+别理我	bie li wo
+别说	bie shuo
+别说了	bie shuo le
+别说话	bie shuo hua
+别针	bie zhen
+别骗我	bie pian wo
+刮胡刀	gua hu dao
+刮鬍刀	gua hu dao
+刺猥	ci wei
+剃头	ti tou
+剃头女	ti tou nv
+剃头男	ti tou nan
+剃頭	ti tou
+剃頭女	ti tou nv
+剃頭男	ti tou nan
+剃须刀	ti xu dao
+剃鬚刀	ti xu dao
+前	qian
+剑	jian
+剛果	gang guo
+剛果金	gang guo jin
+剪	jian
+剪刀	jian dao
+剪切板	jian qie ban
+剪发	jian fa
+剪发女	jian fa nv
+剪发男	jian fa nan
+剪头发	jian tou fa
+剪头发女	jian tou fa nv
+剪头发男	jian tou fa nan
+剪子	jian zi
+剪貼板	jian tie ban
+剪贴板	jian tie ban
+剪輯	jian ji
+剪辑	jian ji
+剪頭髮	jian tou fa
+剪頭髮女	jian tou fa nv
+剪頭髮男	jian tou fa nan
+剪髮	jian fa
+剪髮女	jian fa nv
+剪髮男	jian fa nan
+割	ge
+創可貼	chuang ke tie
+劍	jian
+力量	li liang
+办公楼	ban gong lou
+加	jia
+加冕	jia mian
+加冕女	jia mian nv
+加冕男	jia mian nan
+加密	jia mi
+加彭	jia peng
+加拿大	jia na da
+加油	jia you
+加油站	jia you zhan
+加納	jia na
+加纳	jia na
+加蓬	jia peng
+加那利群岛	jia na li qun dao
+加那利群島	jia na li qun dao
+动车	dong che
+助听器	zhu ting qi
+助聽器	zhu ting qi
+劳作	lao zuo
+劳动	lao dong
+劳工	lao gong
+劳工女	lao gong nv
+劳工男	lao gong nan
+势利	shi li
+勋章	xun zhang
+動車	dong che
+勝利	sheng li
+勞作	lao zuo
+勞動	lao dong
+勞工	lao gong
+勞工女	lao gong nv
+勞工男	lao gong nan
+勢利	shi li
+勳章	xun zhang
+勺	shao
+勾	gou
+勾选	gou xuan
+勾選	gou xuan
+勿丢垃圾	wu diu la ji
+勿扔垃圾	wu reng la ji
+勿扰	wu rao
+勿擾	wu rao
+包穀	bao gu
+包米	bao mi
+包装盒	bao zhuang he
+包裝盒	bao zhuang he
+包裹	bao guo
+包谷	bao gu
+匈牙利	xiong ya li
+匕手	bi shou
+化妆室	hua zhuang shi
+化妝室	hua zhuang shi
+化学	hua xue
+化学物质	hua xue wu zhi
+化學	hua xue
+化學物質	hua xue wu zhi
+化粧室	hua zhuang shi
+北朝鮮	bei chao xian
+北朝鲜	bei zhao xian
+北极熊	bei ji xiong
+北極熊	bei ji xiong
+北韓	bei han
+北韩	bei han
+北馬利安納群島	bei ma li an na qun dao
+北馬里亞納群島	bei ma li ya na qun dao
+北马利安纳群岛	bei ma li an na qun dao
+北马里亚纳群岛	bei ma li ya na qun dao
+匙	chi
+匯兌	hui dui
+医学	yi xue
+医生	yi sheng
+医生女	yi sheng nv
+医生男	yi sheng nan
+医疗	yi liao
+医神权杖	yi shen quan zhang
+医者	yi zhe
+医者女	yi zhe nv
+医者男	yi zhe nan
+医院	yi yuan
+匿名	ni ming
+十	shi
+十一点	shi yi dian
+十一点半	shi yi dian ban
+十一點	shi yi dian
+十一點半	shi yi dian ban
+十二点	shi er dian
+十二点半	shi er dian ban
+十二點	shi er dian
+十二點半	shi er dian ban
+十八禁	shi ba jin
+十字架	shi zi jia
+十字路口	shi zi lu kou
+十字鎬	shi zi gao
+十字镐	shi zi gao
+十点	shi dian
+十点半	shi dian ban
+十點	shi dian
+十點半	shi dian ban
+千里达及托巴哥	qian li da ji tuo ba ge
+千里達及托巴哥	qian li da ji tuo ba ge
+半兽人	ban shou ren
+半月	ban yue
+半獸人	ban shou ren
+华夫	hua fu
+华夫饼	hua fu bing
+单亲妈妈	dan qin ma ma
+单亲家庭	dan qin jia ting
+单亲爸爸	dan qin ba ba
+单峰骆驼	dan feng luo tuo
+单曲循环	dan qu xun huan
+单板	dan ban
+单板滑雪	dan ban hua xue
+单身母亲	dan shen mu qin
+单身父亲	dan shen fu qin
+单车	dan che
+单轨电车	dan gui dian che
+单选框	dan xuan kuang
+卖艺	mai yi
+卖艺女	mai yi nv
+卖艺男	mai yi nan
+卖萌	mai meng
+南乔治亚与南三明治群岛	nan qiao zhi ya yu nan san ming zhi qun dao
+南乔治亚和南桑威奇群岛	nan qiao zhi ya he nan sang wei qi qun dao
+南喬治亞和南桑威奇群島	nan qiao zhi ya he nan sang wei qi qun dao
+南喬治亞與南三明治群島	nan qiao zhi ya yu nan san ming zhi qun dao
+南帽	nan mao
+南朝鮮	nan chao xian
+南朝鲜	nan zhao xian
+南极	nan ji
+南极洲	nan ji zhou
+南極	nan ji
+南極洲	nan ji zhou
+南瓜	nan gua
+南瓜人	nan gua ren
+南瓜灯	nan gua deng
+南瓜燈	nan gua deng
+南瓜脸	nan gua lian
+南瓜臉	nan gua lian
+南苏丹	nan su dan
+南蘇丹	nan su dan
+南非	nan fei
+南韓	nan han
+南韩	nan han
+博士	bo shi
+博士女	bo shi nv
+博士男	bo shi nan
+博奈尔	bo nai er
+博奈爾	bo nai er
+博茨瓦纳	bo ci wa na
+卡塔尔	ka ta er
+卡塔爾	ka ta er
+卡士达	ka shi da
+卡士達	ka shi da
+卡車	ka che
+卡车	ka che
+卡达	ka da
+卡達	ka da
+卢安达	lu an da
+卢旺达	lu wang da
+卢森堡	lu sen bao
+卤煮	lu zhu
+卫士	wei shi
+卫士女	wei shi nv
+卫士男	wei shi nan
+卫星	wei xing
+卫生纸	wei sheng zhi
+卫生间	wei sheng jian
+卫门	wei men
+卫门女	wei men nv
+卫门男	wei men nan
+印尼	yin ni
+印度	yin du
+印度寺庙	yin du si miao
+印度寺廟	yin du si miao
+印度尼西亚	yin du ni xi ya
+印度尼西亞	yin du ni xi ya
+印度庙	yin du miao
+印度廟	yin du miao
+印度教	yin du jiao
+印度神庙	yin du shen miao
+印度神廟	yin du shen miao
+危地馬拉	wei di ma la
+危地马拉	wei di ma la
+危险	wei xian
+危險	wei xian
+卷动	juan dong
+卷发	juan fa
+卷发女	juan fa nv
+卷发男	juan fa nan
+卷纸	juan zhi
+卷虾	juan xia
+卷饼	juan bing
+厄利垂亚	e li chui ya
+厄利垂亞	e li chui ya
+厄瓜多	e gua duo
+厄瓜多尔	e gua duo er
+厄瓜多爾	e gua duo er
+厄立特里亚	e li te li ya
+厄立特里亞	e li te li ya
+厉害	li hai
+压缩	ya suo
+压路机	ya lu ji
+厕所	ce suo
+厕所泵	ce suo beng
+原子	yuan zi
+原子弹	yuan zi dan
+原子彈	yuan zi dan
+原子笔	yuan zi bi
+原子筆	yuan zi bi
+原子能	yuan zi neng
+原諒我	yuan liang wo
+原谅我	yuan liang wo
+厨子	chu zi
+厨子女	chu zi nv
+厨子男	chu zi nan
+厨师	chu shi
+厨师女	chu shi nv
+厨师男	chu shi nan
+厲害	li hai
+去氧核糖核酸	qu yang he tang he suan
+参禅	can chan
+参禅女	can chan nv
+参禅男	can chan nan
+參禪	can shan
+參禪女	can shan nv
+參禪男	can shan nan
+叉	cha
+叉叉	cha cha
+友誼	you yi
+友谊	you yi
+双人	shuang ren
+双叹号	shuang tan hao
+双子座	shuang zi zuo
+双峰骆驼	shuang feng luo tuo
+双板	shuang ban
+双板滑雪	shuang ban hua xue
+双目	shuang mu
+双眼	shuang yan
+双肩包	shuang jian bao
+双胞	shuang bao
+双胞胎	shuang bao tai
+双鱼座	shuang yu zuo
+发件匣	fa jian xia
+发件箱	fa jian xiang
+发火	fa huo
+发烧	fa shao
+发狂	fa kuang
+发票	fa piao
+发誓	fa shi
+取款	qu kuan
+取款机	qu kuan ji
+取款機	qu kuan ji
+取錢	qu qian
+取钱	qu qian
+受伤	shou shang
+受伤了	shou shang le
+受傷	shou shang
+受傷了	shou shang le
+叙利亚	xu li ya
+口	kou
+口岸	kou an
+口紅	kou hong
+口红	kou hong
+口罩	kou zhao
+古堡	gu bao
+古巴	gu ba
+可	ke
+可乐	ke le
+可以	ke yi
+可回收	ke hui shou
+可怕	ke pa
+可怜	ke lian
+可惜	ke xi
+可愛	ke ai
+可憐	ke lian
+可樂	ke le
+可爱	ke ai
+可真	ke zhen
+台历	tai li
+台式机	tai shi ji
+台湾	tai wan
+台灣	tai wan
+台球	tai qiu
+台风	tai feng
+史巴克	shi ba ke
+史波克	shi bo ke
+史瓦济兰	shi wa ji lan
+史瓦濟蘭	shi wa ji lan
+右	you
+右上	you shang
+右下	you xia
+右勾拳	you gou quan
+右手边	you shou bian
+右手邊	you shou bian
+右拳	you quan
+右边	you bian
+右邊	you bian
+右面	you mian
+叶门	ye men
+司南	si nan
+叹号	tan hao
+叹气	tan qi
+叹问号	tan wen hao
+叻仔	le zi
+叻女	le nv
+吃吧	chi ba
+吃面	chi mian
+吃饭	chi fan
+合	he
+合什	he shi
+合作	he zuo
+吉他	ji ta
+吉士	ji shi
+吉它	ji ta
+吉尔吉斯	ji er ji si
+吉尔吉斯斯坦	ji er ji si si tan
+吉布地	ji bu di
+吉布提	ji bu ti
+吉爾吉斯	ji er ji si
+吉爾吉斯斯坦	ji er ji si si tan
+吉里巴斯	ji li ba si
+同学	tong xue
+同学女	tong xue nv
+同学男	tong xue nan
+同學	tong xue
+同學女	tong xue nv
+同學男	tong xue nan
+同志	tong zhi
+同性恋	tong xing lian
+同性戀	tong xing lian
+后	hou
+吐	tu
+吐司	tu si
+吐瓦魯	tu wa lu
+吐瓦鲁	tu wa lu
+吐舌	tu she
+吐舌头	tu she tou
+吐舌頭	tu she tou
+向上	xiang shang
+向下	xiang xia
+向右	xiang you
+向左	xiang zuo
+向日葵	xiang ri kui
+向錢看	xiang qian kan
+向钱看	xiang qian kan
+吓	xia
+吓人	xia ren
+吓死	xia si
+吕宋	lv song
+含蓄	han xu
+听不下去	ting bu xia qu
+听不懂	ting bu dong
+听不见	ting bu jian
+听不见女	ting bu jian nv
+听不见男	ting bu jian nan
+听唔到	ting wu dao
+听诊器	ting zhen qi
+听音乐	ting yin yue
+吸把	xi ba
+吸血鬼	xi xue gui
+吸血鬼女	xi xue gui nv
+吸血鬼男	xi xue gui nan
+吹	chui
+吹气	chui qi
+吹氣	chui qi
+吹風	chui feng
+吹风	chui feng
+吻	wen
+吻你	wen ni
+呂宋	lv song
+呃	e
+呜呜	wu wu
+呜呜呜	wu wu wu
+呲牙	zi ya
+呵呵	he he
+呵护	he hu
+呵護	he hu
+呼机	hu ji
+呼機	hu ji
+命中	ming zhong
+和平	he ping
+和平鴿	he ping ge
+和平鸽	he ping ge
+和服	he fu
+咖啡	ka fei
+咖喱飯	ga li fan
+咖喱饭	ka li fan
+咦	yi
+咧嘴	lie zui
+咨询	zi xun
+咬唇	yao chun
+咬嘴唇	yao zui chun
+哀悼	ai dao
+哆嗦	duo suo
+哇	wa
+哇哦	wa o
+哇喔	wa o
+哈	ha
+哈哈	ha ha
+哈哈哈	ha ha ha
+哈哈哈哈	ha ha ha ha
+哈密瓜	ha mi gua
+哈欠	ha qian
+哈萨克	ha sa ke
+哈萨克斯坦	ha sa ke si tan
+哈薩克	ha sa ke
+哈薩克斯坦	ha sa ke si tan
+哈雷彗星	ha lei hui xing
+响指	xiang zhi
+响铃	xiang ling
+哎	ai
+哟	yo
+哥伦比亚	ge lun bi ya
+哥俩	ge liang
+哥俩好	ge liang hao
+哥倆	ge liang
+哥倆好	ge liang hao
+哥倫比亞	ge lun bi ya
+哥妹	ge mei
+哥弟	ge di
+哥斯大黎加	ge si da li jia
+哥斯达黎加	ge si da li jia
+哥斯達黎加	ge si da li jia
+哦	o
+哦哦	o o
+哦耶	o ye
+哭	ku
+哭了	ku le
+哭泣	ku qi
+哭笑	ku xiao
+哺乳	bu ru
+哼	heng
+唇	chun
+唇印	chun yin
+唇彩	chun cai
+唇膏	chun gao
+唉	ai
+唓	che
+唔关我事	wu guan wo shi
+唔关我事女	wu guan wo shi nv
+唔关我事男	wu guan wo shi nan
+唔好意思	wu hao yi si
+唔好講	wu hao jiang
+唔好讲	wu hao jiang
+唔明	wu ming
+唔畀听	wu bi ting
+唔畀睇	wu bi di
+唔畀聽	wu bi ting
+唔畀講	wu bi jiang
+唔畀讲	wu bi jiang
+唔知	wu zhi
+唔知女	wu zhi nv
+唔知男	wu zhi nan
+唔關我事	wu guan wo shi
+唔關我事女	wu guan wo shi nv
+唔關我事男	wu guan wo shi nan
+唯利是图	wei li shi tu
+唯利是圖	wei li shi tu
+唱	chang
+唱歌	chang ge
+唵	an
+商场	shang chang
+商場	shang chang
+商标	shang biao
+商標	shang biao
+商販	shang fan
+商贩	shang fan
+啊	a
+啊嚏	a ti
+問嘆號	wen tan hao
+問號	wen hao
+啤酒	pi jiu
+啥也沒說	sha ye mei shuo
+啥也没说	sha ye mei shuo
+啥啊	sha a
+啦啦队	la la dui
+啦啦队女	la la dui nv
+啦啦队男	la la dui nan
+啦啦隊	la la dui
+啦啦隊女	la la dui nv
+啦啦隊男	la la dui nan
+喀麥隆	ka mai long
+喀麦隆	ka mai long
+喂奶	wei nai
+喂奶女	wei nai nv
+喂奶男	wei nai nan
+喇叭	la ba
+喊	han
+喊話	han hua
+喊话	han hua
+喔	o
+喔耶	o ye
+喜愛	xi ai
+喜欢	xi huan
+喜欢你	xi huan ni
+喜歡	xi huan
+喜歡你	xi huan ni
+喜爱	xi ai
+喜馬紅	xi ma hong
+喜马红	xi ma hong
+喝采	he cai
+喧哗	xuan hua
+喧嘩	xuan hua
+喫吧	chi ba
+喫飯	chi fan
+喫麵	chi mian
+喬治亞	qiao zhi ya
+單峰駱駝	dan feng luo tuo
+單曲循環	dan qu xun huan
+單板	dan ban
+單板滑雪	dan ban hua xue
+單親媽媽	dan qin ma ma
+單親家庭	dan qin jia ting
+單親爸爸	dan qin ba ba
+單身母親	dan shen mu qin
+單身父親	dan shen fu qin
+單車	dan che
+單軌電車	dan gui dian che
+單選框	dan xuan kuang
+喲	yo
+営	ying
+喷嚏	pen ti
+喷头	pen tou
+喷气	pen qi
+喷泉	pen quan
+嗚嗚	wu wu
+嗚嗚嗚	wu wu wu
+嗯	ng
+嗯哼	ng heng
+嗯嗯	ng ng
+嘆問號	tan wen hao
+嘆氣	tan qi
+嘆號	tan hao
+嘘	xu
+嘟嘴	du zui
+嘪	mai
+嘴	zui
+嘴唇	zui chun
+嘻嘻	xi xi
+嘿嘿	hei hei
+噁心	e xin
+噓	xu
+噘嘴	jue zui
+噘嘴女	jue zui nv
+噘嘴男	jue zui nan
+噢	o
+噢噢	o o
+噢耶	o ye
+噴嚏	pen ti
+噴氣	pen qi
+噴泉	pen quan
+噴頭	pen tou
+嚇人	he ren
+嚇死	he si
+四	si
+四叶草	si ye cao
+四点	si dian
+四点半	si dian ban
+四脚蛇	si jiao she
+四腳蛇	si jiao she
+四葉草	si ye cao
+四點	si dian
+四點半	si dian ban
+回到开始	hui dao kai shi
+回到開始	hui dao kai shi
+回到頂部	hui dao ding bu
+回到顶部	hui dao ding bu
+回力镖	hui li biao
+回形針	hui xing zhen
+回形针	hui xing zhen
+回收	hui shou
+回旋镖	hui xuan biao
+回族	hui zu
+回民	hui min
+囧	jiong
+困	kun
+困了	kun le
+困觉	kun jiao
+围巾	wei jin
+围脖	wei bo
+国家公园	guo jia gong yuan
+国际	guo ji
+国际象棋	guo ji xiang qi
+图瓦卢	tu wa lu
+图钉	tu ding
+圆圈	yuan quan
+圆月	yuan yue
+圆珠笔	yuan zhu bi
+圈圈	quan quan
+國家公園	guo jia gong yuan
+國際	guo ji
+國際象棋	guo ji xiang qi
+圍巾	wei jin
+圍脖	wei bo
+圓圈	yuan quan
+圓月	yuan yue
+圓珠筆	yuan zhu bi
+圖瓦盧	tu wa lu
+圖釘	tu ding
+土克斯及开科斯群岛	tu ke si ji kai ke si qun dao
+土克斯及開科斯群島	tu ke si ji kai ke si qun dao
+土库曼	tu ku man
+土库曼斯坦	tu ku man si tan
+土庫曼	tu ku man
+土庫曼斯坦	tu ku man si tan
+土星	tu xing
+土耳其	tu er qi
+土豆	tu dou
+土豪	tu hao
+圣佑达修斯	sheng you da xiu si
+圣克里斯多福及尼维斯	sheng ke li si duo fu ji ni wei si
+圣卢西亚	sheng lu xi ya
+圣基茨和尼维斯	sheng ji ci he ni wei si
+圣多美和普林西比	sheng duo mei he pu lin xi bi
+圣多美普林西比	sheng duo mei pu lin xi bi
+圣婴	sheng ying
+圣尤斯特歇斯	sheng you si te xie si
+圣巴泰勒米	sheng ba tai le mi
+圣巴瑟米	sheng ba se mi
+圣文森及格瑞那丁	sheng wen sen ji ge rui na ding
+圣文森特和格林纳丁斯	sheng wen sen te he ge lin na ding si
+圣皮埃尔和密克隆	sheng pi ai er he mi ke long
+圣皮耶与密克隆	sheng pi ye yu mi ke long
+圣诞奶奶	sheng dan nai nai
+圣诞岛	sheng dan dao
+圣诞树	sheng dan shu
+圣诞老人	sheng dan lao ren
+圣诞老奶奶	sheng dan lao nai nai
+圣诞老爷爷	sheng dan lao ye ye
+圣赫伦那	sheng he lun na
+圣赫勒拿	sheng he le na
+圣露西亚	sheng lou xi ya
+圣马利诺	sheng ma li nuo
+圣马力诺	sheng ma li nuo
+在建	zai jian
+圭亚那	gui ya na
+圭亞那	gui ya na
+地下鐵	di xia tie
+地下铁	di xia tie
+地图	di tu
+地圖	di tu
+地球	di qiu
+地瓜	di gua
+地鐵	di tie
+地铁	di tie
+坏蛋	huai dan
+坏蛋女	huai dan nv
+坏蛋男	huai dan nan
+坐車	zuo che
+坐车	zuo che
+坚强	jian qiang
+坞	wu
+坟	fen
+坟地	fen di
+坟墓	fen mu
+坦尚尼亚	tan shang ni ya
+坦尚尼亞	tan shang ni ya
+坦桑尼亚	tan sang ni ya
+坦桑尼亞	tan sang ni ya
+垂斯坦昆哈	chui si tan kun ha
+垃圾	la ji
+垃圾桶	la ji tong
+垃圾筒	la ji tong
+垒球	lei qiu
+埃及	ai ji
+埃塞俄比亚	ai sai e bi ya
+埃塞俄比亞	ai sai e bi ya
+城堡	cheng bao
+城市	cheng shi
+培养基	pei yang ji
+培养皿	pei yang min
+培根	pei gen
+培養基	pei yang ji
+培養皿	pei yang min
+基佬	ji lao
+基因	ji yin
+基林	ji lin
+基督教	ji du jiao
+基里巴斯	ji li ba si
+堅強	jian qiang
+堆雪人	dui xue ren
+堡垒	bao lei
+堡壘	bao lei
+報紙	bao zhi
+報表	bao biao
+報警	bao jing
+塔可	ta ke
+塔吉克	ta ji ke
+塔吉克斯坦	ta ji ke si tan
+塗指甲	tu zhi jia
+塞內加爾	sai nei jia er
+塞内加尔	sai nei jia er
+塞尔维亚	sai er wei ya
+塞席尔	sai xi er
+塞席爾	sai xi er
+塞拉利昂	sai la li ang
+塞浦路斯	sai pu lu si
+塞爾維亞	sai er wei ya
+塞舌尔	sai she er
+塞舌爾	sai she er
+塞著	sai zhu
+塢	wu
+墓	mu
+墓碑	mu bei
+墙砖	qiang zhuan
+增高	zeng gao
+墨西哥	mo xi ge
+墨西哥卷	mo xi ge juan
+墨西哥卷饼	mo xi ge juan bing
+墨西哥捲	mo xi ge juan
+墨西哥捲餅	mo xi ge juan bing
+墨西哥粽	mo xi ge zong
+墨西哥糉	mo xi ge zong
+墨鏡	mo jing
+墨镜	mo jing
+墨魚	mo yu
+墨鱼	mo yu
+墳	fen
+墳地	fen di
+墳墓	fen mu
+壁炉钟	bi lu zhong
+壁爐鐘	bi lu zhong
+壁虎	bi hu
+壓縮	ya suo
+壓路機	ya lu ji
+壘球	lei qiu
+壞蛋	huai dan
+壞蛋女	huai dan nv
+壞蛋男	huai dan nan
+士多啤梨	shi duo pi li
+壶	hu
+壺	hu
+壽司	shou si
+处女座	chu nv zuo
+备忘录	bei wang lu
+复杂	fu za
+复选框	fu xuan kuang
+外匯	wai hui
+外卖	wai mai
+外套	wai tao
+外星人	wai xing ren
+外汇	wai hui
+外蒙	wai meng
+外蒙古	wai meng gu
+外賣	wai mai
+多云	duo yun
+多云间晴	duo yun jian qing
+多哥	duo ge
+多明尼加	duo ming ni jia
+多米尼克	duo mi ni ke
+多米尼加	duo mi ni jia
+多选框	duo xuan kuang
+多選框	duo xuan kuang
+多雲	duo yun
+多雲間晴	duo yun jian qing
+夜	ye
+夜总会	ye zong hui
+夜晚	ye wan
+夜景	ye jing
+夜總會	ye zong hui
+夜色	ye se
+夜間的橋	ye jian de qiao
+夜间的桥	ye jian de qiao
+大不列顛	da bu lie dian
+大不列颠	da bu lie dian
+大人	da ren
+大便	da bian
+大写字母	da xie zi mu
+大厦	da sha
+大厨	da chu
+大厨女	da chu nv
+大厨男	da chu nan
+大哭	da ku
+大喊	da han
+大声	da sheng
+大头钉	da tou ding
+大学生	da xue sheng
+大学生女	da xue sheng nv
+大学生男	da xue sheng nan
+大學生	da xue sheng
+大學生女	da xue sheng nv
+大學生男	da xue sheng nan
+大寫字母	da xie zi mu
+大巴	da ba
+大幅增高	da fu zeng gao
+大幅降低	da fu jiang di
+大廈	da sha
+大廚	da chu
+大廚女	da chu nv
+大廚男	da chu nan
+大恩	da en
+大恩大德	da en da de
+大拇指	da mu zhi
+大楼	da lou
+大樓	da lou
+大法官	da fa guan
+大法官女	da fa guan nv
+大法官男	da fa guan nan
+大洋洲	da yang zhou
+大浪	da lang
+大漠	da mo
+大灰狼	da hui lang
+大熊猫	da xiong mao
+大熊貓	da xiong mao
+大状	da zhuang
+大状女	da zhuang nv
+大状男	da zhuang nan
+大狀	da zhuang
+大狀女	da zhuang nv
+大狀男	da zhuang nan
+大猩猩	da xing xing
+大白菜	da bai cai
+大笑	da xiao
+大老鼠	da lao shu
+大聲	da sheng
+大肚子	da du zi
+大肚子女	da du zi nv
+大肚子男	da du zi nan
+大胡子	da hu zi
+大胡子女	da hu zi nv
+大胡子男	da hu zi nan
+大脑	da nao
+大腦	da nao
+大腿	da tui
+大英	da ying
+大蒜	da suan
+大虾	da xia
+大蝦	da xia
+大衣	da yi
+大象	da xiang
+大閘蟹	da zha xie
+大闸蟹	da zha xie
+大陆	da lu
+大陸	da lu
+大雨	da yu
+大雪	da xue
+大韓民國	da han min guo
+大韩民国	da han min guo
+大頭釘	da tou ding
+大餅	da bing
+大饼	da bing
+大馬	da ma
+大马	da ma
+大鬍子	da hu zi
+大鬍子女	da hu zi nv
+大鬍子男	da hu zi nan
+大麻烦	da ma fan
+大麻烦女	da ma fan nv
+大麻烦男	da ma fan nan
+大麻煩	da ma fan
+大麻煩女	da ma fan nv
+大麻煩男	da ma fan nan
+天主教堂	tian zhu jiao tang
+天使	tian shi
+天吶	tian na
+天呐	tian na
+天啊	tian a
+天妇罗	tian fu luo
+天婦羅	tian fu luo
+天平	tian ping
+天房	tian fang
+天才	tian cai
+天晴	tian qing
+天枰座	tian ping zuo
+天秤座	tian cheng zuo
+天線	tian xian
+天线	tian xian
+天蝎座	tian xie zuo
+天蠍座	tian xie zuo
+天阴	tian yin
+天陰	tian yin
+天鵝	tian e
+天鹅	tian e
+太可怕	tai ke pa
+太好了	tai hao le
+太好了女	tai hao le nv
+太好了男	tai hao le nan
+太子	tai zi
+太感謝	tai gan xie
+太感谢	tai gan xie
+太极	tai ji
+太極	tai ji
+太热	tai re
+太熱	tai re
+太空人	tai kong ren
+太空人女	tai kong ren nv
+太空人男	tai kong ren nan
+太阳	tai yang
+太阳㡌	tai yang mao
+太阳伞	tai yang san
+太阳神	tai yang shen
+太阳花	tai yang hua
+太阳菊	tai yang ju
+太阳镜	tai yang jing
+太阴	tai yin
+太陰	tai yin
+太陽	tai yang
+太陽㡌	tai yang mao
+太陽傘	tai yang san
+太陽神	tai yang shen
+太陽花	tai yang hua
+太陽菊	tai yang ju
+太陽鏡	tai yang jing
+太难	tai nan
+太难了	tai nan le
+太難	tai nan
+太難了	tai nan le
+夫妇	fu fu
+夫妻	fu qi
+夫婦	fu fu
+失恋	shi lian
+失戀	shi lian
+失望	shi wang
+头名	tou ming
+头大	tou da
+头大女	tou da nv
+头大男	tou da nan
+头巾	tou jin
+头巾女	tou jin nv
+头巾男	tou jin nan
+头疼	tou teng
+头疼女	tou teng nv
+头疼男	tou teng nan
+头盔	tou kui
+头骨	tou gu
+奇异果	qi yi guo
+奇異果	qi yi guo
+奈及利亚	nai ji li ya
+奈及利亞	nai ji li ya
+奔跑	ben pao
+奔跑女	ben pao nv
+奔跑男	ben pao nan
+奔馬	ben ma
+奔马	ben ma
+奖杯	jiang bei
+奖牌	jiang pai
+奖章	jiang zhang
+奖项	jiang xiang
+套娃	tao wa
+套餐	tao can
+奥兰群岛	ao lan qun dao
+奥地利	ao di li
+奧地利	ao di li
+奧蘭群島	ao lan qun dao
+女人	nv ren
+女仔	nv zi
+女儿	nv er
+女儿节	nv er jie
+女兒	nv er
+女兒節	nv er jie
+女厕	nv ce
+女双胞胎	nv shuang bao tai
+女同	nv tong
+女同性恋	nv tong xing lian
+女同性戀	nv tong xing lian
+女子	nv zi
+女孩	nv hai
+女工	nv gong
+女帽	nv mao
+女廁	nv ce
+女性	nv xing
+女星	nv xing
+女王	nv wang
+女穆斯林	nv mu si lin
+女童	nv tong
+女装	nv zhuang
+女裝	nv zhuang
+女雙胞胎	nv shuang bao tai
+女鞋	nv xie
+奶	nai
+奶奶	nai nai
+奶油面包	nai you mian bao
+奶油麵包	nai you mian bao
+奶牛	nai niu
+奶瓶	nai ping
+奶茶	nai cha
+奶酪	nai lao
+奶酪火鍋	nai lao huo guo
+奶酪火锅	nai lao huo guo
+奶黃	nai huang
+奶黄	nai huang
+奸笑	jian xiao
+她	ta
+她们	ta men
+她們	ta men
+好	hao
+好㖿	hao xie
+好假	hao jia
+好劲	hao jin
+好勁	hao jin
+好可怕	hao ke pa
+好叻	hao le
+好吃	hao chi
+好吧	hao ba
+好味	hao wei
+好啊	hao a
+好喫	hao chi
+好嘢	hao ye
+好囧	hao jiong
+好复杂	hao fu za
+好奇	hao qi
+好好笑	hao hao xiao
+好学生	hao xue sheng
+好學生	hao xue sheng
+好无聊	hao wu liao
+好棒	hao bang
+好热	hao re
+好無聊	hao wu liao
+好熱	hao re
+好玩	hao wan
+好的	hao de
+好窘	hao jiong
+好笑	hao xiao
+好糾結	hao jiu jie
+好纠结	hao jiu jie
+好萌	hao meng
+好複雜	hao fu za
+好評	hao ping
+好讚	hao zan
+好评	hao ping
+好赞	hao zan
+好难	hao nan
+好难过	hao nan guo
+好難	hao nan
+好難過	hao nan guo
+如厕	ru ce
+如廁	ru ce
+妃	fei
+妃嫔	fei pin
+妃嬪	fei pin
+妃子	fei zi
+妈	ma
+妈咪	ma mi
+妈妈	ma ma
+妈屄	ma bi
+妈的	ma de
+妊娠	ren shen
+妊娠女	ren shen nv
+妊娠男	ren shen nan
+妖怪	yao guai
+妖物	yao wu
+妖精	yao jing
+妻	qi
+妻子	qi zi
+姊妹	zi mei
+姊弟	zi di
+姐妹	jie mei
+姐弟	jie di
+委內瑞拉	wei nei rui la
+委内瑞拉	wei nei rui la
+委屈	wei qu
+委屈女	wei qu nv
+委屈男	wei qu nan
+姥姥	lao lao
+姥爷	mu ye
+姥爺	mu ye
+威士忌	wei shi ji
+威尔士	wei er shi
+威爾士	wei er shi
+娃	wa
+娃娃	wa wa
+娥眉月	e mei yue
+婗	ni
+婚礼	hun li
+婚禮	hun li
+婚紗	hun sha
+婚紗男	hun sha nan
+婚纱	hun sha
+婚纱男	hun sha nan
+婴	ying
+婴儿	ying er
+婴儿厕所	ying er ce suo
+婴孩	ying hai
+媽	ma
+媽咪	ma mi
+媽媽	ma ma
+媽屄	ma bi
+媽的	ma de
+嫔妃	pin fei
+嬪妃	pin fei
+嬰	ying
+嬰兒	ying er
+嬰兒廁所	ying er ce suo
+嬰孩	ying hai
+子弹头	zi dan tou
+子彈頭	zi dan tou
+孔雀	kong que
+孕妇	yun fu
+孕婦	yun fu
+字母	zi mu
+存入手机	cun ru shou ji
+存入手機	cun ru shou ji
+孙女	sun nv
+孙子	sun zi
+孟加拉	meng jia la
+孟加拉国	meng jia la guo
+孟加拉國	meng jia la guo
+季军	ji jun
+季軍	ji jun
+学士	xue shi
+学士女	xue shi nv
+学士帽	xue shi mao
+学士男	xue shi nan
+学姐	xue jie
+学校	xue xiao
+学生	xue sheng
+学生女	xue sheng nv
+学生男	xue sheng nan
+学长	xue zhang
+孩子	hai zi
+孫女	sun nv
+孫子	sun zi
+孵化	fu hua
+孵化器	fu hua qi
+學士	xue shi
+學士女	xue shi nv
+學士帽	xue shi mao
+學士男	xue shi nan
+學姐	xue jie
+學校	xue xiao
+學生	xue sheng
+學生女	xue sheng nv
+學生男	xue sheng nan
+學長	xue chang
+宅	zhai
+宅女	zhai nv
+宅男	zhai nan
+宇航员	yu hang yuan
+宇航员女	yu hang yuan nv
+宇航员男	yu hang yuan nan
+宇航員	yu hang yuan
+宇航員女	yu hang yuan nv
+宇航員男	yu hang yuan nan
+守卫	shou wei
+守卫女	shou wei nv
+守卫男	shou wei nan
+守衛	shou wei
+守衛女	shou wei nv
+守衛男	shou wei nan
+安全帽	an quan mao
+安哥拉	an ge la
+安圭拉	an gui la
+安地卡及巴布达	an di ka ji ba bu da
+安地卡及巴布達	an di ka ji ba bu da
+安慰	an wei
+安提瓜和巴布达	an ti gua he ba bu da
+安提瓜和巴布達	an ti gua he ba bu da
+安静	an jing
+安靜	an jing
+完了	wan le
+宏都拉斯	hong du la si
+定食	ding shi
+宝石	bao shi
+宝贝	bao bei
+实验服	shi yan fu
+宠物犬	chong wu quan
+宠物狗	chong wu gou
+客气	ke qi
+客氣	ke qi
+客輪	ke lun
+客轮	ke lun
+宣誓	xuan shi
+宫灯	gong deng
+宮燈	gong deng
+害羞	hai xiu
+家	jia
+宽度	kuan du
+宾馆	bin guan
+密克罗尼西亚	mi ke luo ni xi ya
+密克羅尼西亞	mi ke luo ni xi ya
+密码	mi ma
+密碼	mi ma
+密鑰	mi yue
+密钥	mi yue
+富士山	fu shi shan
+寒冷	han leng
+實驗服	shi yan fu
+寫	xie
+寫作	xie zuo
+寫作業	xie zuo ye
+寫信	xie xin
+寫字	xie zi
+寫字樓	xie zi lou
+寬度	kuan du
+寮国	liao guo
+寮國	liao guo
+寵物犬	chong wu quan
+寵物狗	chong wu gou
+寶石	bao shi
+寶貝	bao bei
+对上	dui shang
+对不对	dui bu dui
+对不起	dui bu qi
+对决	dui jue
+对比	dui bi
+对白	dui bai
+对话框	dui hua kuang
+寺庙	si miao
+寺廟	si miao
+寺院	si yuan
+导入手机	dao ru shou ji
+导弹	dao dan
+导盲杖	dao mang zhang
+导盲犬	dao mang quan
+寿司	shou si
+封口	feng kou
+封路	feng lu
+射手座	she shou zuo
+射箭	she jian
+專家	zhuan jia
+專家女	zhuan jia nv
+專家男	zhuan jia nan
+對上	dui shang
+對不對	dui bu dui
+對不起	dui bu qi
+對比	dui bi
+對決	dui jue
+對白	dui bai
+對話框	dui hua kuang
+導入手機	dao ru shou ji
+導彈	dao dan
+導盲杖	dao mang zhang
+導盲犬	dao mang quan
+小三角	xiao san jiao
+小丑	xiao chou
+小写字母	xiao xie zi mu
+小包	xiao bao
+小区	xiao qu
+小區	xiao qu
+小声	xiao sheng
+小学	xiao xue
+小孩	xiao hai
+小學	xiao xue
+小寫字母	xiao xie zi mu
+小岛	xiao dao
+小島	xiao dao
+小巴	xiao ba
+小強	xiao qiang
+小强	xiao qiang
+小心儿童	xiao xin er tong
+小心兒童	xiao xin er tong
+小憩	xiao qi
+小推車	xiao tui che
+小推车	xiao tui che
+小提琴	xiao ti qin
+小方块	xiao fang kuai
+小方塊	xiao fang kuai
+小样	xiao yang
+小樣	xiao yang
+小气	xiao qi
+小气鬼	xiao qi gui
+小氣	xiao qi
+小氣鬼	xiao qi gui
+小白兔	xiao bai tu
+小白方	xiao bai fang
+小白鼠	xiao bai shu
+小票	xiao piao
+小童	xiao tong
+小童厕所	xiao tong ce suo
+小童廁所	xiao tong ce suo
+小聲	xiao sheng
+小菱形	xiao ling xing
+小蛋糕	xiao dan gao
+小行星	xiao xing xing
+小說	xiao shuo
+小说	xiao shuo
+小販	xiao fan
+小贩	xiao fan
+小轎車	xiao jiao che
+小轿车	xiao jiao che
+小醜	xiao chou
+小雞	xiao ji
+小飛機	xiao fei ji
+小飞机	xiao fei ji
+小魚	xiao yu
+小鱼	xiao yu
+小鳥	xiao niao
+小鸟	xiao niao
+小鸡	xiao ji
+小黑方	xiao hei fang
+小鼠	xiao shu
+少儿不宜	shao er bu yi
+少兒不宜	shao er bu yi
+少許	shao xu
+少许	shao xu
+尚比亚	shang bi ya
+尚比亞	shang bi ya
+就那样	jiu na yang
+就那樣	jiu na yang
+尺	chi
+尺子	chi zi
+尼加拉瓜	ni jia la gua
+尼日	ni ri
+尼日利亚	ni ri li ya
+尼日利亞	ni ri li ya
+尼日尔	ni ri er
+尼日爾	ni ri er
+尼泊尔	ni bo er
+尼泊爾	ni bo er
+屁	pi
+屋	wu
+屋企	wu qi
+屎	shi
+属兔	shu tu
+属牛	shu niu
+属狗	shu gou
+属猪	shu zhu
+属猫	shu mao
+属猴	shu hou
+属虎	shu hu
+属蛇	shu she
+属马	shu ma
+属鸡	shu ji
+属鼠	shu shu
+属龙	shu long
+屬兔	shu tu
+屬牛	shu niu
+屬狗	shu gou
+屬猴	shu hou
+屬虎	shu hu
+屬蛇	shu she
+屬豬	shu zhu
+屬貓	shu mao
+屬雞	shu ji
+屬馬	shu ma
+屬鼠	shu shu
+屬龍	shu long
+山	shan
+山地单车	shan di dan che
+山地单车女	shan di dan che nv
+山地单车男	shan di dan che nan
+山地單車	shan di dan che
+山地單車女	shan di dan che nv
+山地單車男	shan di dan che nan
+山地自行車	shan di zi xing che
+山地自行車女	shan di zi xing che nv
+山地自行車男	shan di zi xing che nan
+山地自行车	shan di zi xing che
+山地自行车女	shan di zi xing che nv
+山地自行车男	shan di zi xing che nan
+山地車	shan di che
+山地車女	shan di che nv
+山地車男	shan di che nan
+山地车	shan di che
+山地车女	shan di che nv
+山地车男	shan di che nan
+山地騎行	shan di qi hang
+山地騎行女	shan di qi hang nv
+山地騎行男	shan di qi hang nan
+山地骑行	shan di qi hang
+山地骑行女	shan di qi hang nv
+山地骑行男	shan di qi hang nan
+山岭	shan ling
+山峰	shan feng
+山嶺	shan ling
+山水	shan shui
+山羊	shan yang
+山脈	shan mai
+山脉	shan mai
+山軌	shan gui
+山轨	shan gui
+山頂纜車	shan ding lan che
+山顶缆车	shan ding lan che
+岛	dao
+岛国	dao guo
+岛屿	dao yu
+岡比亞	gang bi ya
+岩石	yan shi
+島	dao
+島國	dao guo
+島嶼	dao yu
+崇拜	chong bai
+崇拜女	chong bai nv
+崇拜男	chong bai nan
+巢	chao
+工人	gong ren
+工人女	gong ren nv
+工人男	gong ren nan
+工具盒	gong ju he
+工具箱	gong ju xiang
+工厂	gong chang
+工地	gong di
+工字釘	gong zi ding
+工字钉	gong zi ding
+工廠	gong chang
+工程师	gong cheng shi
+工程师女	gong cheng shi nv
+工程师男	gong cheng shi nan
+工程師	gong cheng shi
+工程師女	gong cheng shi nv
+工程師男	gong cheng shi nan
+工薪阶层	gong xin jie ceng
+工薪阶层女	gong xin jie ceng nv
+工薪阶层男	gong xin jie ceng nan
+工薪階層	gong xin jie ceng
+工薪階層女	gong xin jie ceng nv
+工薪階層男	gong xin jie ceng nan
+左	zuo
+左上	zuo shang
+左下	zuo xia
+左勾拳	zuo gou quan
+左手边	zuo shou bian
+左手邊	zuo shou bian
+左拳	zuo quan
+左边	zuo bian
+左邊	zuo bian
+左面	zuo mian
+巧克力	qiao ke li
+巧克力圈	qiao ke li quan
+巧克力棒	qiao ke li bang
+巧克力餅	qiao ke li bing
+巧克力饼	qiao ke li bing
+巨石像	ju shi xiang
+巨蟹座	ju xie zuo
+巨魔	ju mo
+差	cha
+差人	cha ren
+差人女	cha ren nv
+差人男	cha ren nan
+差佬	cha lao
+巴勒斯坦	ba le si tan
+巴哈馬	ba ha ma
+巴哈马	ba ha ma
+巴基斯坦	ba ji si tan
+巴士	ba shi
+巴士站	ba shi zhan
+巴巴多斯	ba ba duo si
+巴布亚新几内亚	ba bu ya xin ji nei ya
+巴布亚纽几内亚	ba bu ya niu ji nei ya
+巴布亞新幾內亞	ba bu ya xin ji nei ya
+巴布亞紐幾內亞	ba bu ya niu ji nei ya
+巴拉圭	ba la gui
+巴拉圭茶	ba la gui cha
+巴拿馬	ba na ma
+巴拿马	ba na ma
+巴林	ba lin
+巴西	ba xi
+巴西茶	ba xi cha
+巴貝多	ba bei duo
+巴贝多	ba bei duo
+布丁	bu ding
+布吉納法索	bu ji na fa suo
+布吉纳法索	bu ji na fa suo
+布基納法索	bu ji na fa suo
+布基纳法索	bu ji na fa suo
+布隆迪	bu long di
+帆	fan
+帆船	fan chuan
+希腊	xi la
+希臘	xi la
+帐本	zhang ben
+帐篷	zhang peng
+帐簿	zhang bu
+帕劳	pa lao
+帕勞	pa lao
+帚	zhou
+帛琉	bo liu
+带锁行李	dai suo xing li
+帳本	zhang ben
+帳篷	zhang peng
+帳簿	zhang bu
+帶鎖行李	dai suo xing li
+干杯	gan bei
+平底鞋	ping di xie
+并肩	bing jian
+幸运	xing yun
+幸运草	xing yun cao
+幸运饼	xing yun bing
+幸運	xing yun
+幸運草	xing yun cao
+幸運餅	xing yun bing
+幼儿	you er
+幼兒	you er
+幼稚	you zhi
+幼童	you tong
+幼虫	you chong
+幼蟲	you chong
+幽浮	you fu
+幽灵	you ling
+幽靈	you ling
+幽魂	you hun
+幾內亞	ji nei ya
+幾內亞比索	ji nei ya bi suo
+幾內亞比紹	ji nei ya bi shao
+广播	guang bo
+庆典	qing dian
+庆祝	qing zhu
+床	chuang
+库克群岛	ku ke qun dao
+库拉索	ku la suo
+底片	di pian
+废了	fei le
+废纸箩	fei zhi luo
+废话	fei hua
+度假	du jia
+座机	zuo ji
+座椅	zuo yi
+座機	zuo ji
+庫克群島	ku ke qun dao
+庫拉索	ku la suo
+廁所	ce suo
+廁所泵	ce suo beng
+廚子	chu zi
+廚子女	chu zi nv
+廚子男	chu zi nan
+廚師	chu shi
+廚師女	chu shi nv
+廚師男	chu shi nan
+廢了	fei le
+廢紙籮	fei zhi luo
+廢話	fei hua
+廣播	guang bo
+建筑工	jian zhu gong
+建筑工人	jian zhu gong ren
+建筑工人女	jian zhu gong ren nv
+建筑工人男	jian zhu gong ren nan
+建筑工地	jian zhu gong di
+建筑工女	jian zhu gong nv
+建筑工男	jian zhu gong nan
+建築工	jian zhu gong
+建築工人	jian zhu gong ren
+建築工人女	jian zhu gong ren nv
+建築工人男	jian zhu gong ren nan
+建築工地	jian zhu gong di
+建築工女	jian zhu gong nv
+建築工男	jian zhu gong nan
+建設中	jian she zhong
+建设中	jian she zhong
+开始录像	kai shi lu xiang
+开始录音	kai shi lu yin
+开心	kai xin
+开曼	kai man
+开曼群岛	kai man qun dao
+开玩笑	kai wan xiao
+开车	kai che
+开锁	kai suo
+开饭	kai fan
+异形	yi xing
+弓	gong
+张开	zhang kai
+张开双手	zhang kai shuang shou
+弯月	wan yue
+張開	zhang kai
+張開雙手	zhang kai shuang shou
+弹出	dan chu
+弹琴	dan qin
+彈出	dan chu
+彈琴	dan qin
+彎月	wan yue
+当心儿童	dang xin er tong
+当然	dang ran
+录像	lu xiang
+录像机	lu xiang ji
+录影带	lu ying dai
+录影机	lu ying ji
+录音带	lu yin dai
+彗星	hui xing
+彩带	cai dai
+彩旗	cai qi
+彩球	cai qiu
+彩礼	cai li
+彩禮	cai li
+彩虹	cai hong
+彩虹旗	cai hong qi
+彩蛋	cai dan
+影片	ying pian
+影相	ying xiang
+影院	ying yuan
+律师	lv shi
+律师女	lv shi nv
+律师男	lv shi nan
+律師	lv shi
+律師女	lv shi nv
+律師男	lv shi nan
+後	hou
+得	de
+得意	de yi
+循环	xun huan
+循环播放	xun huan bo fang
+循環	xun huan
+循環播放	xun huan bo fang
+微生物	wei sheng wu
+微笑	wei xiao
+微風	wei feng
+微风	wei feng
+德国	de guo
+德國	de guo
+德意志	de yi zhi
+心	xin
+心之舞	xin zhi wu
+心动	xin dong
+心動	xin dong
+心叹号	xin tan hao
+心心相印	xin xin xiang yin
+心有灵犀	xin you ling xi
+心有靈犀	xin you ling xi
+心歎號	xin tan hao
+心烦	xin fan
+心煩	xin fan
+心田	xin tian
+心疼	xin teng
+心痛	xin tong
+心碎	xin sui
+心脏	xin zang
+心臟	xin zang
+心跳	xin tiao
+心間	xin jian
+心间	xin jian
+忍者	ren zhe
+快件	kuai jian
+快艇	kuai ting
+快进	kuai jin
+快退	kuai tui
+快递	kuai di
+快递盒	kuai di he
+快進	kuai jin
+快遞	kuai di
+快遞盒	kuai di he
+快餐盒	kuai can he
+念珠	nian zhu
+怀孕	huai yun
+怀孕女	huai yun nv
+怀孕男	huai yun nan
+怎么会	zen me hui
+怎么可能	zen me ke neng
+怎么样	zen me yang
+怎麼可能	zen mo ke neng
+怎麼會	zen mo hui
+怎麼樣	zen mo yang
+怒	nu
+思考	si kao
+恋爱	lian ai
+恋爱中	lian ai zhong
+恐怖	kong bu
+恐龍	kong long
+恐龙	kong long
+恳求	ken qiu
+恳请	ken qing
+恶心	e xin
+恶魔	e mo
+悄悄地	qiao qiao di
+悠悠球	you you qiu
+悬浮	xuan fu
+悬浮列车	xuan fu lie che
+悶著	men zhu
+情书	qing shu
+情侣酒店	qing lv jiu dian
+情侶酒店	qing lv jiu dian
+情書	qing shu
+惊喜	jing xi
+惊悚	jing song
+惊艳	jing yan
+惡魔	e mo
+惨	can
+想不通	xiang bu tong
+想吃	xiang chi
+想吐	xiang tu
+想喫	xiang chi
+想想	xiang xiang
+想法	xiang fa
+想要	xiang yao
+意大利	yi da li
+意面	yi mian
+意麵	yi mian
+愚鳩	yu jiu
+愚鸠	yu jiu
+愛	ai
+愛你	ai ni
+愛心	ai xin
+愛情	ai qing
+愛情賓館	ai qing bin guan
+愛意	ai yi
+愛沙尼亞	ai sha ni ya
+愛爾蘭	ai er lan
+感人	gan ren
+感冒	gan mao
+感动	gan dong
+感動	gan dong
+感恩	gan en
+感恩節	gan en jie
+感恩节	gan en jie
+感情	gan qing
+感激不尽	gan ji bu jin
+感激不盡	gan ji bu jin
+感謝	gan xie
+感谢	gan xie
+慘	can
+慢走	man zou
+慢走女	man zou nv
+慢走男	man zou nan
+慶典	qing dian
+慶祝	qing zhu
+憋屈	bie qu
+憋屈女	bie qu nv
+憋屈男	bie qu nan
+憑條	ping tiao
+憨	han
+懇求	ken qiu
+懇請	ken qing
+懷孕	huai yun
+懷孕女	huai yun nv
+懷孕男	huai yun nan
+懸浮	xuan fu
+懸浮列車	xuan fu lie che
+戀愛	lian ai
+戀愛中	lian ai zhong
+戆居	gang ju
+戇居	gang ju
+戏剧	xi ju
+戏曲	xi qu
+戏法	xi fa
+戏法女	xi fa nv
+戏法男	xi fa nan
+戏院	xi yuan
+成人	cheng ren
+成双成对	cheng shuang cheng dui
+成年人	cheng nian ren
+成雙成對	cheng shuang cheng dui
+我愛你	wo ai ni
+我操	wo cao
+我爱你	wo ai ni
+我的天	wo de tian
+戒指	jie zhi
+戲劇	xi ju
+戲曲	xi qu
+戲法	xi fa
+戲法女	xi fa nv
+戲法男	xi fa nan
+戲院	xi yuan
+戴口罩	dai kou zhao
+戶	hu
+户	hu
+房子	fang zi
+所以呢	suo yi ne
+所以呢女	suo yi ne nv
+所以呢男	suo yi ne nan
+手	shou
+手写	shou xie
+手套	shou tao
+手寫	shou xie
+手指	shou zhi
+手掌	shou zhang
+手推車	shou tui che
+手推车	shou tui che
+手提包	shou ti bao
+手机	shou ji
+手杖	shou zhang
+手柄	shou bing
+手機	shou ji
+手球	shou qiu
+手球女	shou qiu nv
+手球男	shou qiu nan
+手电	shou dian
+手电筒	shou dian tong
+手背	shou bei
+手臂	shou bi
+手舞足蹈	shou wu zu dao
+手表	shou biao
+手錶	shou biao
+手雷	shou lei
+手電	shou dian
+手電筒	shou dian tong
+手風琴	shou feng qin
+手风琴	shou feng qin
+才怪	cai guai
+扑克	pu ke
+打伞	da san
+打你	da ni
+打傘	da san
+打勾	da gou
+打印机	da yin ji
+打印機	da yin ji
+打叉	da cha
+打哈欠	da ha qian
+打响指	da xiang zhi
+打喷嚏	da pen ti
+打噴嚏	da pen ti
+打圈	da quan
+打坐	da zuo
+打坐女	da zuo nv
+打坐男	da zuo nan
+打开文件夹	da kai wen jian jia
+打开档案夹	da kai dang an jia
+打扑克	da pu ke
+打招呼	da zhao hu
+打招呼女	da zhao hu nv
+打招呼男	da zhao hu nan
+打撲克	da pu ke
+打旋	da xuan
+打曲棍球	da qu gun qiu
+打机	da ji
+打板球	da ban qiu
+打機	da ji
+打死你	da si ni
+打水战	da shui zhan
+打水戰	da shui zhan
+打游戏	da you xi
+打牌	da pai
+打球	da qiu
+打球女	da qiu nv
+打球男	da qiu nan
+打疫苗	da yi miao
+打的	da de
+打篮球	da lan qiu
+打篮球女	da lan qiu nv
+打篮球男	da lan qiu nan
+打籃球	da lan qiu
+打籃球女	da lan qiu nv
+打籃球男	da lan qiu nan
+打結	da jie
+打給我	da gei wo
+打结	da jie
+打给我	da gei wo
+打草地曲棍球	da cao di qu gun qiu
+打車	da che
+打车	da che
+打遊戲	da you xi
+打針	da zhen
+打针	da zhen
+打開文件夾	da kai wen jian jia
+打開檔案夾	da kai dang an jia
+打雷	da lei
+打靶	da ba
+打響指	da xiang zhi
+打麻将	da ma jiang
+打麻將	da ma jiang
+打麻雀	da ma que
+打鼔	da gu
+托	tuo
+托克劳	tuo ke lao
+托克勞	tuo ke lao
+托运	tuo yun
+扣在一起	kou zai yi qi
+扩音器	kuo yin qi
+扫帚	sao zhou
+扬声器	yang sheng qi
+扯謊	che huang
+扯谎	che huang
+扳手	ban shou
+找换	zhao huan
+找換	zhao huan
+找死	zhao si
+技工	ji gong
+技工女	ji gong nv
+技工男	ji gong nan
+技师	ji shi
+技师女	ji shi nv
+技师男	ji shi nan
+技師	ji shi
+技師女	ji shi nv
+技師男	ji shi nan
+把戏	ba xi
+把戏女	ba xi nv
+把戏男	ba xi nan
+把戲	ba xi
+把戲女	ba xi nv
+把戲男	ba xi nan
+抓	zhua
+抓狂	zhua kuang
+投票	tou piao
+投票箱	tou piao xiang
+护士	hu shi
+护士女	hu shi nv
+护士服	hu shi fu
+护士男	hu shi nan
+护目镜	hu mu jing
+报纸	bao zhi
+报表	bao biao
+报警	bao jing
+披萨	pi sa
+披薩	pi sa
+抱	bao
+抱一抱	bao yi bao
+抱抱	bao bao
+抽烟	chou yan
+抽煙	chou yan
+抽菸	chou yan
+拇指	mu zhi
+拉弓	la gong
+拉拉	la la
+拉炮	la pao
+拉脫維亞	la tuo wei ya
+拉脱维亚	la tuo wei ya
+拍戏	pai xi
+拍戲	pai xi
+拍手	pai shou
+拍电影	pai dian ying
+拍電影	pai dian ying
+拐杖	guai zhang
+拖拉机	tuo la ji
+拖拉機	tuo la ji
+拖鞋	tuo xie
+招呼	zhao hu
+招呼女	zhao hu nv
+招呼男	zhao hu nan
+招手	zhao shou
+招手女	zhao shou nv
+招手男	zhao shou nan
+拜托	bai tuo
+拜拜	bai bai
+拜託	bai tuo
+拥抱	yong bao
+拳	quan
+拳击	quan ji
+拳头	quan tou
+拳套	quan tao
+拳擊	quan ji
+拳頭	quan tou
+拼图	pin tu
+拼圖	pin tu
+挂历	gua li
+挂镜	gua jing
+指	zhi
+指南針	zhi nan zhen
+指南针	zhi nan zhen
+指数	zhi shu
+指數	zhi shu
+指环	zhi huan
+指環	zhi huan
+按摩	an mo
+按摩女	an mo nv
+按摩师	an mo shi
+按摩师女	an mo shi nv
+按摩师男	an mo shi nan
+按摩師	an mo shi
+按摩師女	an mo shi nv
+按摩師男	an mo shi nan
+按摩男	an mo nan
+挎包	kua bao
+挥手	hui shou
+挥洒	hui sa
+挪威	nuo wei
+振动模式	zhen dong mo shi
+振動模式	zhen dong mo shi
+捂嘴	wu zui
+捂耳朵	wu er duo
+捂脸	wu lian
+捂臉	wu lian
+捏	nie
+捏著	nie zhu
+捕鼠器	bu shu qi
+换汇	huan hui
+换脸	huan lian
+捧	peng
+捲動	juan dong
+捲紙	juan zhi
+捲蝦	juan xia
+捲餅	juan bing
+捲髮	juan fa
+捲髮女	juan fa nv
+捲髮男	juan fa nan
+捷克	jie ke
+捷运	jie yun
+捷運	jie yun
+掃帚	sao zhou
+掌心	zhang xin
+排球	pai qiu
+掛曆	gua li
+掛鏡	gua jing
+探長	tan chang
+探長女	tan chang nv
+探長男	tan chang nan
+探长	tan chang
+探长女	tan chang nv
+探长男	tan chang nan
+接吻	jie wen
+接納	jie na
+接纳	jie na
+推杯换盏	tui bei huan zhan
+推杯換盞	tui bei huan zhan
+掬	ju
+掸指	dan zhi
+提款	ti kuan
+提款机	ti kuan ji
+提款機	ti kuan ji
+提琴	ti qin
+提示牌	ti shi pai
+提醒	ti xing
+插头	cha tou
+插頭	cha tou
+揚聲器	yang sheng qi
+換匯	huan hui
+換臉	huan lian
+握手	wo shou
+握笔	wo bi
+握筆	wo bi
+揮手	hui shou
+揮灑	hui sa
+搅基	jiao ji
+搋子	chuai zi
+搖搖	yao yao
+搖桿	yao gan
+搖滾	yao gun
+搜寻	sou xun
+搜尋	sou xun
+搜索	sou suo
+搭的	da de
+摄像	she xiang
+摄像机	she xiang ji
+摄影机	she ying ji
+摇摇	yao yao
+摇杆	yao gan
+摇滚	yao gun
+摊手	tan shou
+摊手女	tan shou nv
+摊手男	tan shou nan
+摔跤	shuai jiao
+摔跤女	shuai jiao nv
+摔跤男	shuai jiao nan
+摩天輪	mo tian lun
+摩天轮	mo tian lun
+摩尔多瓦	mo er duo wa
+摩托	mo tuo
+摩托艇	mo tuo ting
+摩托車	mo tuo che
+摩托车	mo tuo che
+摩洛哥	mo luo ge
+摩爾多瓦	mo er duo wa
+摩納哥	mo na ge
+摩纳哥	mo na ge
+摩羯座	mo jie zuo
+撅嘴	jue zui
+撐傘	cheng san
+撑伞	cheng san
+撒拉威阿拉伯	sa la wei a la bo
+撞击	zhuang ji
+撞擊	zhuang ji
+撣指	dan zhi
+撤回	che hui
+撤銷	che xiao
+撤销	che xiao
+播放	bo fang
+撮	cuo
+撲克	pu ke
+擁抱	yong bao
+擊中	ji zhong
+擊劍	ji jian
+擊掌	ji zhang
+操	cao
+操你妈	cao ni ma
+操你媽	cao ni ma
+擕手	xie shou
+擴音器	kuo yin qi
+攀岩	pan yan
+攀岩女	pan yan nv
+攀岩男	pan yan nan
+攀巖	pan yan
+攀巖女	pan yan nv
+攀巖男	pan yan nan
+攀登	pan deng
+攀登女	pan deng nv
+攀登男	pan deng nan
+攝像	she xiang
+攝像機	she xiang ji
+攝影機	she ying ji
+攤手	tan shou
+攤手女	tan shou nv
+攤手男	tan shou nan
+攪基	jiao ji
+收件匣	shou jian xia
+收件箱	shou jian xiang
+收信	shou xin
+收声	shou sheng
+收据	shou ju
+收據	shou ju
+收聲	shou sheng
+收費服務	shou fei fu wu
+收费服务	shou fei fu wu
+收邮件	shou you jian
+收郵件	shou you jian
+收音机	shou yin ji
+收音機	shou yin ji
+改錐	gai zhui
+改锥	gai zhui
+放大鏡	fang da jing
+放大镜	fang da jing
+放射	fang she
+放射性	fang she xing
+放射線	fang she xian
+放射线	fang she xian
+放映机	fang ying ji
+放映機	fang ying ji
+救命	jiu ming
+救护车	jiu hu che
+救火	jiu huo
+救火車	jiu huo che
+救火车	jiu huo che
+救火队	jiu huo dui
+救火队女	jiu huo dui nv
+救火队男	jiu huo dui nan
+救火隊	jiu huo dui
+救火隊女	jiu huo dui nv
+救火隊男	jiu huo dui nan
+救生圈	jiu sheng quan
+救生服	jiu sheng fu
+救生衣	jiu sheng yi
+救護車	jiu hu che
+敘利亞	xu li ya
+教书	jiao shu
+教书女	jiao shu nv
+教书男	jiao shu nan
+教堂	jiao tang
+教师	jiao shi
+教师女	jiao shi nv
+教师男	jiao shi nan
+教師	jiao shi
+教師女	jiao shi nv
+教師男	jiao shi nan
+教書	jiao shu
+教書女	jiao shu nv
+教書男	jiao shu nan
+敬礼	jing li
+敬禮	jing li
+数字	shu zi
+数字光盘	shu zi guang pan
+数字光碟	shu zi guang die
+数字键盘	shu zi jian pan
+数码光盘	shu ma guang pan
+数码光碟	shu ma guang die
+數字	shu zi
+數字光盤	shu zi guang pan
+數字光碟	shu zi guang die
+數字鍵盤	shu zi jian pan
+數碼光盤	shu ma guang pan
+數碼光碟	shu ma guang die
+文书	wen shu
+文件	wen jian
+文件夹	wen jian jia
+文件夾	wen jian jia
+文件柜	wen jian gui
+文件档	wen jian dang
+文件檔	wen jian dang
+文件櫃	wen jian gui
+文件袋	wen jian dai
+文書	wen shu
+文档	wen dang
+文檔	wen dang
+斐济	fei ji
+斐濟	fei ji
+斑馬	ban ma
+斑马	ban ma
+斑鳩琴	ban jiu qin
+斑鸠琴	ban jiu qin
+斜眼	xie yan
+斧	fu
+斧子	fu zi
+斯威士兰	si wei shi lan
+斯威士蘭	si wei shi lan
+斯洛伐克	si luo fa ke
+斯洛維尼亞	si luo wei ni ya
+斯洛维尼亚	si luo wei ni ya
+斯諾克	si nuo ke
+斯诺克	si nuo ke
+斯里兰卡	si li lan ka
+斯里蘭卡	si li lan ka
+新	xin
+新加坡	xin jia po
+新喀里多尼亚	xin ka li duo ni ya
+新喀里多尼亞	xin ka li duo ni ya
+新妇	xin fu
+新娘	xin niang
+新娘中性	xin niang zhong xing
+新娘子	xin niang zi
+新娘男	xin niang nan
+新婦	xin fu
+新年	xin nian
+新手	xin shou
+新月	xin yue
+新款	xin kuan
+新聞	xin wen
+新西兰	xin xi lan
+新西蘭	xin xi lan
+新邮件	xin you jian
+新郎	xin lang
+新郎女	xin lang nv
+新郵件	xin you jian
+新闻	xin wen
+方块	fang kuai
+方塊	fang kuai
+方片	fang pian
+方程式	fang cheng shi
+施工	shi gong
+旄牛	mao niu
+旅舍	lv she
+旅舘	lv guan
+旅馆	lv guan
+旋律	xuan lv
+旋轉木馬	xuan zhuan mu ma
+旋转木马	xuan zhuan mu ma
+旋鈕	xuan niu
+旋钮	xuan niu
+旋風	xuan feng
+旋风	xuan feng
+无	wu
+无助	wu zhu
+无助女	wu zhu nv
+无助男	wu zhu nan
+无所谓	wu suo wei
+无所谓女	wu suo wei nv
+无所谓男	wu suo wei nan
+无望	wu wang
+无望女	wu wang nv
+无望男	wu wang nan
+无穷	wu qiong
+无穷大	wu qiong da
+无聊	wu liao
+无能为力	wu neng wei li
+无能为力女	wu neng wei li nv
+无能为力男	wu neng wei li nan
+无语	wu yu
+无辜	wu gu
+无邮件	wu you jian
+无障碍	wu zhang ai
+无障碍设施	wu zhang ai she shi
+日	ri
+日元	ri yuan
+日光	ri guang
+日円	ri yuan
+日出	ri chu
+日历	ri li
+日圆	ri yuan
+日圓	ri yuan
+日暮	ri mu
+日曆	ri li
+日本	ri ben
+日本国	ri ben guo
+日本國	ri ben guo
+日本娃娃	ri ben wa wa
+日本邮局	ri ben you ju
+日本郵局	ri ben you ju
+日火	ri huo
+日落	ri luo
+旧屋	jiu wu
+旧房子	jiu fang zi
+早上好	zao shang hao
+早晨	zao chen
+旱冰鞋	han bing xie
+时计	shi ji
+昆虫	kun chong
+昆蟲	kun chong
+明亮	ming liang
+明星	ming xing
+明星女	ming xing nv
+明星男	ming xing nan
+星	xing
+星光	xing guang
+星号	xing hao
+星号键	xing hao jian
+星国	xing guo
+星國	xing guo
+星型	xing xing
+星星	xing xing
+星星眼	xing xing yan
+星空	xing kong
+星系	xing xi
+星號	xing hao
+星號鍵	xing hao jian
+春心	chun xin
+是吗	shi ma
+是嗎	shi ma
+显微镜	xian wei jing
+時計	shi ji
+晓不得	xiao bu de
+晓不得女	xiao bu de nv
+晓不得男	xiao bu de nan
+晕	yun
+晕车	yun che
+晚安	wan an
+晴	qing
+晴时多云	qing shi duo yun
+晴時多雲	qing shi duo yun
+晴朗	qing lang
+晴空	qing kong
+智利	zhi li
+智慧	zhi hui
+暂停	zan ting
+暈	yun
+暈車	yun che
+暗夜精灵	an ye jing ling
+暗夜精灵女	an ye jing ling nv
+暗夜精灵男	an ye jing ling nan
+暗夜精靈	an ye jing ling
+暗夜精靈女	an ye jing ling nv
+暗夜精靈男	an ye jing ling nan
+暫停	zan ting
+暮光	mu guang
+暮色	mu se
+曉不得	xiao bu de
+曉不得女	xiao bu de nv
+曉不得男	xiao bu de nan
+曱甴	yue you
+曲別針	qu bie zhen
+曲别针	qu bie zhen
+曲棍球	qu gun qiu
+曲棍網球	qu gun wang qiu
+曲棍网球	qu gun wang qiu
+曲譜	qu pu
+曲谱	qu pu
+曳引机	ye yin ji
+曳引機	ye yin ji
+書	shu
+書包	shu bao
+書呆子	shu dai zi
+書寫	shu xie
+書本	shu ben
+書籤	shu qian
+曼哈頓	man ha dun
+曼哈顿	man ha dun
+曼岛	man dao
+曼島	man dao
+月	yue
+月亮	yue liang
+月儿	yue er
+月光	yue guang
+月兒	yue er
+月圆	yue yuan
+月圓	yue yuan
+月夜	yue ye
+月弯弯	yue wan wan
+月彎彎	yue wan wan
+月牙	yue ya
+月球	yue qiu
+月神	yue shen
+月老	yue lao
+月色	yue se
+月芽	yue ya
+月蚀	yue shi
+月蝕	yue shi
+月食	yue shi
+月餅	yue bing
+月饼	yue bing
+月黑風高	yue hei feng gao
+月黑风高	yue hei feng gao
+有	you
+有云	you yun
+有毒	you du
+有电	you dian
+有病	you bing
+有軌電車	you gui dian che
+有轨电车	you gui dian che
+有邮件	you you jian
+有郵件	you you jian
+有錢	you qian
+有錢人	you qian ren
+有钱	you qian
+有钱人	you qian ren
+有雨	you yu
+有雲	you yun
+有電	you dian
+有雾	you wu
+有霧	you wu
+服务员	fu wu yuan
+服务员女	fu wu yuan nv
+服务员男	fu wu yuan nan
+服務員	fu wu yuan
+服務員女	fu wu yuan nv
+服務員男	fu wu yuan nan
+朔	shuo
+望远镜	wang yuan jing
+望遠鏡	wang yuan jing
+朝阳	zhao yang
+朝陽	zhao yang
+朝鮮	zhao xian
+朝鲜	zhao xian
+木	mu
+木头	mu tou
+木星	mu xing
+木柴	mu chai
+木槿	mu jin
+木頭	mu tou
+未睡醒	wei shui xing
+未瞓醒	wei fen xing
+朱古力	zhu gu li
+朱古力圈	zhu gu li quan
+朱古力棒	zhu gu li bang
+朱古力餅	zhu gu li bing
+朱古力饼	zhu gu li bing
+机器人	ji qi ren
+机器腿	ji qi tui
+机器臂	ji qi bi
+机械腿	ji xie tui
+机械臂	ji xie bi
+机灵	ji ling
+机长	ji zhang
+机长女	ji zhang nv
+机长男	ji zhang nan
+杂技	za ji
+杂技女	za ji nv
+杂技男	za ji nan
+杂种	za zhong
+杂耍	za shua
+杖	zhang
+杠铃	gang ling
+杠铃女	gang ling nv
+杠铃男	gang ling nan
+条城	tiao cheng
+条子	tiao zi
+条子女	tiao zi nv
+条子男	tiao zi nan
+来信	lai xin
+来邮件	lai you jian
+杧	mang
+杧果	mang guo
+杯式蛋糕	bei shi dan gao
+東京	dong jing
+東加	dong jia
+東帝汶	dong di wen
+東正教	dong zheng jiao
+松树	song shu
+松樹	song shu
+松饼	song bing
+松鼠	song shu
+板札	ban zha
+板栗	ban li
+板球	ban qiu
+板球棒	ban qiu bang
+果岭	guo ling
+果嶺	guo ling
+果汁	guo zhi
+果酒	guo jiu
+枝	zhi
+枝条	zhi tiao
+枝條	zhi tiao
+枫	feng
+枫叶	feng ye
+枭	xiao
+枯叶	ku ye
+枯萎	ku wei
+枯葉	ku ye
+架子鼔	jia zi gu
+柏树	bai shu
+柏樹	bai shu
+某人	mou ren
+柑橘	gan ju
+柔道	rou dao
+柔道女	rou dao nv
+柔道男	rou dao nan
+柠檬	ning meng
+查德	cha de
+查找	cha zhao
+柬埔寨	jian pu zhai
+柴	chai
+柺杖	guai zhang
+标签	biao qian
+树	shu
+树懒	shu lan
+树木	shu mu
+树枝	shu zhi
+树獭	shu ta
+树苗	shu miao
+树袋熊	shu dai xiong
+栗	li
+栗子	li zi
+校巴	xiao ba
+校車	xiao che
+校车	xiao che
+核子	he zi
+核子弹	he zi dan
+核子彈	he zi dan
+核子能	he zi neng
+核弹	he dan
+核彈	he dan
+核武器	he wu qi
+核电	he dian
+核突	he tu
+核能	he neng
+核輻射	he fu she
+核辐射	he fu she
+核電	he dian
+根西	gen xi
+格恩济	ge en ji
+格恩濟	ge en ji
+格林納達	ge lin na da
+格林纳达	ge lin na da
+格瑞那达	ge rui na da
+格瑞那達	ge rui na da
+格陵兰	ge ling lan
+格陵蘭	ge ling lan
+格魯吉亞	ge lu ji ya
+格鲁吉亚	ge lu ji ya
+桃	tao
+桃花	tao hua
+桌游	zhuo you
+桌游卡	zhuo you ka
+桌球	zhuo qiu
+桌遊	zhuo you
+桌遊卡	zhuo you ka
+桑拿	sang na
+桑拿女	sang na nv
+桑拿男	sang na nan
+档案	dang an
+档案夹	dang an jia
+档案柜	dang an gui
+档案盒	dang an he
+档案箱	dang an xiang
+档案袋	dang an dai
+桶	tong
+梅花	mei hua
+梅花鹿	mei hua lu
+條城	tiao cheng
+條子	tiao zi
+條子女	tiao zi nv
+條子男	tiao zi nan
+梟	xiao
+梨	li
+梯	ti
+梯子	ti zi
+梵蒂冈	fan di gang
+梵蒂岡	fan di gang
+检察	jian cha
+棍網球	gun wang qiu
+棍网球	gun wang qiu
+棒	bang
+棒呆	bang dai
+棒棒糖	bang bang tang
+棒球	bang qiu
+棕圆	zong yuan
+棕圓	zong yuan
+棕心	zong xin
+棕榈	zong lv
+棕櫚	zong lv
+棕熊	zong xiong
+森林	sen lin
+棺	guan
+棺材	guan cai
+椅	yi
+椅子	yi zi
+椒盐卷饼	jiao yan juan bing
+椒鹽捲餅	jiao yan juan bing
+椪柑	peng gan
+椰	ye
+椰子树	ye zi shu
+椰子樹	ye zi shu
+椰汁	ye zhi
+椰肉	ye rou
+椰蓉	ye rong
+楓	feng
+楓葉	feng ye
+槓鈴	gang ling
+槓鈴女	gang ling nv
+槓鈴男	gang ling nan
+槽耐	cao nai
+樂曲	le qu
+標籤	biao qian
+模里西斯	mo li xi si
+樱桃	ying tao
+樱花	ying hua
+樹	shu
+樹懶	shu lan
+樹木	shu mu
+樹枝	shu zhi
+樹獺	shu ta
+樹苗	shu miao
+樹袋熊	shu dai xiong
+樽	zun
+橄榄	gan lan
+橄榄枝	gan lan zhi
+橄榄球	gan lan qiu
+橄欖	gan lan
+橄欖枝	gan lan zhi
+橄欖球	gan lan qiu
+橘子	ju zi
+橘心	ju xin
+橘色	ju se
+橘黃	ju huang
+橘黃色	ju huang se
+橘黄	ju huang
+橘黄色	ju huang se
+橙	cheng
+橙圆	cheng yuan
+橙圓	cheng yuan
+橙子	cheng zi
+橙心	cheng xin
+橙色	cheng se
+機器人	ji qi ren
+機器腿	ji qi tui
+機器臂	ji qi bi
+機械腿	ji xie tui
+機械臂	ji xie bi
+機長	ji chang
+機長女	ji chang nv
+機長男	ji chang nan
+機靈	ji ling
+檔案	dang an
+檔案夾	dang an jia
+檔案櫃	dang an gui
+檔案盒	dang an he
+檔案箱	dang an xiang
+檔案袋	dang an dai
+檢察	jian cha
+檯球	tai qiu
+檸檬	ning meng
+櫻桃	ying tao
+櫻花	ying hua
+欢呼	huan hu
+欢呼女	huan hu nv
+欢呼男	huan hu nan
+欢庆	huan qing
+欢迎	huan ying
+欢迎女	huan ying nv
+欢迎男	huan ying nan
+欧元	ou yuan
+欧圆	ou yuan
+欧洲	ou zhou
+欧盟	ou meng
+歌厅	ge ting
+歌廳	ge ting
+歌手	ge shou
+歌手女	ge shou nv
+歌手男	ge shou nan
+歌星	ge xing
+歌星女	ge xing nv
+歌星男	ge xing nan
+歌舞厅	ge wu ting
+歌舞廳	ge wu ting
+歐元	ou yuan
+歐圓	ou yuan
+歐洲	ou zhou
+歐盟	ou meng
+歡呼	huan hu
+歡呼女	huan hu nv
+歡呼男	huan hu nan
+歡慶	huan qing
+歡迎	huan ying
+歡迎女	huan ying nv
+歡迎男	huan ying nan
+止血胶布	zhi xue jiao bu
+止血膠布	zhi xue jiao bu
+正中紅心	zheng zhong hong xin
+正中红心	zheng zhong hong xin
+正装	zheng zhuang
+正裝	zheng zhuang
+武术服	wu shu fu
+武術服	wu shu fu
+死定了	si ding le
+死火山	si huo shan
+死猪	si zhu
+死豬	si zhu
+残月	can yue
+残杖	can zhang
+残疾	can ji
+残疾人	can ji ren
+残疾人女	can ji ren nv
+残疾人男	can ji ren nan
+残疾人设施	can ji ren she shi
+残疾女	can ji nv
+残疾男	can ji nan
+残阳	can yang
+殘月	can yue
+殘杖	can zhang
+殘疾	can ji
+殘疾人	can ji ren
+殘疾人女	can ji ren nv
+殘疾人男	can ji ren nan
+殘疾人設施	can ji ren she shi
+殘疾女	can ji nv
+殘疾男	can ji nan
+殘陽	can yang
+殭屍	jiang shi
+殭屍女	jiang shi nv
+殭屍男	jiang shi nan
+母	mu
+母亲	mu qin
+母女	mu nv
+母女俩	mu nv liang
+母女倆	mu nv liang
+母子	mu zi
+母子俩	mu zi liang
+母子倆	mu zi liang
+母親	mu qin
+母雞	mu ji
+母鸡	mu ji
+比	bi
+比利时	bi li shi
+比利時	bi li shi
+比基尼	bi ji ni
+比心	bi xin
+比愛心	bi ai xin
+比爱心	bi ai xin
+比萨	bi sa
+比薩	bi sa
+毕业	bi ye
+毛毛虫	mao mao chong
+毛毛蟲	mao mao chong
+毛線	mao xian
+毛線團	mao xian tuan
+毛线	mao xian
+毛线团	mao xian tuan
+毛里塔尼亚	mao li ta ni ya
+毛里塔尼亞	mao li ta ni ya
+毛里求斯	mao li qiu si
+氂牛	mao niu
+民主刚果	min zhu gang guo
+民主剛果	min zhu gang guo
+民国	min guo
+民國	min guo
+民工	min gong
+民工女	min gong nv
+民工男	min gong nan
+民警	min jing
+民警女	min jing nv
+民警男	min jing nan
+气泡	qi pao
+气球	qi qiu
+气馁	qi nei
+氢弹	qing dan
+氣泡	qi pao
+氣球	qi qiu
+氣餒	qi nei
+氫彈	qing dan
+水	shui
+水战	shui zhan
+水戰	shui zhan
+水族館	shui zu guan
+水族馆	shui zu guan
+水晶球	shui jing qiu
+水枪	shui qiang
+水桶	shui tong
+水槍	shui qiang
+水滴	shui di
+水牛	shui niu
+水獭	shui ta
+水獺	shui ta
+水球	shui qiu
+水球女	shui qiu nv
+水球男	shui qiu nan
+水瓶座	shui ping zuo
+水笔	shui bi
+水筆	shui bi
+水蜜桃	shui mi tao
+水餃	shui jiao
+水饺	shui jiao
+水龍頭	shui long tou
+水龙头	shui long tou
+求救	qiu jiu
+求求你	qiu qiu ni
+汇兑	hui dui
+汉堡	han bao
+汉堡包	han pu bao
+汉服	han fu
+汗	han
+汙染	wu ran
+江豚	jiang tun
+污染	wu ran
+汤加	tang jia
+汤面	tang mian
+汶莱	wen lai
+汶萊	wen lai
+汽水	qi shui
+汽艇	qi ting
+沐浴	mu yu
+沐浴乳	mu yu ru
+沐浴露	mu yu lou
+沒了	mei le
+沒事的	mei shi de
+沒問題	mei wen ti
+沒想好	mei xiang hao
+沒意思	mei yi si
+沒戲	mei xi
+沒有新郵件	mei you xin you jian
+沒有郵件	mei you you jian
+沒眼看	mei yan kan
+沒睡醒	mei shui xing
+沒聽看	mei ting kan
+沒臉見人	mei lian jian ren
+沒興趣	mei xing qu
+沒說	mei shuo
+沒錢	mei qian
+沒錢了	mei qian le
+沒門	mei men
+沒門女	mei men nv
+沒門男	mei men nan
+沒電	mei dian
+沖涼	chong liang
+沙乌地阿拉伯	sha wu di a la bo
+沙冰	sha bing
+沙发	sha fa
+沙拉	sha la
+沙滩	sha tan
+沙滩伞	sha tan san
+沙滩阳伞	sha tan yang san
+沙漏	sha lou
+沙漠	sha mo
+沙灘	sha tan
+沙灘傘	sha tan san
+沙灘陽傘	sha tan yang san
+沙烏地阿拉伯	sha wu di a la bo
+沙特阿拉伯	sha te a la bo
+沙發	sha fa
+没了	mei le
+没事的	mei shi de
+没兴趣	mei xing qu
+没听看	mei ting kan
+没想好	mei xiang hao
+没意思	mei yi si
+没戏	mei xi
+没有新邮件	mei you xin you jian
+没有邮件	mei you you jian
+没电	mei dian
+没眼看	mei yan kan
+没睡醒	mei shui xing
+没脸见人	mei lian jian ren
+没说	mei shuo
+没钱	mei qian
+没钱了	mei qian le
+没门	mei men
+没门女	mei men nv
+没门男	mei men nan
+没问题	mei wen ti
+沮丧	ju sang
+沮丧女	ju sang nv
+沮丧男	ju sang nan
+沮喪	ju sang
+沮喪女	ju sang nv
+沮喪男	ju sang nan
+河狸	he li
+河豚	he tun
+河馬	he ma
+河马	he ma
+油桶	you tong
+油灯	you deng
+油燈	you deng
+油画棒	you hua bang
+油畫棒	you hua bang
+油站	you zhan
+油筒	you tong
+泊車	bo che
+泊车	bo che
+法兰西	fa lan xi
+法国	fa guo
+法国王室	fa guo wang shi
+法國	fa guo
+法國王室	fa guo wang shi
+法官	fa guan
+法官女	fa guan nv
+法官男	fa guan nan
+法属南方属地	fa shu nan fang shu di
+法属圭亚那	fa shu gui ya na
+法属玻里尼西亚	fa shu bo li ni xi ya
+法屬南方屬地	fa shu nan fang shu di
+法屬圭亞那	fa shu gui ya na
+法屬玻里尼西亞	fa shu bo li ni xi ya
+法师	fa shi
+法师女	fa shi nv
+法师男	fa shi nan
+法師	fa shi
+法師女	fa shi nv
+法師男	fa shi nan
+法拉利	fa la li
+法棍	fa gun
+法罗群岛	fa luo qun dao
+法羅群島	fa luo qun dao
+法蒂玛之手	fa di ma zhi shou
+法蒂瑪之手	fa di ma zhi shou
+法蘭西	fa lan xi
+法輪	fa lun
+法輪功	fa lun gong
+法輪大法	fa lun da fa
+法轮	fa lun
+法轮功	fa lun gong
+法轮大法	fa lun da fa
+泡	pao
+波兰	bo lan
+波利維亞	bo li wei ya
+波利维亚	bo li wei ya
+波士尼亚赫塞哥维纳	bo shi ni ya he sai ge wei na
+波士尼亞赫塞哥維納	bo shi ni ya he sai ge wei na
+波多黎各	bo duo li ge
+波奈	bo nai
+波斯	bo si
+波斯尼亚和黑塞哥维纳	bo si ni ya he hei sai ge wei na
+波斯尼亞和黑塞哥維納	bo si ni ya he hei sai ge wei na
+波札那	bo zha na
+波浪	bo lang
+波浪号	bo lang hao
+波浪號	bo lang hao
+波罗	bo luo
+波羅	bo luo
+波蘭	bo lan
+波黑	bo hei
+注册商标	zhu ce shang biao
+注目	zhu mu
+注視	zhu shi
+注视	zhu shi
+泪	lei
+泰国	tai guo
+泰國	tai guo
+泰迪熊	tai di xiong
+泳衣	yong yi
+泳装	yong zhuang
+泳裝	yong zhuang
+泳裤	yong ku
+泳褲	yong ku
+泽西	ze xi
+洋服	yang fu
+洋服女	yang fu nv
+洋服男	yang fu nan
+洋竽	yang yu
+洋葱	yang cong
+洋蒜	yang suan
+洋蔥	yang cong
+洋酒	yang jiu
+洒水	sa shui
+洗发露	xi fa lou
+洗浴	xi yu
+洗澡	xi zao
+洗髮露	xi fa lou
+洞	dong
+津巴布韋	jin ba bu wei
+津巴布韦	jin ba bu wei
+洪都拉斯	hong dou la si
+派	pai
+流口水	liu kou shui
+流星	liu xing
+流星雨	liu xing yu
+流泪	liu lei
+流涎	liu xian
+流淚	liu lei
+流鼻涕	liu bi ti
+浣熊	huan xiong
+浪	lang
+浮潛	fu qian
+浮潜	fu qian
+海上日出	hai shang ri chu
+海产	hai chan
+海关	hai guan
+海啸	hai xiao
+海嘯	hai xiao
+海地	hai di
+海岛	hai dao
+海島	hai dao
+海底世界	hai di shi jie
+海棠	hai tang
+海洋世界	hai yang shi jie
+海浪	hai lang
+海滩	hai tan
+海滩伞	hai tan san
+海滩阳伞	hai tan yang san
+海灘	hai tan
+海灘傘	hai tan san
+海灘陽傘	hai tan yang san
+海狮	hai shi
+海獅	hai shi
+海產	hai chan
+海盗	hai dao
+海盗旗	hai dao qi
+海盜	hai dao
+海盜旗	hai dao qi
+海綿	hai mian
+海綿擦	hai mian ca
+海绵	hai mian
+海绵擦	hai mian ca
+海螺	hai luo
+海豚	hai tun
+海豹	hai bao
+海边	hai bian
+海邊	hai bian
+海關	hai guan
+海鮮	hai xian
+海鲜	hai xian
+涂指甲	tu zhi jia
+消防员	xiao fang yuan
+消防员女	xiao fang yuan nv
+消防员男	xiao fang yuan nan
+消防員	xiao fang yuan
+消防員女	xiao fang yuan nv
+消防員男	xiao fang yuan nan
+消防車	xiao fang che
+消防车	xiao fang che
+涨	zhang
+涼鞋	liang xie
+淋浴	lin yu
+淚	lei
+深夜	shen ye
+混乱	hun luan
+混亂	hun luan
+清晨	qing chen
+清真寺	qing zhen si
+清空	qing kong
+清酒	qing jiu
+清除	qing chu
+渔	yu
+減	jian
+渡口	du kou
+渡渡鳥	du du niao
+渡渡鸟	du du niao
+渡輪	du lun
+渡轮	du lun
+温度计	wen du ji
+温泉	wen quan
+渴望	ke wang
+游乐场	you le chang
+游戏	you xi
+游戏手柄	you xi shou bing
+游戏机	you xi ji
+游戏牌	you xi pai
+游泳	you yong
+游泳圈	you yong quan
+游泳女	you yong nv
+游泳男	you yong nan
+湯加	tang jia
+湯麵	tang mian
+満	man
+溅	jian
+準確	zhun que
+溜冰	liu bing
+溜溜球	liu liu qiu
+溫度計	wen du ji
+溫泉	wen quan
+溶剂	rong ji
+溶劑	rong ji
+溶液	rong ye
+滅火器	mie huo qi
+滅火隊	mie huo dui
+滅火隊女	mie huo dui nv
+滅火隊男	mie huo dui nan
+滑冰	hua bing
+滑动开关	hua dong kai guan
+滑動開關	hua dong kai guan
+滑杆	hua gan
+滑板	hua ban
+滑板車	hua ban che
+滑板车	hua ban che
+滑桿	hua gan
+滑梯	hua ti
+滑稽	hua ji
+滑雪	hua xue
+滑雪板	hua xue ban
+滑雪靴	hua xue xue
+滑鼠	hua shu
+滚	gun
+滚犊子	gun du zi
+滚粗	gun cu
+满	man
+满分	man fen
+满月	man yue
+滷煮	lu zhu
+滾	gun
+滾犢子	gun du zi
+滾粗	gun cu
+滿	man
+滿分	man fen
+滿月	man yue
+漁	yu
+漂亮	piao liang
+演講	yan jiang
+演讲	yan jiang
+漠然	mo ran
+漢堡	han bao
+漢堡包	han bao bao
+漢服	han fu
+漫步	man bu
+漫步女	man bu nv
+漫步男	man bu nan
+漲	zhang
+潛水	qian shui
+潛水鏡	qian shui jing
+潜水	qian shui
+潜水镜	qian shui jing
+潮女	chao nv
+潮男	chao nan
+澡盆	zao pen
+澤西	ze xi
+澳大利亚	ao da li ya
+澳大利亞	ao da li ya
+澳洲	ao zhou
+澳門	ao men
+澳门	ao men
+激动	ji dong
+激動	ji dong
+激情	ji qing
+濺	jian
+灌木	guan mu
+灑水	sa shui
+火	huo
+火山	huo shan
+火山喷发	huo shan pen fa
+火山噴發	huo shan pen fa
+火烈鳥	huo lie niao
+火烈鸟	huo lie niao
+火热	huo re
+火焰	huo yan
+火熱	huo re
+火箭	huo jian
+火花	huo hua
+火苗	huo miao
+火著	huo zhu
+火警	huo jing
+火警女	huo jing nv
+火警男	huo jing nan
+火車站	huo che zhan
+火車箱	huo che xiang
+火車頭	huo che tou
+火车头	huo che tou
+火车站	huo che zhan
+火车箱	huo che xiang
+火鍋	huo guo
+火锅	huo guo
+火雞	huo ji
+火鸡	huo ji
+灭火器	mie huo qi
+灭火队	mie huo dui
+灭火队女	mie huo dui nv
+灭火队男	mie huo dui nan
+灯	deng
+灯泡	deng pao
+灯神	deng shen
+灯神女	deng shen nv
+灯神男	deng shen nan
+灯笼	deng long
+灰老鼠	hui lao shu
+灰鼠	hui shu
+灵魂	ling hun
+炎热	yan re
+炎熱	yan re
+炮仗	pao zhang
+炸了	zha le
+炸弹	zha dan
+炸彈	zha dan
+炸虾	zha xia
+炸蝦	zha xia
+点心	dian xin
+点火	dian huo
+点烟	dian yan
+点著	dian zhu
+烂	lan
+烂房子	lan fang zi
+烂玩意	lan wan yi
+烂玩意儿	lan wan yi er
+烏克蘭	wu ke lan
+烏兹別克	wu zi bie ke
+烏兹別克斯坦	wu zi bie ke si tan
+烏干達	wu gan da
+烏拉圭	wu la gui
+烏鱡	wu zei
+烏龜	wu gui
+烟	yan
+烟囱	yan cong
+烟火	yan huo
+烟花	yan hua
+烤地瓜	kao di gua
+烤紅薯	kao hong shu
+烤红薯	kao hong shu
+烤薄餅	kao bao bing
+烤薄饼	kao bao bing
+烤雞腿	kao ji tui
+烤餅	kao bing
+烤饼	kao bing
+烤鸡腿	kao ji tui
+烧火	shao huo
+烧瓶	shao ping
+烧著	shao zhu
+烫	tang
+烫口	tang kou
+热	re
+热带鱼	re dai yu
+热心	re xin
+热恋中	re lian zhong
+热情	re qing
+热爱	re ai
+热狗	re gou
+热茶	re cha
+焗飯	ju fan
+焗饭	ju fan
+無	wu
+無助	wu zhu
+無助女	wu zhu nv
+無助男	wu zhu nan
+無所謂	wu suo wei
+無所謂女	wu suo wei nv
+無所謂男	wu suo wei nan
+無望	wu wang
+無望女	wu wang nv
+無望男	wu wang nan
+無窮	wu qiong
+無窮大	wu qiong da
+無聊	wu liao
+無能爲力	wu neng wei li
+無能爲力女	wu neng wei li nv
+無能爲力男	wu neng wei li nan
+無語	wu yu
+無辜	wu gu
+無郵件	wu you jian
+無障礙	wu zhang ai
+無障礙設施	wu zhang ai she shi
+焦糖奶油	jiao tang nai you
+焰火	yan huo
+煎蛋	jian dan
+煎雞蛋	jian ji dan
+煎餅	jian bing
+煎饼	jian bing
+煎鸡蛋	jian ji dan
+煙	yan
+煙囪	yan cong
+煙火	yan huo
+煙花	yan hua
+照相	zhao xiang
+照相机	zhao xiang ji
+照相機	zhao xiang ji
+熊	xiong
+熊市	xiong shi
+熊猫	xiong mao
+熊貓	xiong mao
+熔化	rong hua
+熱	re
+熱帶魚	re dai yu
+熱心	re xin
+熱情	re qing
+熱愛	re ai
+熱戀中	re lian zhong
+熱狗	re gou
+熱茶	re cha
+燈	deng
+燈泡	deng pao
+燈神	deng shen
+燈神女	deng shen nv
+燈神男	deng shen nan
+燈籠	deng long
+燒火	shao huo
+燒瓶	shao ping
+燒著	shao zhu
+燙	tang
+燙口	tang kou
+營	ying
+爆炸	bao zha
+爆竹	bao zhu
+爆米花	bao mi hua
+爛	lan
+爛房子	lan fang zi
+爛玩意	lan wan yi
+爛玩意兒	lan wan yi er
+爪	zhao
+爬泳	pa yong
+爬泳女	pa yong nv
+爬泳男	pa yong nan
+爱	ai
+爱你	ai ni
+爱尔兰	ai er lan
+爱心	ai xin
+爱情	ai qing
+爱情宾馆	ai qing bin guan
+爱意	ai yi
+爱沙尼亚	ai sha ni ya
+爲何	wei he
+爲啥	wei sha
+爲甚麼	wei shen mo
+父	fu
+父亲	fu qin
+父女	fu nv
+父女俩	fu nv liang
+父女倆	fu nv liang
+父子	fu zi
+父子俩	fu zi liang
+父子倆	fu zi liang
+父親	fu qin
+爷爷	ye ye
+爸	ba
+爸爸	ba ba
+爺爺	ye ye
+爽	shuang
+牀	chuang
+牆磚	qiang zhuan
+版权	ban quan
+版權	ban quan
+牙	ya
+牙买加	ya mai jia
+牙刷	ya shua
+牙買加	ya mai jia
+牙齒	ya chi
+牙齿	ya chi
+牛	niu
+牛乳	niu ru
+牛仔	niu zai
+牛仔裤	niu zai ku
+牛仔褲	niu zai ku
+牛头	niu tou
+牛奶	niu nai
+牛市	niu shi
+牛年	niu nian
+牛排	niu pai
+牛油	niu you
+牛油果	niu you guo
+牛肉	niu rou
+牛頭	niu tou
+牡羊座	mu yang zuo
+牡蛎	mu li
+牡蠣	mu li
+牦牛	mao niu
+牵手	qian shou
+特克斯和凯科斯群岛	te ke si he kai ke si qun dao
+特克斯和凱科斯群島	te ke si he kai ke si qun dao
+特立尼达和多巴哥	te li ni da he duo ba ge
+特立尼達和多巴哥	te li ni da he duo ba ge
+特里斯坦达库尼亚	te li si tan da ku ni ya
+特里斯坦達庫尼亞	te li si tan da ku ni ya
+牽手	qian shou
+犀	xi
+犀牛	xi niu
+犬	quan
+状师	zhuang shi
+状师女	zhuang shi nv
+状师男	zhuang shi nan
+犹太教	you tai jiao
+犹太教堂	you tai jiao tang
+狀師	zhuang shi
+狀師女	zhuang shi nv
+狀師男	zhuang shi nan
+狂笑	kuang xiao
+狐	hu
+狐狸	hu li
+狗	gou
+狗头	gou tou
+狗娘养的	gou niang yang de
+狗孃養的	gou niang yang de
+狗年	gou nian
+狗日的	gou ri de
+狗杂种	gou za zhong
+狗狗	gou gou
+狗繩	gou sheng
+狗绳	gou sheng
+狗肉	gou rou
+狗雜種	gou za zhong
+狗頭	gou tou
+狡黠	jiao xia
+独木舟	du mu zhou
+独角兽	du jiao shou
+狮	shi
+狮子	shi zi
+狮子头	shi zi tou
+狮子山国	shi zi shan guo
+狮子座	shi zi zuo
+狸	li
+狼	lang
+狼狗	lang gou
+猕猴桃	mi hou tao
+猛犸	meng ma
+猛獁	meng ma
+猛玛象	meng ma xiang
+猛瑪象	meng ma xiang
+猥	wei
+猩猩	xing xing
+猪	zhu
+猪头	zhu tou
+猪头三	zhu tou san
+猪年	zhu nian
+猪排	zhu pai
+猪肉	zhu rou
+猪鼻	zhu bi
+猪鼻子	zhu bi zi
+猫	mao
+猫咪	mao mi
+猫头	mao tou
+猫头鹰	mao tou ying
+猫年	mao nian
+猫熊	mao xiong
+猫肉	mao rou
+猴	hou
+猴头	hou tou
+猴子	hou zi
+猴年	hou nian
+猴頭	hou tou
+猶太教	you tai jiao
+猶太教堂	you tai jiao tang
+猿	yuan
+獅	shi
+獅子	shi zi
+獅子山國	shi zi shan guo
+獅子座	shi zi zuo
+獅子頭	shi zi tou
+獎牌	jiang pai
+獎盃	jiang bei
+獎章	jiang zhang
+獎項	jiang xiang
+獨木舟	du mu zhou
+獨角獸	du jiao shou
+獸人	shou ren
+獼猴桃	mi hou tao
+獾	huan
+玄武	xuan wu
+玉米	yu mi
+玉蜀黍	yu shu shu
+王	wang
+王储	wang chu
+王儲	wang chu
+王冠	wang guan
+王冠女	wang guan nv
+王冠男	wang guan nan
+王后	wang hou
+王女	wang nv
+王妃	wang fei
+王子	wang zi
+王爷	wang ye
+王爺	wang ye
+王男	wang nan
+玛利亚之手	ma li ya zhi shou
+玛黛茶	ma dai cha
+玩具枪	wan ju qiang
+玩具槍	wan ju qiang
+玩具熊	wan ju xiong
+玩游戏	wan you xi
+玩火	wan huo
+玩笑	wan xiao
+玩遊戲	wan you xi
+玫瑰	mei gui
+环保	huan bao
+玻璃罐	bo li guan
+玻璃鏡	bo li jing
+玻璃镜	bo li jing
+珊瑚	shan hu
+珊瑚礁	shan hu jiao
+珍珠奶茶	zhen zhu nai cha
+班主住	ban zhu zhu
+班主住女	ban zhu zhu nv
+班主住男	ban zhu zhu nan
+班卓琴	ban zhuo qin
+球员	qiu yuan
+球员女	qiu yuan nv
+球员男	qiu yuan nan
+球員	qiu yuan
+球員女	qiu yuan nv
+球員男	qiu yuan nan
+球拍	qiu pai
+球杆	qiu gan
+球桿	qiu gan
+球洞	qiu dong
+球門	qiu men
+球门	qiu men
+球鞋	qiu xie
+理发	li fa
+理发女	li fa nv
+理发店	li fa dian
+理发男	li fa nan
+理髮	li fa
+理髮女	li fa nv
+理髮店	li fa dian
+理髮男	li fa nan
+琴譜	qin pu
+琴谱	qin pu
+瑙魯	nao lu
+瑙鲁	nao lu
+瑞典	rui dian
+瑞士	rui shi
+瑪利亞之手	ma li ya zhi shou
+瑪黛茶	ma dai cha
+環保	huan bao
+瓜地洛普	gua di luo pu
+瓜地馬拉	gua di ma la
+瓜地马拉	gua di ma la
+瓜德罗普	gua de luo pu
+瓜德羅普	gua de luo pu
+瓜皮帽	gua pi mao
+瓢虫	piao chong
+瓢蟲	piao chong
+瓦利斯和富图纳	wa li si he fu tu na
+瓦利斯和富圖納	wa li si he fu tu na
+瓦努阿图	wa nu a tu
+瓦努阿圖	wa nu a tu
+瓦肯	wa ken
+甘比亚	gan bi ya
+甘比亞	gan bi ya
+甚么	shen me
+甚麼	shen mo
+甜品	tian pin
+甜点	tian dian
+甜瓜	tian gua
+甜甜圈	tian tian quan
+甜筒	tian tong
+甜點	tian dian
+生化	sheng hua
+生化品	sheng hua pin
+生化武器	sheng hua wu qi
+生化物質	sheng hua wu zhi
+生化物质	sheng hua wu zhi
+生日	sheng ri
+生日蛋糕	sheng ri dan gao
+生气	sheng qi
+生氣	sheng qi
+生物科技	sheng wu ke ji
+生病	sheng bing
+生蚝	sheng hao
+生蠔	sheng hao
+田径	tian jing
+田径女	tian jing nv
+田径男	tian jing nan
+田徑	tian jing
+田徑女	tian jing nv
+田徑男	tian jing nan
+甲虫	jia chong
+甲蟲	jia chong
+申	shen
+电	dian
+电力火车	dian li huo che
+电动火车	dian dong huo che
+电动轮椅	dian dong lun yi
+电单车	dian dan che
+电台	dian tai
+电塔	dian ta
+电子邮件	dian zi you jian
+电影	dian ying
+电影院	dian ying yuan
+电摩托	dian mo tuo
+电梯	dian ti
+电池	dian chi
+电灯	dian deng
+电灯泡	dian deng pao
+电脑	dian nao
+电脑包	dian nao bao
+电视	dian shi
+电视塔	dian shi ta
+电视机	dian shi ji
+电话	dian hua
+电话亭	dian hua ting
+电话机	dian hua ji
+电话筒	dian hua tong
+电话线	dian hua xian
+电车	dian che
+电邮	dian you
+男人	nan ren
+男仔	nan zi
+男厕	nan ce
+男双胞胎	nan shuang bao tai
+男同	nan tong
+男同性恋	nan tong xing lian
+男同性戀	nan tong xing lian
+男子	nan zi
+男孩	nan hai
+男工	nan gong
+男廁	nan ce
+男性	nan xing
+男星	nan xing
+男童	nan tong
+男装	nan zhuang
+男裝	nan zhuang
+男雙胞胎	nan shuang bao tai
+男靴	nan xue
+男鞋	nan xie
+画	hua
+画家	hua jia
+画家女	hua jia nv
+画家男	hua jia nan
+画框	hua kuang
+画画	hua hua
+画笔	hua bi
+留尼旺	liu ni wang
+畢業	bi ye
+番茄	fan qie
+番茄酱	fan qie jiang
+番茄醬	fan qie jiang
+番薯	fan shu
+畫	hua
+畫家	hua jia
+畫家女	hua jia nv
+畫家男	hua jia nan
+畫框	hua kuang
+畫畫	hua hua
+畫筆	hua bi
+異形	yi xing
+當心兒童	dang xin er tong
+當然	dang ran
+疑問	yi wen
+疑问	yi wen
+疫苗	yi miao
+疼心	teng xin
+病了	bing le
+病原体	bing yuan ti
+病原體	bing yuan ti
+病毒	bing du
+病菌	bing jun
+病院	bing yuan
+痛心	tong xin
+登山列車	deng shan lie che
+登山列车	deng shan lie che
+登山靴	deng shan xue
+發件匣	fa jian xia
+發件箱	fa jian xiang
+發火	fa huo
+發燒	fa shao
+發狂	fa kuang
+發票	fa piao
+發誓	fa shi
+白	bai
+白中有黑	bai zhong you hei
+白俄罗斯	bai e luo si
+白俄羅斯	bai e luo si
+白兔	bai tu
+白发	bai fa
+白发女	bai fa nv
+白发男	bai fa nan
+白圆	bai yuan
+白圓	bai yuan
+白大褂	bai da gua
+白头发	bai tou fa
+白头发女	bai tou fa nv
+白头发男	bai tou fa nan
+白子	bai zi
+白心	bai xin
+白方	bai fang
+白旗	bai qi
+白熊	bai xiong
+白珠	bai zhu
+白痴	bai chi
+白癡	bai chi
+白目	bai mu
+白眼	bai yan
+白罗斯	bai luo si
+白羅斯	bai luo si
+白羊座	bai yang zuo
+白色	bai se
+白花	bai hua
+白菜	bai cai
+白領	bai ling
+白領女	bai ling nv
+白領男	bai ling nan
+白頭髮	bai tou fa
+白頭髮女	bai tou fa nv
+白頭髮男	bai tou fa nan
+白领	bai ling
+白领女	bai ling nv
+白领男	bai ling nan
+白飯	bai fan
+白饭	bai fan
+白髮	bai fa
+白髮女	bai fa nv
+白髮男	bai fa nan
+白鼠	bai shu
+百慕大	bai mu da
+百慕达	bai mu da
+百慕達	bai mu da
+百貨	bai huo
+百貨大樓	bai huo da lou
+百货	bai huo
+百货大楼	bai huo da lou
+皂	zao
+的士	di shi
+皇储	huang chu
+皇儲	huang chu
+皇冠	huang guan
+皇子	huang zi
+皮包	pi bao
+皮卡	pi ka
+皮特凯恩群岛	pi te kai en qun dao
+皮特凱恩群島	pi te kai en qun dao
+皮特肯群岛	pi te ken qun dao
+皮特肯群島	pi te ken qun dao
+皮納塔	pi na ta
+皮纳塔	pi na ta
+皮鞋	pi xie
+皱眉	zhou mei
+皱眉女	zhou mei nv
+皱眉男	zhou mei nan
+皺眉	zhou mei
+皺眉女	zhou mei nv
+皺眉男	zhou mei nan
+盆景	pen jing
+盆栽	pen zai
+盆浴	pen yu
+盈月	ying yue
+盐	yan
+监听	jian ting
+盒装饮料	he zhuang yin liao
+盒裝飲料	he zhuang yin liao
+盒飯	he fan
+盒饭	he fan
+盔	kui
+盖亚那	gai ya na
+盖饭	gai fan
+盘腿	pan tui
+盘腿女	pan tui nv
+盘腿男	pan tui nan
+監聽	jian ting
+盤腿	pan tui
+盤腿女	pan tui nv
+盤腿男	pan tui nan
+盧安達	lu an da
+盧旺達	lu wang da
+盧森堡	lu sen bao
+目	mu
+目光	mu guang
+盯	ding
+盲	mang
+盲人	mang ren
+盲人女	mang ren nv
+盲人男	mang ren nan
+盲女	mang nv
+盲杖	mang zhang
+盲男	mang nan
+直升机	zhi sheng ji
+直升機	zhi sheng ji
+直尺	zhi chi
+直布罗陀	zhi bu luo tuo
+直布羅陀	zhi bu luo tuo
+直昇機	zhi sheng ji
+直梯	zhi ti
+直飲水	zhi yin shui
+直饮水	zhi yin shui
+相机	xiang ji
+相框	xiang kuang
+相機	xiang ji
+盾	dun
+盾牌	dun pai
+省省吧	sheng sheng ba
+看不懂	kan bu dong
+看书	kan shu
+看守	kan shou
+看守女	kan shou nv
+看守男	kan shou nan
+看書	kan shu
+真好	zhen hao
+真好女	zhen hao nv
+真好玩	zhen hao wan
+真好男	zhen hao nan
+真心	zhen xin
+真棒	zhen bang
+真的假的	zhen de jia de
+真的吗	zhen de ma
+真的嗎	zhen de ma
+真龍	zhen long
+真龙	zhen long
+眼	yan
+眼光	yan guang
+眼泪	yan lei
+眼淚	yan lei
+眼睛	yan jing
+睇唔明	di wu ming
+睇戏	di xi
+睇戲	di xi
+睏	kun
+睏了	kun le
+睏覺	kun jue
+睡了	shui le
+睡吧	shui ba
+睡睰睰	shui ma ma
+睡莲	shui lian
+睡著	shui zhu
+睡蓮	shui lian
+睡覺	shui jue
+睡觉	shui jiao
+睰睰	ma ma
+瞎子	xia zi
+瞎子女	xia zi nv
+瞎子男	xia zi nan
+瞪眼	deng yan
+知識份子	zhi shi fen zi
+知识份子	zhi shi fen zi
+知道了	zhi dao le
+短袖	duan xiu
+短裤	duan ku
+短褲	duan ku
+石	shi
+石像	shi xiang
+石块	shi kuai
+石塊	shi kuai
+石头	shi tou
+石彫	shi diao
+石雕	shi diao
+石頭	shi tou
+码头	ma tou
+码表	ma biao
+砂漏	sha lou
+砂鍋	sha guo
+砂锅	sha guo
+研究	yan jiu
+研究员	yan jiu yuan
+研究员女	yan jiu yuan nv
+研究员男	yan jiu yuan nan
+研究員	yan jiu yuan
+研究員女	yan jiu yuan nv
+研究員男	yan jiu yuan nan
+砖	zhuan
+破壳	po ke
+破屋	po wu
+破殼	po ke
+破玩意	po wan yi
+破玩意儿	po wan yi er
+破玩意兒	po wan yi er
+砸了	za le
+硕鼠	shuo shu
+硬币	ying bi
+硬幣	ying bi
+硴	hua
+碗	wan
+碗筷	wan kuai
+碩鼠	shuo shu
+碰撞	peng zhuang
+碰杯	peng bei
+碼錶	ma biao
+碼頭	ma tou
+磁带	ci dai
+磁帶	ci dai
+磁悬浮	ci xuan fu
+磁懸浮	ci xuan fu
+磁盘	ci pan
+磁盤	ci pan
+磁碟	ci die
+磁鐵	ci tie
+磁铁	ci tie
+磕头	ke tou
+磕头女	ke tou nv
+磕头男	ke tou nan
+磕頭	ke tou
+磕頭女	ke tou nv
+磕頭男	ke tou nan
+磚	zhuan
+礼品	li pin
+礼品盒	li pin he
+礼帽	li mao
+礼服	li fu
+礼物	li wu
+礼花	li hua
+祖母	zu mu
+祖父	zu fu
+祝	zhu
+祝日	zhu ri
+祝賀	zhu he
+祝贺	zhu he
+神庙	shen miao
+神廟	shen miao
+神探	shen tan
+神探女	shen tan nv
+神探男	shen tan nan
+神社	shen she
+神祕	shen mi
+神秘	shen mi
+票	piao
+祭典	ji dian
+禁	jin
+禁声	jin sheng
+禁打电话	jin da dian hua
+禁打電話	jin da dian hua
+禁止	jin zhi
+禁止丢垃圾	jin zhi diu la ji
+禁止单车	jin zhi dan che
+禁止單車	jin zhi dan che
+禁止扔垃圾	jin zhi reng la ji
+禁止行人	jin zhi xing ren
+禁止飲水	jin zhi yin shui
+禁止飲用	jin zhi yin yong
+禁止饮水	jin zhi yin shui
+禁止饮用	jin zhi yin yong
+禁止騎行	jin zhi qi hang
+禁止骑行	jin zhi qi hang
+禁烟	jin yan
+禁煙	jin yan
+禁用手机	jin yong shou ji
+禁用手機	jin yong shou ji
+禁聲	jin sheng
+禁菸	jin yan
+禁行	jin hang
+福克兰群岛	fu ke lan qun dao
+福克蘭群島	fu ke lan qun dao
+禮品	li pin
+禮品盒	li pin he
+禮帽	li mao
+禮服	li fu
+禮物	li wu
+禮花	li hua
+禿	tu
+禿女	tu nv
+禿男	tu nan
+禿頭	tu tou
+禿頭女	tu tou nv
+禿頭男	tu tou nan
+秃	tu
+秃头	tu tou
+秃头女	tu tou nv
+秃头男	tu tou nan
+秃女	tu nv
+秃男	tu nan
+种地	zhong di
+种地女	zhong di nv
+种地男	zhong di nan
+种田	zhong tian
+种田女	zhong tian nv
+种田男	zhong tian nan
+科威科	ke wei ke
+科学家	ke xue jia
+科学家女	ke xue jia nv
+科学家男	ke xue jia nan
+科學家	ke xue jia
+科學家女	ke xue jia nv
+科學家男	ke xue jia nan
+科摩罗	ke mo luo
+科摩羅	ke mo luo
+科特迪瓦	ke te di wa
+科研人员	ke yan ren yuan
+科研人员女	ke yan ren yuan nv
+科研人员男	ke yan ren yuan nan
+科研人員	ke yan ren yuan
+科研人員女	ke yan ren yuan nv
+科研人員男	ke yan ren yuan nan
+科科斯	ke ke si
+科索沃	ke suo wo
+秒表	miao biao
+秒錶	miao biao
+秘	mi
+秘密	mi mi
+秘語	mi yu
+秘语	mi yu
+秘鑰	mi yue
+秘钥	mi yue
+秘魯	mi lu
+秘鲁	bi lu
+秤	cheng
+移动的星	yi dong de xing
+移動的星	yi dong de xing
+程序员	cheng xu yuan
+程序员女	cheng xu yuan nv
+程序员男	cheng xu yuan nan
+程序員	cheng xu yuan
+程序員女	cheng xu yuan nv
+程序員男	cheng xu yuan nan
+稍	shao
+種地	zhong di
+種地女	zhong di nv
+種地男	zhong di nan
+種田	zhong tian
+種田女	zhong tian nv
+種田男	zhong tian nan
+稻	dao
+稻子	dao zi
+稻田	dao tian
+穆斯林	mu si lin
+空	kong
+空手道	kong shou dao
+空气不好	kong qi bu hao
+空气差	kong qi cha
+空气污染	kong qi wu ran
+空氣不好	kong qi bu hao
+空氣差	kong qi cha
+空氣汙染	kong qi wu ran
+空电池	kong dian chi
+空碗	kong wan
+空電池	kong dian chi
+突尼斯	tu ni si
+突尼西亚	tu ni xi ya
+突尼西亞	tu ni xi ya
+窗	chuang
+窗子	chuang zi
+窗戶	chuang hu
+窗户	chuang hu
+窘	jiong
+窝夫	wo fu
+窥	kui
+窩夫	wo fu
+窺	kui
+立定	li ding
+立定女	li ding nv
+立定男	li ding nan
+立陶宛	li tao wan
+竖中指	shu zhong zhi
+站	zhan
+站女	zhan nv
+站男	zhan nan
+站立	zhan li
+站立女	zhan li nv
+站立男	zhan li nan
+竞技场	jing ji chang
+章魚	zhang yu
+章鱼	zhang yu
+競技場	jing ji chang
+竹	zhu
+竹篮	zhu lan
+竹籃	zhu lan
+笑	xiao
+笑一个	xiao yi ge
+笑一個	xiao yi ge
+笑了	xiao le
+笑哭	xiao ku
+笑死	xiao si
+笑脸	xiao lian
+笑臉	xiao lian
+笔电	bi dian
+笔记本	bi ji ben
+笔记本电脑	bi ji ben dian nao
+笔记簿	bi ji bu
+笤帚	tiao zhou
+符号键盘	fu hao jian pan
+符號鍵盤	fu hao jian pan
+笨蛋	ben dan
+第一	di yi
+第一卷	di yi juan
+第一名	di yi ming
+第三	di san
+第三卷	di san juan
+第三名	di san ming
+第二	di er
+第二卷	di er juan
+第二名	di er ming
+第四卷	di si juan
+筆記本	bi ji ben
+筆記本電腦	bi ji ben dian nao
+筆記簿	bi ji bu
+筆電	bi dian
+等一会	deng yi hui
+等一會	deng yi hui
+等于	deng yu
+等於	deng yu
+筷	kuai
+签	qian
+签语饼	qian yu bing
+简直了	jian zhi le
+简餐	jian can
+算了	suan le
+算盘	suan pan
+算盤	suan pan
+箭	jian
+箸	zhu
+節哀	jie ai
+節哀順變	jie ai shun bian
+篮	lan
+篮球	lan qiu
+簡直了	jian zhi le
+簡餐	jian can
+簽語餅	qian yu bing
+籃	lan
+籃球	lan qiu
+籤	qian
+米果	mi guo
+米飯	mi fan
+米饭	mi fan
+粗气	cu qi
+粗氣	cu qi
+精灵	jing ling
+精灵女	jing ling nv
+精灵族	jing ling zu
+精灵族女	jing ling zu nv
+精灵族男	jing ling zu nan
+精灵男	jing ling nan
+精靈	jing ling
+精靈女	jing ling nv
+精靈族	jing ling zu
+精靈族女	jing ling zu nv
+精靈族男	jing ling zu nan
+精靈男	jing ling nan
+糊塗	hu tu
+糊涂	hu tu
+糕点	gao dian
+糕點	gao dian
+糖	tang
+糖果	tang guo
+糖葫芦	tang hu lu
+糖葫蘆	tang hu lu
+糥米丸子	nuo mi wan zi
+糾結	jiu jie
+糾結女	jiu jie nv
+糾結男	jiu jie nan
+約旦	yue dan
+紅	hong
+紅包	hong bao
+紅圓	hong yuan
+紅娘	hong niang
+紅心	hong xin
+紅猩猩	hong xing xing
+紅玫瑰	hong mei gui
+紅綠燈	hong lv deng
+紅色	hong se
+紅葉	hong ye
+紅薯	hong shu
+紅蘋果	hong pin guo
+紅蘿蔔	hong luo bo
+紅豆	hong dou
+紅酒	hong jiu
+紅頭髮	hong tou fa
+紅頭髮女	hong tou fa nv
+紅頭髮男	hong tou fa nan
+紅髮	hong fa
+紅髮女	hong fa nv
+紅髮男	hong fa nan
+紅鶴	hong he
+紅鸛	hong guan
+納扎爾球	na za er qiu
+納扎爾護身符	na za er hu shen fu
+納扎護身符	na za hu shen fu
+納米比亞	na mi bi ya
+紐埃	niu ai
+紐約	niu yue
+紐西蘭	niu xi lan
+紗麗	sha li
+紙鳶	zhi yuan
+紙鷂	zhi yao
+索引卡	suo yin ka
+索罗门群岛	suo luo men qun dao
+索羅門群島	suo luo men qun dao
+索馬利亞	suo ma li ya
+索馬里	suo ma li
+索马利亚	suo ma li ya
+索马里	suo ma li
+紧急	jin ji
+紫	zi
+紫圆	zi yuan
+紫圓	zi yuan
+紫心	zi xin
+紫色	zi se
+累了	lei le
+細菌	xi jun
+紳士	shen shi
+結	jie
+結婚	jie hun
+結婚戒指	jie hun jie zhi
+絡腮鬍	luo sai hu
+絡腮鬍女	luo sai hu nv
+絡腮鬍男	luo sai hu nan
+給錢	gei qian
+綠	lv
+綠圓	lv yuan
+綠帽	lv mao
+綠心	lv xin
+綠色	lv se
+綠茶	lv cha
+綠菜	lv cai
+綠藻	lv zao
+維德角	wei de jiao
+網	wang
+網球	wang qiu
+綵帶	cai dai
+綵旗	cai qi
+綵球	cai qiu
+綵蛋	cai dan
+綿羊	mian yang
+緊急	jin ji
+線	xian
+線圈本	xian quan ben
+線團	xian tuan
+線蟲	xian chong
+線軸	xian zhou
+線輪	xian lun
+緬甸	mian dian
+縫衣針	feng yi zhen
+繁星	fan xing
+繡珍光盤	xiu zhen guang pan
+繡珍光碟	xiu zhen guang die
+繩結	sheng jie
+繪畫	hui hua
+纏頭	chan tou
+纏頭女	chan tou nv
+纏頭男	chan tou nan
+纜車	lan che
+纠结	jiu jie
+纠结女	jiu jie nv
+纠结男	jiu jie nan
+红	hong
+红包	hong bao
+红发	hong fa
+红发女	hong fa nv
+红发男	hong fa nan
+红叶	hong ye
+红圆	hong yuan
+红头发	hong tou fa
+红头发女	hong tou fa nv
+红头发男	hong tou fa nan
+红娘	hong niang
+红心	hong xin
+红猩猩	hong xing xing
+红玫瑰	hong mei gui
+红绿灯	hong lv deng
+红色	hong se
+红苹果	hong ping guo
+红萝卜	hong luo bu
+红薯	hong shu
+红豆	hong dou
+红酒	hong jiu
+红鹤	hong he
+红鹳	hong guan
+约旦	yue dan
+纱丽	sha li
+纳扎尔护身符	na za er hu shen fu
+纳扎尔球	na za er qiu
+纳扎护身符	na za hu shen fu
+纳米比亚	na mi bi ya
+纸鸢	zhi yuan
+纸鹞	zhi yao
+纽埃	niu ai
+纽约	niu yue
+纽西兰	niu xi lan
+线	xian
+线团	xian tuan
+线圈本	xian quan ben
+线虫	xian chong
+线轮	xian lun
+线轴	xian zhou
+绅士	shen shi
+细菌	xi jun
+结	jie
+结婚	jie hun
+结婚戒指	jie hun jie zhi
+绘画	hui hua
+给钱	gei qian
+络腮胡	luo sai hu
+络腮胡女	luo sai hu nv
+络腮胡男	luo sai hu nan
+绣珍光盘	xiu zhen guang pan
+绣珍光碟	xiu zhen guang die
+绳结	sheng jie
+维德角	wei de jiao
+绵羊	mian yang
+绿	lv
+绿圆	lv yuan
+绿帽	lv mao
+绿心	lv xin
+绿色	lv se
+绿茶	lv cha
+绿菜	lv cai
+绿藻	lv zao
+缅甸	mian dian
+缆车	lan che
+缝衣针	feng yi zhen
+缠头	chan tou
+缠头女	chan tou nv
+缠头男	chan tou nan
+缺月	que yue
+罐	guan
+罐头	guan tou
+罐頭	guan tou
+网	wang
+网球	wang qiu
+罗马尼亚	luo ma ni ya
+羅馬尼亞	luo ma ni ya
+羊	yang
+羊皮紙	yang pi zhi
+羊皮纸	yang pi zhi
+羊肉	yang rou
+羊角面包	yang jiao mian bao
+羊角麫包	yang jiao mian bao
+羊角麵包	yang jiao mian bao
+羊駝	yang tuo
+羊驼	yang tuo
+美人魚	mei ren yu
+美人鱼	mei ren yu
+美元	mei yuan
+美刀	mei dao
+美利坚	mei li jian
+美利堅	mei li jian
+美味	mei wei
+美国	mei guo
+美圆	mei yuan
+美國	mei guo
+美圓	mei yuan
+美女	mei nv
+美属维京群岛	mei shu wei jing qun dao
+美属萨摩亚	mei shu sa mo ya
+美屬維京群島	mei shu wei jing qun dao
+美屬薩摩亞	mei shu sa mo ya
+美式九球	mei shi jiu qiu
+美式足球	mei shi zu qiu
+美洲	mei zhou
+美甲	mei jia
+美金	mei jin
+美鈔	mei chao
+美钞	mei chao
+羞	xiu
+羞涩	xiu se
+羞澀	xiu se
+羞羞	xiu xiu
+群岛	qun dao
+群島	qun dao
+義大利	yi da li
+義大利麵	yi da li mian
+羽	yu
+羽毛	yu mao
+羽毛球	yu mao qiu
+羽毛球拍	yu mao qiu pai
+習題	xi ti
+老	lao
+老人	lao ren
+老倌	lao guan
+老太	lao tai
+老头	lao tou
+老女人	lao nv ren
+老奶	lao nai
+老妈	lao ma
+老媽	lao ma
+老师	lao shi
+老师女	lao shi nv
+老师男	lao shi nan
+老師	lao shi
+老師女	lao shi nv
+老師男	lao shi nan
+老挝	lao zhua
+老撾	lao zhua
+老母	lao mu
+老游戏	lao you xi
+老火車	lao huo che
+老火车	lao huo che
+老爸	lao ba
+老男人	lao nan ren
+老窦	lao dou
+老竇	lao dou
+老花鏡	lao hua jing
+老花镜	lao hua jing
+老虎	lao hu
+老虎机	lao hu ji
+老虎機	lao hu ji
+老豆	lao dou
+老遊戲	lao you xi
+老頭	lao tou
+老鷹	lao ying
+老鹰	lao ying
+老鼠	lao shu
+考拉	kao la
+耳	er
+耳仔	er zi
+耳放	er fang
+耳朵	er duo
+耳机	er ji
+耳機	er ji
+耳聋	er long
+耳聋女	er long nv
+耳聋男	er long nan
+耳聾	er long
+耳聾女	er long nv
+耳聾男	er long nan
+耶	ye
+耿西	geng xi
+聊天	liao tian
+聊天气泡	liao tian qi pao
+聊天氣泡	liao tian qi pao
+聋	long
+聋哑	long ya
+聋哑人	long ya ren
+聋哑人女	long ya ren nv
+聋哑人男	long ya ren nan
+聋哑女	long ya nv
+聋哑男	long ya nan
+聋女	long nv
+聋子	long zi
+聋子女	long zi nv
+聋子男	long zi nan
+聋男	long nan
+职员	zhi yuan
+职员女	zhi yuan nv
+职员男	zhi yuan nan
+联合国	lian he guo
+联结	lian jie
+聖佑達修斯	sheng you da xiu si
+聖克里斯多福及尼維斯	sheng ke li si duo fu ji ni wei si
+聖基茨和尼維斯	sheng ji ci he ni wei si
+聖多美和普林西比	sheng duo mei he pu lin xi bi
+聖多美普林西比	sheng duo mei pu lin xi bi
+聖嬰	sheng ying
+聖尤斯特歇斯	sheng you si te xie si
+聖巴泰勒米	sheng ba tai le mi
+聖巴瑟米	sheng ba se mi
+聖文森及格瑞那丁	sheng wen sen ji ge rui na ding
+聖文森特和格林納丁斯	sheng wen sen te he ge lin na ding si
+聖皮埃爾和密克隆	sheng pi ai er he mi ke long
+聖皮耶與密克隆	sheng pi ye yu mi ke long
+聖盧西亞	sheng lu xi ya
+聖誕奶奶	sheng dan nai nai
+聖誕島	sheng dan dao
+聖誕樹	sheng dan shu
+聖誕老人	sheng dan lao ren
+聖誕老奶奶	sheng dan lao nai nai
+聖誕老爺爺	sheng dan lao ye ye
+聖赫倫那	sheng he lun na
+聖赫勒拿	sheng he le na
+聖露西亞	sheng lou xi ya
+聖馬利諾	sheng ma li nuo
+聖馬力諾	sheng ma li nuo
+聘礼	pin li
+聘禮	pin li
+聚会	ju hui
+聚會	ju hui
+聪明	cong ming
+聯合國	lian he guo
+聯結	lian jie
+聰明	cong ming
+職員	zhi yuan
+職員女	zhi yuan nv
+職員男	zhi yuan nan
+聽不下去	ting bu xia qu
+聽不懂	ting bu dong
+聽不見	ting bu jian
+聽不見女	ting bu jian nv
+聽不見男	ting bu jian nan
+聽唔到	ting wu dao
+聽診器	ting zhen qi
+聽音樂	ting yin le
+聾	long
+聾啞	long ya
+聾啞人	long ya ren
+聾啞人女	long ya ren nv
+聾啞人男	long ya ren nan
+聾啞女	long ya nv
+聾啞男	long ya nan
+聾女	long nv
+聾子	long zi
+聾子女	long zi nv
+聾子男	long zi nan
+聾男	long nan
+肉卷	rou juan
+肉捲	rou juan
+肋排	lei pai
+肌	ji
+肌肉	ji rou
+肥猪	fei zhu
+肥皂	fei zao
+肥豬	fei zhu
+肩並肩	jian bing jian
+肩并肩	jian bing jian
+肯亚	ken ya
+肯亞	ken ya
+肯尼亚	ken ni ya
+肯尼亞	ken ni ya
+肺	fei
+背包	bei bao
+背心	bei xin
+胜利	sheng li
+胡	hu
+胡女	hu nv
+胡子	hu zi
+胡子女	hu zi nv
+胡子男	hu zi nan
+胡扯	hu che
+胡男	hu nan
+胡萝卜	hu luo bo
+胡蘿蔔	hu luo bo
+胡說	hu shuo
+胡说	hu shuo
+胡须	hu xu
+胡须女	hu xu nv
+胡须男	hu xu nan
+胫	jing
+胶卷	jiao juan
+胶布	jiao bu
+胶片	jiao pian
+胸片	xiong pian
+胸透	xiong tou
+胸針	xiong zhen
+胸针	xiong zhen
+能見度低	neng jian du di
+能见度低	neng jian du di
+脐橙	qi cheng
+脑	nao
+脑子	nao zi
+脚	jiao
+脚印	jiao yin
+脚底	jiao di
+脚掌	jiao zhang
+脚步	jiao bu
+脛	jing
+脫氧核糖核酸	tuo yang he tang he suan
+脱氧核糖核酸	tuo yang he tang he suan
+脷	li
+脸红	lian hong
+腦	nao
+腦子	nao zi
+腳	jiao
+腳印	jiao yin
+腳底	jiao di
+腳掌	jiao zhang
+腳步	jiao bu
+腿	tui
+膏布	gao bu
+膠卷	jiao juan
+膠布	jiao bu
+膠片	jiao pian
+臉紅	lian hong
+臍橙	qi cheng
+自來水	zi lai shui
+自动轮椅	zi dong lun yi
+自動輪椅	zi dong lun yi
+自拍	zi pai
+自来水	zi lai shui
+自然風光	zi ran feng guang
+自然风光	zi ran feng guang
+自由女神	zi you nv shen
+自由泳	zi you yong
+自由泳女	zi you yong nv
+自由泳男	zi you yong nan
+自行車	zi xing che
+自行车	zi xing che
+臭鼬	chou you
+致命	zhi ming
+致敬	zhi jing
+臺式機	tai shi ji
+臺曆	tai li
+臺灣	tai wan
+舉起拳頭	ju qi quan tou
+舉重	ju zhong
+舉重女	ju zhong nv
+舉重男	ju zhong nan
+舊屋	jiu wu
+舊房子	jiu fang zi
+舌	she
+舌头	she tou
+舌頭	she tou
+舒服	shu fu
+舞	wu
+舞动之心	wu dong zhi xin
+舞動之心	wu dong zhi xin
+舞厅	wu ting
+舞女	wu nv
+舞娘	wu niang
+舞廳	wu ting
+舞男	wu nan
+舞蹈	wu dao
+舰长	jian chang
+舰长女	jian chang nv
+舰长男	jian chang nan
+船坞	chuan wu
+船塢	chuan wu
+船帆	chuan fan
+船長	chuan chang
+船長女	chuan chang nv
+船長男	chuan chang nan
+船长	chuan chang
+船长女	chuan chang nv
+船长男	chuan chang nan
+艦長	jian chang
+艦長女	jian chang nv
+艦長男	jian chang nan
+色子	se zi
+色拉	se la
+艺人	yi ren
+艺人女	yi ren nv
+艺人男	yi ren nan
+艺术家	yi shu jia
+艺术家女	yi shu jia nv
+艺术家男	yi shu jia nan
+节哀	jie ai
+节哀顺变	jie ai shun bian
+芒果	mang guo
+芙蓉	fu rong
+芝士火鍋	zhi shi huo guo
+芝士火锅	zhi shi huo guo
+芬兰	fen lan
+芬蘭	fen lan
+芭蕾	ba lei
+芭蕾舞	ba lei wu
+芭蕾鞋	ba lei xie
+花园	hua yuan
+花园房	hua yuan fang
+花園	hua yuan
+花園房	hua yuan fang
+花束	hua shu
+花椰菜	hua ye cai
+花瓶	hua ping
+花生	hua sheng
+花菜	hua cai
+苍蝇	cang ying
+苏丹	su dan
+苏利南	su li nan
+苏格兰	su ge lan
+苏虾	su xia
+苏里南	su li nan
+苗	miao
+英国	ying guo
+英國	ying guo
+英属印度洋领地	ying shu yin du yang ling di
+英属维京群岛	ying shu wei jing qun dao
+英屬印度洋領地	ying shu yin du yang ling di
+英屬維京群島	ying shu wei jing qun dao
+英文鍵盤	ying wen jian pan
+英文键盘	ying wen jian pan
+英格兰	ying ge lan
+英格蘭	ying ge lan
+英联邦	ying lian bang
+英聯邦	ying lian bang
+英鎊	ying bang
+英镑	ying bang
+英雄	ying xiong
+英雄女	ying xiong nv
+英雄男	ying xiong nan
+苹果	ping guo
+茄	qie
+茄子	qie zi
+茅利塔尼亚	mao li ta ni ya
+茅利塔尼亞	mao li ta ni ya
+茅屋	mao wu
+茅房	mao fang
+茅舍	mao she
+茅草屋	mao cao wu
+茅草房	mao cao fang
+茈花	zi hua
+茫然	mang ran
+茶	cha
+茶壶	cha hu
+茶壺	cha hu
+草	cao
+草㡌	cao mao
+草地曲棍球	cao di qu gun qiu
+草屋	cao wu
+草舍	cao she
+草药	cao yao
+草莓	cao mei
+草藥	cao yao
+荒漠	huang mo
+药	yao
+药丸	yao wan
+荷兰	he lan
+荷包蛋	he bao dan
+荷属圣马丁	he shu sheng ma ding
+荷属沙巴	he shu sha ba
+荷属阿鲁巴	he shu a lu ba
+荷屬沙巴	he shu sha ba
+荷屬聖馬丁	he shu sheng ma ding
+荷屬阿魯巴	he shu a lu ba
+荷蘭	he lan
+莫三比克	mo san bi ke
+莫桑比克	mo sang bi ke
+莱索托	lai suo tuo
+莲	lian
+莲花	lian hua
+菊	ju
+菊花	ju hua
+菌	jun
+菌类	jun lei
+菌類	jun lei
+菜	cai
+菜刀	cai dao
+菜篮	cai lan
+菜籃	cai lan
+菜花	cai hua
+菜青虫	cai qing chong
+菜青蟲	cai qing chong
+華夫	hua fu
+華夫餅	hua fu bing
+菱形	ling xing
+菲律宾	fei lv bin
+菲律賓	fei lv bin
+菸	yan
+萊索托	lai suo tuo
+萌	meng
+营	ying
+萨克斯	sa ke si
+萨克斯风	sa ke si feng
+萨尔瓦多	sa er wa duo
+萨巴	sa ba
+萨摩亚	sa mo ya
+萬歲	wan sui
+萬聖節	wan sheng jie
+萬那杜	wan na du
+落叶	luo ye
+落葉	luo ye
+落雪	luo xue
+葉門	ye men
+著火	zhu huo
+著陆	zhu lu
+著陸	zhu lu
+葛摩	ge mo
+葡国	pu guo
+葡國	pu guo
+葡萄	pu tao
+葡萄牙	pu tao ya
+葡萄酒	pu tao jiu
+葡萄酒杯	pu tao jiu bei
+葬礼	zang li
+葬禮	zang li
+蒙古	meng gu
+蒙哲腊	meng zhe la
+蒙哲臘	meng zhe la
+蒙特內哥羅	meng te nei ge luo
+蒙特内哥罗	meng te nei ge luo
+蒙特塞拉特	meng te sai la te
+蒙眼睛	meng yan jing
+蒜	suan
+蒲隆地	pu long di
+蒸桑拿	zheng sang na
+蒸桑拿女	zheng sang na nv
+蒸桑拿男	zheng sang na nan
+蒸汽机车	zheng qi ji che
+蒸汽機車	zheng qi ji che
+蒸汽船	zheng qi chuan
+蒸餾瓶	zheng liu ping
+蒸馏瓶	zheng liu ping
+蒼蠅	cang ying
+蓋亞那	gai ya na
+蓋飯	gai fan
+蓝	lan
+蓝圆	lan yuan
+蓝心	lan xin
+蓝眼睛	lan yan jing
+蓝色	lan se
+蓝色小菱形	lan se xiao ling xing
+蓝莓	lan mei
+蓝菱	lan ling
+蓝藻	lan zao
+蓮	lian
+蓮花	lian hua
+蔬菜沙拉	shu cai sha la
+蔬菜球	shu cai qiu
+蔬菜色拉	shu cai se la
+蔷薇	qiang wei
+蕃茄	fan qie
+蕃茄酱	fan qie jiang
+蕃茄醬	fan qie jiang
+薄餅	bao bing
+薄饼	bao bing
+薔薇	qiang wei
+薩克斯	sa ke si
+薩克斯風	sa ke si feng
+薩巴	sa ba
+薩摩亞	sa mo ya
+薩爾瓦多	sa er wa duo
+薯仔	shu zi
+薯条	shu tiao
+薯條	shu tiao
+藍	lan
+藍圓	lan yuan
+藍心	lan xin
+藍眼睛	lan yan jing
+藍色	lan se
+藍色小菱形	lan se xiao ling xing
+藍莓	lan mei
+藍菱	lan ling
+藍藻	lan zao
+藝人	yi ren
+藝人女	yi ren nv
+藝人男	yi ren nan
+藝術家	yi shu jia
+藝術家女	yi shu jia nv
+藝術家男	yi shu jia nan
+藥	yao
+藥丸	yao wan
+藻	zao
+蘇丹	su dan
+蘇利南	su li nan
+蘇格蘭	su ge lan
+蘇蝦	su xia
+蘇里南	su li nan
+蘋果	pin guo
+蘑菇	mo gu
+虎	hu
+虎头	hu tou
+虎年	hu nian
+虎頭	hu tou
+處女座	chu nv zuo
+虚伪	xu wei
+虚化	xu hua
+虛僞	xu wei
+虛化	xu hua
+虹	hong
+虺	hui
+虾	xia
+虾卷	xia juan
+虾米	xia mi
+虾蟆	ha ma
+蚁	yi
+蚂蚁	ma yi
+蚂蚱	ma zha
+蚊	wen
+蚊子	wen zi
+蚝	hao
+蚱蜢	zha meng
+蚵仔	ke zi
+蛇	she
+蛇夫座	she fu zuo
+蛇头	she tou
+蛇年	she nian
+蛇杖	she zhang
+蛇頭	she tou
+蛋	dan
+蛋奶冻	dan nai dong
+蛋奶凍	dan nai dong
+蛋治	dan zhi
+蛋糕	dan gao
+蛋餅	dan bing
+蛋饼	dan bing
+蛐蛐	qu qu
+蛔	hui
+蛔虫	hui chong
+蛔蟲	hui chong
+蛙	wa
+蛛	zhu
+蛛網	zhu wang
+蛛网	zhu wang
+蛤蟆	ha ma
+蛸	xiao
+蜂	feng
+蜂蜜	feng mi
+蜗	wo
+蜗牛	wo niu
+蜘蛛	zhi zhu
+蜘蛛網	zhi zhu wang
+蜘蛛网	zhi zhu wang
+蜙蝑	zhong xu
+蜜	mi
+蜜瓜	mi gua
+蜜蜂	mi feng
+蜡烛	la zhu
+蜡笔	la bi
+蜥	xi
+蜥蜴	xi yi
+蝇	ying
+蝈蝈	guo guo
+蝎	xie
+蝎子	xie zi
+蝙蝠	bian fu
+蝠	fu
+蝦	xia
+蝦捲	xia juan
+蝦米	xia mi
+蝦蟆	xia ma
+蝴蝶	hu die
+蝴蝶結	hu die jie
+蝴蝶结	hu die jie
+蝴蝶脆餅	hu die cui bing
+蝴蝶脆饼	hu die cui bing
+蝴蝶餅	hu die bing
+蝴蝶饼	hu die bing
+蝶	die
+蝸	wo
+蝸牛	wo niu
+螃蟹	pang xie
+融化	rong hua
+螞蚱	ma zha
+螞蟻	ma yi
+螺	luo
+螺丝刀	luo si dao
+螺号	luo hao
+螺旋桨飞机	luo xuan jiang fei ji
+螺旋槳飛機	luo xuan jiang fei ji
+螺絲刀	luo si dao
+螺號	luo hao
+螽斯	zhong si
+蟈蟈	guo guo
+蟋蟀	xi shuai
+蟑螂	zhang lang
+蟹	xie
+蟻	yi
+蠅	ying
+蠍	xie
+蠍子	xie zi
+蠔	hao
+蠕	ru
+蠕虫	ru chong
+蠕蟲	ru chong
+蠟燭	la zhu
+蠟筆	la bi
+蠢	chun
+蠢材	chun cai
+血	xie
+血液	xue ye
+血滴	xie di
+行	hang
+行人	xing ren
+行人女	xing ren nv
+行人止歩	xing ren zhi bu
+行人男	xing ren nan
+行啊	hang a
+行李	xing li
+行李箱	hang li xiang
+行走	xing zou
+行走女	xing zou nv
+行走男	xing zou nan
+衛士	wei shi
+衛士女	wei shi nv
+衛士男	wei shi nan
+衛星	wei xing
+衛生紙	wei sheng zhi
+衛生間	wei sheng jian
+衛門	wei men
+衛門女	wei men nv
+衛門男	wei men nan
+衝浪	chong lang
+衝浪女	chong lang nv
+衝浪男	chong lang nan
+衣索比亚	yi suo bi ya
+衣索比亞	yi suo bi ya
+表	biao
+衬衣	chen yi
+衬衫	chen shan
+袋棍球	dai gun qiu
+袋鼠	dai shu
+袜	wa
+袜子	wa zi
+被騙	bei pian
+被骗	bei pian
+裁判	cai pan
+裇	xu
+裙	qun
+裙子	qun zi
+裤	ku
+裤头	ku tou
+裤子	ku zi
+裹头	guo tou
+裹头女	guo tou nv
+裹头男	guo tou nan
+裹頭	guo tou
+裹頭女	guo tou nv
+裹頭男	guo tou nan
+複選框	fu xuan kuang
+複雜	fu za
+褲	ku
+褲子	ku zi
+褲頭	ku tou
+襪	wa
+襪子	wa zi
+襯衣	chen yi
+襯衫	chen shan
+西服	xi fu
+西服女	xi fu nv
+西服男	xi fu nan
+西班牙	xi ban ya
+西瓜	xi gua
+西紅柿	xi hong shi
+西红柿	xi hong shi
+西装	xi zhuang
+西装女	xi zhuang nv
+西装男	xi zhuang nan
+西裝	xi zhuang
+西裝女	xi zhuang nv
+西裝男	xi zhuang nan
+西部	xi bu
+西部牛仔	xi bu niu zai
+要哭了	yao ku le
+要得	yao de
+見鬼	jian gui
+親	qin
+親一個	qin yi ge
+親吻	qin wen
+親嘴	qin zui
+親愛	qin ai
+親親	qin qin
+觀賞魚	guan shang yu
+见鬼	jian gui
+观赏鱼	guan shang yu
+解鎖	jie suo
+解锁	jie suo
+触电	chu dian
+觸電	chu dian
+言和	yan he
+計時	ji shi
+計時器	ji shi qi
+計程車	ji cheng che
+計算機	ji suan ji
+討厭	tao yan
+託運	tuo yun
+許可證	xu ke zheng
+註冊商標	zhu ce shang biao
+詐騙	zha pian
+試劑	shi ji
+試管	shi guan
+詭計	gui ji
+話筒	hua tong
+認不得	ren bu de
+認不得女	ren bu de nv
+認不得男	ren bu de nan
+認真	ren zhen
+誒	ei
+誕生	dan sheng
+誘餌	you er
+語言	yu yan
+說不出	shuo bu chu
+說話	shuo hua
+說謊	shuo huang
+課堂	ke tang
+課堂女	ke tang nv
+課堂男	ke tang nan
+課室	ke shi
+課室女	ke shi nv
+課室男	ke shi nan
+課本	ke ben
+調亮	diao liang
+調低	diao di
+調暗	diao an
+調皮	diao pi
+調羹	diao geng
+調色	diao se
+調色板	diao se ban
+調色盤	diao se pan
+調高	diao gao
+請	qing
+請女	qing nv
+請男	qing nan
+諮詢	zi xun
+諾福克島	nuo fu ke dao
+諾魯	nuo lu
+講大話	jiang da hua
+講話	jiang hua
+謝謝	xie xie
+謝頂	xie ding
+謝頂女	xie ding nv
+謝頂男	xie ding nan
+證件	zheng jian
+識別卡	shi bie ka
+譜曲	pu qu
+警告	jing gao
+警察	jing cha
+警察女	jing cha nv
+警察男	jing cha nan
+警示牌	jing shi pai
+警車	jing che
+警车	jing che
+護士	hu shi
+護士女	hu shi nv
+護士服	hu shi fu
+護士男	hu shi nan
+護目鏡	hu mu jing
+讀書	du shu
+讀書人	du shu ren
+讓人失望	rang ren shi wang
+讚	zan
+计时	ji shi
+计时器	ji shi qi
+计程车	ji cheng che
+计算机	ji suan ji
+认不得	ren bu de
+认不得女	ren bu de nv
+认不得男	ren bu de nan
+认真	ren zhen
+讨厌	tao yan
+让人失望	rang ren shi wang
+讲大话	jiang da hua
+讲话	jiang hua
+许可证	xu ke zheng
+证件	zheng jian
+识别卡	shi bie ka
+诈骗	zha pian
+试剂	shi ji
+试管	shi guan
+话筒	hua tong
+诞生	dan sheng
+诡计	gui ji
+语言	yu yan
+诱饵	you er
+说不出	shuo bu chu
+说话	shuo hua
+说谎	shuo huang
+诶	ei
+请	qing
+请女	qing nv
+请男	qing nan
+诺福克岛	nuo fu ke dao
+诺鲁	nuo lu
+读书	du shu
+读书人	du shu ren
+课堂	ke tang
+课堂女	ke tang nv
+课堂男	ke tang nan
+课室	ke shi
+课室女	ke shi nv
+课室男	ke shi nan
+课本	ke ben
+调亮	tiao liang
+调低	tiao di
+调暗	tiao an
+调皮	tiao pi
+调羹	tiao geng
+调色	tiao se
+调色板	tiao se ban
+调色盘	tiao se pan
+调高	tiao gao
+谢谢	xie xie
+谢顶	xie ding
+谢顶女	xie ding nv
+谢顶男	xie ding nan
+谱曲	pu qu
+豆	dou
+豎中指	shu zhong zhi
+豐收	feng shou
+豕	shi
+象	xiang
+象牙海岸	xiang ya hai an
+豪猪	hao zhu
+豪豬	hao zhu
+豬	zhu
+豬年	zhu nian
+豬排	zhu pai
+豬肉	zhu rou
+豬頭	zhu tou
+豬頭三	zhu tou san
+豬鼻	zhu bi
+豬鼻子	zhu bi zi
+豸	zhi
+豹	bao
+豹子	bao zi
+貂	diao
+貓	mao
+貓咪	mao mi
+貓年	mao nian
+貓熊	mao xiong
+貓肉	mao rou
+貓頭	mao tou
+貓頭鷹	mao tou ying
+貝	bei
+貝南	bei nan
+貝寧	bei ning
+貝殼	bei ke
+貝里斯	bei li si
+貝類	bei lei
+財迷	cai mi
+貨	huo
+貨卡	huo ka
+貨幣	huo bi
+貨車	huo che
+貨運	huo yun
+貴賓犬	gui bin quan
+貴賓狗	gui bin gou
+賀禮	he li
+資訊	zi xun
+資金	zi jin
+賓館	bin guan
+賣萌	mai meng
+賣藝	mai yi
+賣藝女	mai yi nv
+賣藝男	mai yi nan
+賤人	jian ren
+賬本	zhang ben
+賬簿	zhang bu
+賭博	du bo
+賭博機	du bo ji
+賭場	du chang
+賭錢	du qian
+賭馬	du ma
+賴比瑞亞	lai bi rui ya
+賴索托	lai suo tuo
+購物	gou wu
+購物袋	gou wu dai
+購物車	gou wu che
+賽普勒斯	sai pu le si
+賽艇	sai ting
+賽艇女	sai ting nv
+賽艇男	sai ting nan
+賽車	sai che
+賽車比賽	sai che bi sai
+賽馬	sai ma
+贊比亞	zan bi ya
+贝	bei
+贝南	bei nan
+贝壳	bei ke
+贝宁	bei ning
+贝类	bei lei
+贝里斯	bei li si
+财迷	cai mi
+账本	zhang ben
+账簿	zhang bu
+货	huo
+货卡	huo ka
+货币	huo bi
+货车	huo che
+货运	huo yun
+购物	gou wu
+购物袋	gou wu dai
+购物车	gou wu che
+贱人	jian ren
+贵宾犬	gui bin quan
+贵宾狗	gui bin gou
+贺礼	he li
+资讯	zi xun
+资金	zi jin
+赌博	du bo
+赌博机	du bo ji
+赌场	du chang
+赌钱	du qian
+赌马	du ma
+赖比瑞亚	lai bi rui ya
+赖索托	lai suo tuo
+赛普勒斯	sai pu le si
+赛艇	sai ting
+赛艇女	sai ting nv
+赛艇男	sai ting nan
+赛车	sai che
+赛车比赛	sai che bi sai
+赛马	sai ma
+赞	zan
+赞比亚	zan bi ya
+赤	chi
+赤道几内亚	chi dao ji nei ya
+赤道幾內亞	chi dao ji nei ya
+赭圆	zhe yuan
+赭圓	zhe yuan
+赭心	zhe xin
+走	zou
+走女	zou nv
+走男	zou nan
+起始符	qi shi fu
+起子	qi zi
+起火	qi huo
+起雾	qi wu
+起霧	qi wu
+起飛	qi fei
+起飞	qi fei
+超人	chao ren
+超人女	chao ren nv
+超人男	chao ren nan
+越南	yue nan
+足	zu
+足印	zu yin
+足球	zu qiu
+足跡	zu ji
+足迹	zu ji
+跆拳道	tai quan dao
+跌	die
+跑	pao
+跑女	pao nv
+跑男	pao nan
+跑男女	pao nan nv
+跑男男	pao nan nan
+跑車	pao che
+跑车	pao che
+跑馬	pao ma
+跑马	pao ma
+跛	bo
+跛女	bo nv
+跛男	bo nan
+跨性別	kua xing bie
+跨性別旗	kua xing bie qi
+跨性别	kua xing bie
+跨性别旗	kua xing bie qi
+跪	gui
+跪下	gui xia
+跪下女	gui xia nv
+跪下男	gui xia nan
+跪女	gui nv
+跪拜	gui bai
+跪拜女	gui bai nv
+跪拜男	gui bai nan
+跪男	gui nan
+路口	lu kou
+路障	lu zhang
+跳伞	tiao san
+跳傘	tiao san
+跳舞	tiao wu
+踏板車	ta ban che
+踏板车	ta ban che
+踩	cai
+踪迹	zong ji
+蹙眉	cu mei
+蹙眉女	cu mei nv
+蹙眉男	cu mei nan
+蹤跡	zong ji
+蹦迪	beng di
+身份證	shen fen zheng
+身份证	shen fen zheng
+身体乳	shen ti ru
+身分證	shen fen zheng
+身分证	shen fen zheng
+身孕	shen yun
+身孕女	shen yun nv
+身孕男	shen yun nan
+身體乳	shen ti ru
+車	che
+車來了	che lai le
+車厘子	che li zi
+車站	che zhan
+車箱	che xiang
+車胎	che tai
+車輪	che lun
+車頭	che tou
+軋路機	ya lu ji
+軌跡球	gui ji qiu
+軌道車	gui dao che
+軟盤	ruan pan
+軟碟	ruan die
+輕軌	qing gui
+輕點	qing dian
+輪	lun
+輪椅	lun yi
+輪渡	lun du
+輪滑	lun hua
+輪胎	lun tai
+輪船	lun chuan
+輻射	fu she
+轉上	zhuan shang
+轉下	zhuan xia
+轎車	jiao che
+车	che
+车厘子	che li zi
+车头	che tou
+车来了	che lai le
+车站	che zhan
+车箱	che xiang
+车胎	che tai
+车轮	che lun
+轧路机	ya lu ji
+轨迹球	gui ji qiu
+轨道车	gui dao che
+转上	zhuan shang
+转下	zhuan xia
+轮	lun
+轮椅	lun yi
+轮渡	lun du
+轮滑	lun hua
+轮胎	lun tai
+轮船	lun chuan
+软盘	ruan pan
+软碟	ruan die
+轻点	qing dian
+轻轨	qing gui
+轿车	jiao che
+辐射	fu she
+辛巴威	xin ba wei
+辣	la
+辣椒	la jiao
+辦公樓	ban gong lou
+農戶	nong hu
+農戶女	nong hu nv
+農戶男	nong hu nan
+農民	nong min
+農民女	nong min nv
+農民工	nong min gong
+農民工女	nong min gong nv
+農民工男	nong min gong nan
+農民男	nong min nan
+边检	bian jian
+边防	bian fang
+达玛尔	da ma er
+过山车	guo shan che
+运动㡌	yun dong mao
+运动场	yun dong chang
+运动背心	yun dong bei xin
+运动鞋	yun dong xie
+运货	yun huo
+近視眼鏡	jin shi yan jing
+近视眼镜	jin shi yan jing
+返回	fan hui
+这	zhe
+这边	zhe bian
+这边女	zhe bian nv
+这边男	zhe bian nan
+这里	zhe li
+进城务工人员	jin cheng wu gong ren yuan
+进城务工人员女	jin cheng wu gong ren yuan nv
+进城务工人员男	jin cheng wu gong ren yuan nan
+连体衣	lian ti yi
+连接	lian jie
+连结	lian jie
+连衣裙	lian yi qun
+迦納	jia na
+迦纳	jia na
+迪厅	di ting
+迪廳	di ting
+迴力鏢	hui li biao
+迴旋鏢	hui xuan biao
+迷你光盘	mi ni guang pan
+迷你光盤	mi ni guang pan
+迷你光碟	mi ni guang die
+迷糊	mi hu
+选举	xuan ju
+逗你玩	dou ni wan
+這	zhe
+這裏	zhe li
+這邊	zhe bian
+這邊女	zhe bian nv
+這邊男	zhe bian nan
+通心粉	tong xin fen
+通話中	tong hua zhong
+通话中	tong hua zhong
+通过	tong guo
+通過	tong guo
+連接	lian jie
+連結	lian jie
+連衣裙	lian yi qun
+連體衣	lian ti yi
+進城務工人員	jin cheng wu gong ren yuan
+進城務工人員女	jin cheng wu gong ren yuan nv
+進城務工人員男	jin cheng wu gong ren yuan nan
+遊戲	you xi
+遊戲手柄	you xi shou bing
+遊戲機	you xi ji
+遊戲牌	you xi pai
+遊樂場	you le chang
+運動㡌	yun dong mao
+運動場	yun dong chang
+運動背心	yun dong bei xin
+運動鞋	yun dong xie
+運貨	yun huo
+過山車	guo shan che
+道教	dao jiao
+道觀	dao guan
+道观	dao guan
+道路施工	dao lu shi gong
+達瑪爾	da ma er
+遗传物质	yi chuan wu zhi
+選舉	xuan ju
+遺傳物質	yi chuan wu zhi
+邊檢	bian jian
+邊防	bian fang
+邪恶	xie e
+邪惡	xie e
+邮件	you jian
+邮便所	you bian suo
+邮号	you hao
+邮局	you ju
+邮政局	you zheng ju
+邮筒	you tong
+邮箱	you xiang
+邮轮	you lun
+邱比特	qiu bi te
+郁金香	yu jin xiang
+郁闷	yu men
+郵件	you jian
+郵便所	you bian suo
+郵局	you ju
+郵政局	you zheng ju
+郵筒	you tong
+郵箱	you xiang
+郵號	you hao
+郵輪	you lun
+都市	du shi
+都行	du hang
+鄙視	bi shi
+鄙视	bi shi
+酒店	jiu dian
+酒杯	jiu bei
+酒盏	jiu zhan
+酒盞	jiu zhan
+酢浆草	cu jiang cao
+酢漿草	zuo jiang cao
+酷	ku
+酷炫	ku xuan
+酷炫狂跩	ku xuan kuang zhuai
+醒目	xing mu
+醫學	yi xue
+醫生	yi sheng
+醫生女	yi sheng nv
+醫生男	yi sheng nan
+醫療	yi liao
+醫神權杖	yi shen quan zhang
+醫者	yi zhe
+醫者女	yi zhe nv
+醫者男	yi zhe nan
+醫院	yi yuan
+重做	zhong zuo
+野營	ye ying
+野牛	ye niu
+野狗	ye gou
+野狼	ye lang
+野猪	ye zhu
+野营	ye ying
+野豬	ye zhu
+野馬	ye ma
+野马	ye ma
+金发	jin fa
+金发女	jin fa nv
+金发男	jin fa nan
+金牌	jin pai
+金牛座	jin niu zuo
+金鑰	jin yue
+金钥	jin yue
+金髮	jin fa
+金髮女	jin fa nv
+金髮男	jin fa nan
+金龜子	jin gui zi
+金龟子	jin gui zi
+針	zhen
+針線	zhen xian
+釣魚	diao yu
+鈴	ling
+鉛筆	qian bi
+鉤	gou
+銀河	yin he
+銀牌	yin pai
+銀行	yin hang
+銀行卡	yin hang ka
+銅牌	tong pai
+銼冰	cuo bing
+鋸	ju
+鋼琴	gang qin
+鋼筆	gang bi
+鋼鏰	gang beng
+錄像	lu xiang
+錄像機	lu xiang ji
+錄影帶	lu ying dai
+錄影機	lu ying ji
+錄音帶	lu yin dai
+錢	qian
+錢丟了	qian diu le
+錢包	qian bao
+錢包丟了	qian bao diu le
+錢夾	qian jia
+錢幣	qian bi
+錢袋	qian dai
+錢飛了	qian fei le
+錨	mao
+錯誤	cuo wu
+錶	biao
+鍋貼	guo tie
+鍵板	jian ban
+鍵盤	jian pan
+鎖	suo
+鎖匙	suo chi
+鎚	chui
+鎚子	chui zi
+鎬	gao
+鏈接	lian jie
+鏈條	lian tiao
+鏍絲	luo si
+鏡	jing
+鏡子	jing zi
+鐵塔	tie ta
+鐵索	tie suo
+鐵路	tie lu
+鐵軌	tie gui
+鐵道	tie dao
+鐵道車	tie dao che
+鐵鎚	tie chui
+鐵鏈	tie lian
+鑰匙	yue chi
+鑽戒	zuan jie
+鑽石	zuan shi
+针	zhen
+针线	zhen xian
+钓鱼	diao yu
+钢琴	gang qin
+钢笔	gang bi
+钢镚	gang beng
+钥匙	yao shi
+钩	gou
+钱	qian
+钱丢了	qian diu le
+钱包	qian bao
+钱包丢了	qian bao diu le
+钱夹	qian jia
+钱币	qian bi
+钱袋	qian dai
+钱飞了	qian fei le
+钻戒	zuan jie
+钻石	zuan shi
+铁塔	tie ta
+铁索	tie suo
+铁路	tie lu
+铁轨	tie gui
+铁道	tie dao
+铁道车	tie dao che
+铁链	tie lian
+铁锤	tie chui
+铃	ling
+铅笔	qian bi
+铜牌	tong pai
+银河	yin he
+银牌	yin pai
+银行	yin hang
+银行卡	yin hang ka
+链接	lian jie
+链条	lian tiao
+锁	suo
+锁匙	suo chi
+锅贴	guo tie
+锉冰	cuo bing
+错误	cuo wu
+锚	mao
+锤	chui
+锤子	chui zi
+键板	jian ban
+键盘	jian pan
+锯	ju
+镐	gao
+镙丝	luo si
+镜	jing
+镜子	jing zi
+長度	chang du
+長明燈	chang ming deng
+長曲棍球	chang qu gun qiu
+長棍麫包	chang gun mian bao
+長棍麵包	chang gun mian bao
+長筒靴	chang tong xue
+長者	chang zhe
+長號	chang hao
+長褲	chang ku
+長貨車	chang huo che
+長頸鹿	chang jing lu
+長鼔	chang gu
+长号	chang hao
+长度	chang du
+长明灯	chang ming deng
+长曲棍球	chang qu gun qiu
+长棍面包	chang gun mian bao
+长筒靴	chang tong xue
+长者	zhang zhe
+长裤	chang ku
+长货车	chang huo che
+长颈鹿	chang jing lu
+长鼔	chang gu
+門	men
+門松	men song
+門票	men piao
+門衛	men wei
+門衛女	men wei nv
+門衛男	men wei nan
+閃亮	shan liang
+閃亮之心	shan liang zhi xin
+閃光燈	shan guang deng
+閃爍	shan shuo
+閃閃發光	shan shan fa guang
+閃電	shan dian
+閉口	bi kou
+閉嘴	bi zui
+閉目養神	bi mu yang shen
+開始錄像	kai shi lu xiang
+開始錄音	kai shi lu yin
+開心	kai xin
+開曼	kai man
+開曼群島	kai man qun dao
+開玩笑	kai wan xiao
+開車	kai che
+開鎖	kai suo
+開飯	kai fan
+間諜	jian die
+間諜女	jian die nv
+間諜男	jian die nan
+閱讀	yue du
+關島	guan dao
+關東煮	guan dong zhu
+關機	guan ji
+门	men
+门卫	men wei
+门卫女	men wei nv
+门卫男	men wei nan
+门松	men song
+门票	men piao
+闪亮	shan liang
+闪亮之心	shan liang zhi xin
+闪光灯	shan guang deng
+闪烁	shan shuo
+闪电	shan dian
+闪闪发光	shan shan fa guang
+闭口	bi kou
+闭嘴	bi zui
+闭目养神	bi mu yang shen
+问号	wen hao
+问叹号	wen tan hao
+间谍	jian die
+间谍女	jian die nv
+间谍男	jian die nan
+闷著	men zhu
+闹钟	nao zhong
+闹铃	nao ling
+阅读	yue du
+防护镜	fang hu jing
+防護鏡	fang hu jing
+阳伞	yang san
+阳谋	yang mou
+阴	yin
+阴天	yin tian
+阴暗	yin an
+阴暗面	yin an mian
+阴谋	yin mou
+阴阳	yin yang
+阵列	zhen lie
+阵雨	zhen yu
+阿公	a gong
+阿塞拜彊	a sai bai qiang
+阿婆	a po
+阿富汗	a fu han
+阿尔及利亚	a er ji li ya
+阿尔巴尼亚	a er ba ni ya
+阿拉丁灯神	a la ding deng shen
+阿拉丁灯神女	a la ding deng shen nv
+阿拉丁灯神男	a la ding deng shen nan
+阿拉丁燈神	a la ding deng shen
+阿拉丁燈神女	a la ding deng shen nv
+阿拉丁燈神男	a la ding deng shen nan
+阿拉伯	a la bo
+阿拉伯女人	a la bo nv ren
+阿曼	a man
+阿根廷	a gen ting
+阿根廷茶	a gen ting cha
+阿森松	a sen song
+阿爷	a ye
+阿爺	a ye
+阿爾及利亞	a er ji li ya
+阿爾巴尼亞	a er ba ni ya
+阿联	a lian
+阿联酋	a lian qiu
+阿聯	a lian
+阿聯酋	a lian qiu
+降低	jiang di
+降落	jiang luo
+降落伞	jiang luo san
+降落傘	jiang luo san
+陣列	zhen lie
+陣雨	zhen yu
+除	chu
+陰	yin
+陰天	yin tian
+陰暗	yin an
+陰暗面	yin an mian
+陰謀	yin mou
+陰陽	yin yang
+陷阱	xian jing
+陽傘	yang san
+陽謀	yang mou
+随便	sui bian
+随机播放	sui ji bo fang
+隐秘	yin mi
+隐身	yin shen
+隨便	sui bian
+隨機播放	sui ji bo fang
+隱祕	yin mi
+隱身	yin shen
+难	nan
+难受	nan shou
+难吃	nan chi
+难想	nan xiang
+难过	nan guo
+难题	nan ti
+雄狮	xiong shi
+雄獅	xiong shi
+雏鸡	chu ji
+雕像	diao xiang
+雙人	shuang ren
+雙嘆號	shuang tan hao
+雙子座	shuang zi zuo
+雙峰駱駝	shuang feng luo tuo
+雙板	shuang ban
+雙板滑雪	shuang ban hua xue
+雙目	shuang mu
+雙眼	shuang yan
+雙肩包	shuang jian bao
+雙胞	shuang bao
+雙胞胎	shuang bao tai
+雙魚座	shuang yu zuo
+雛雞	chu ji
+雜技	za ji
+雜技女	za ji nv
+雜技男	za ji nan
+雜種	za zhong
+雜耍	za shua
+雞	ji
+雞尾酒	ji wei jiu
+雞年	ji nian
+雞翅	ji chi
+雞翼	ji yi
+雞肉	ji rou
+雞腿	ji tui
+雞蛋	ji dan
+雞蛋餅	ji dan bing
+雞頭	ji tou
+難	nan
+難受	nan shou
+難喫	nan chi
+難想	nan xiang
+難過	nan guo
+難題	nan ti
+雨	yu
+雨伞	yu san
+雨傘	yu san
+雪人	xue ren
+雪山	xue shan
+雪岭	xue ling
+雪嶺	xue ling
+雪松	xue song
+雪橇	xue qiao
+雪糕	xue gao
+雪花	xue hua
+雪花片	xue hua pian
+雪靴	xue xue
+雪頂	xue ding
+雪顶	xue ding
+雲	yun
+雲霄飛車	yun xiao fei che
+零	ling
+零点	ling dian
+零點	ling dian
+雷	lei
+雷达	lei da
+雷達	lei da
+雷阵雨	lei zhen yu
+雷陣雨	lei zhen yu
+雷雨	lei yu
+電	dian
+電力火車	dian li huo che
+電動火車	dian dong huo che
+電動輪椅	dian dong lun yi
+電台	dian tai
+電單車	dian dan che
+電塔	dian ta
+電子郵件	dian zi you jian
+電影	dian ying
+電影院	dian ying yuan
+電摩托	dian mo tuo
+電梯	dian ti
+電池	dian chi
+電燈	dian deng
+電燈泡	dian deng pao
+電腦	dian nao
+電腦包	dian nao bao
+電臺	dian tai
+電視	dian shi
+電視塔	dian shi ta
+電視機	dian shi ji
+電話	dian hua
+電話亭	dian hua ting
+電話機	dian hua ji
+電話筒	dian hua tong
+電話線	dian hua xian
+電車	dian che
+電郵	dian you
+雾	wu
+雾霾	wu mai
+霜淇淋	shuang qi lin
+霧	wu
+霧霾	wu mai
+露宿	lu su
+露營	lou ying
+露营	lu ying
+霸王龍	ba wang long
+霸王龙	ba wang long
+霾	mai
+靈魂	ling hun
+青	qing
+青圆	qing yuan
+青圓	qing yuan
+青心	qing xin
+青椒	qing jiao
+青色	qing se
+青苹果	qing ping guo
+青菜	qing cai
+青蘋果	qing pin guo
+青虫	qing chong
+青蛙	qing wa
+青蟲	qing chong
+靓仔	liang zai
+靓女	liang nv
+靓瞎	jing xia
+静坐	jing zuo
+静坐女	jing zuo nv
+静坐男	jing zuo nan
+静音	jing yin
+靚仔	jing zi
+靚女	jing nv
+靚瞎	jing xia
+靜坐	jing zuo
+靜坐女	jing zuo nv
+靜坐男	jing zuo nan
+靜音	jing yin
+非常感謝	fei chang gan xie
+非常感谢	fei chang gan xie
+非洲	fei zhou
+非飲用水	fei yin yong shui
+非饮用水	fei yin yong shui
+靠	kao
+靠椅	kao yi
+面	mian
+面具	mian ju
+面包	mian bao
+面包圈	mian bao quan
+面包车	mian bao che
+面条	mian tiao
+靴	xue
+靴子	xue zi
+鞠躬	ju gong
+鞠躬女	ju gong nv
+鞠躬男	ju gong nan
+鞭炮	bian pao
+韓國	han guo
+韩国	han guo
+音乐	yin yue
+音响	yin xiang
+音樂	yin le
+音符	yin fu
+音箱	yin xiang
+音響	yin xiang
+響指	xiang zhi
+響鈴	xiang ling
+頂	ding
+頑皮	wan pi
+頭名	tou ming
+頭大	tou da
+頭大女	tou da nv
+頭大男	tou da nan
+頭巾	tou jin
+頭巾女	tou jin nv
+頭巾男	tou jin nan
+頭疼	tou teng
+頭疼女	tou teng nv
+頭疼男	tou teng nan
+頭盔	tou kui
+頭骨	tou gu
+額	e
+顛倒	dian dao
+顯微鏡	xian wei jing
+顶	ding
+须	xu
+须女	xu nv
+须男	xu nan
+顽皮	wan pi
+额	e
+颠倒	dian dao
+風	feng
+風景	feng jing
+風景區	feng jing qu
+風箏	feng zheng
+風衣	feng yi
+風鈴	feng ling
+風颱	feng tai
+颱風	tai feng
+飄動	piao dong
+飄揚	piao yang
+飄舞	piao wu
+飄落	piao luo
+风	feng
+风台	feng tai
+风景	feng jing
+风景区	feng jing qu
+风筝	feng zheng
+风衣	feng yi
+风铃	feng ling
+飘动	piao dong
+飘扬	piao yang
+飘舞	piao wu
+飘落	piao luo
+飛吻	fei wen
+飛彈	fei dan
+飛機	fei ji
+飛盤	fei pan
+飛碟	fei die
+飛鏢	fei biao
+飛鳥	fei niao
+飞吻	fei wen
+飞弹	fei dan
+飞机	fei ji
+飞盘	fei pan
+飞碟	fei die
+飞镖	fei biao
+飞鸟	fei niao
+食指	shi zhi
+食盐	shi yan
+食鹽	shi yan
+飯店	fan dian
+飯碗	fan wan
+飯糰	fan tuan
+飲料	yin liao
+飲杯	yin bei
+飲用水	yin yong shui
+餃	jiao
+餅	bing
+餅乾	bing qian
+養神	yang shen
+養魚	yang yu
+餌	er
+餐盘	can pan
+餐盤	can pan
+餐鈴	can ling
+餐铃	can ling
+餓了	e le
+餡餅	xian bing
+饞	chan
+饢	nang
+饭团	fan tuan
+饭店	fan dian
+饭碗	fan wan
+饮料	yin liao
+饮杯	yin bei
+饮用水	yin yong shui
+饵	er
+饺	jiao
+饼	bing
+饼干	bing gan
+饿了	e le
+馅饼	xian bing
+馋	chan
+馕	nang
+香槟	xiang bin
+香檳	xiang bin
+香波	xiang bo
+香港	xiang gang
+香瓜	xiang gua
+香蕉	xiang jiao
+香鍋	xiang guo
+香锅	xiang guo
+馬	ma
+馬丁尼克	ma ding ni ke
+馬來西亞	ma lai xi ya
+馬其頓	ma qi dun
+馬利	ma li
+馬年	ma nian
+馬恩島	ma en dao
+馬戲	ma xi
+馬戲團	ma xi tuan
+馬拉烕	ma la mie
+馬拉維	ma la wei
+馬提尼克	ma ti ni ke
+馬桶	ma tong
+馬爾他	ma er ta
+馬爾代夫	ma er dai fu
+馬爾地夫	ma er di fu
+馬約特	ma yue te
+馬紹爾群島	ma shao er qun dao
+馬肉	ma rou
+馬蜂	ma feng
+馬術	ma shu
+馬達加斯加	ma da jia si jia
+馬里	ma li
+馬鈴薯	ma ling shu
+馬頭	ma tou
+駙馬	fu ma
+駱駝	luo tuo
+騎單車	qi dan che
+騎單車女	qi dan che nv
+騎單車男	qi dan che nan
+騎自行車	qi zi xing che
+騎自行車女	qi zi xing che nv
+騎自行車男	qi zi xing che nan
+騎行	qi hang
+騎行女	qi hang nv
+騎行男	qi hang nan
+騎車	qi che
+騎車女	qi che nv
+騎車男	qi che nan
+騎馬	qi ma
+騙人	pian ren
+騙你的	pian ni de
+騙子	pian zi
+騙錢	pian qian
+驚喜	jing xi
+驚悚	jing song
+驚艷	jing yan
+驛	yi
+马	ma
+马丁尼克	ma ding ni ke
+马其顿	ma qi dun
+马利	ma li
+马头	ma tou
+马尔他	ma er ta
+马尔代夫	ma er dai fu
+马尔地夫	ma er di fu
+马年	ma nian
+马恩岛	ma en dao
+马戏	ma xi
+马戏团	ma xi tuan
+马拉烕	ma la mie
+马拉维	ma la wei
+马提尼克	ma ti ni ke
+马术	ma shu
+马来西亚	ma lai xi ya
+马桶	ma tong
+马约特	ma yue te
+马绍尔群岛	ma shao er qun dao
+马肉	ma rou
+马蜂	ma feng
+马达加斯加	ma da jia si jia
+马里	ma li
+马铃薯	ma ling shu
+驸马	fu ma
+驿	yi
+骆驼	luo tuo
+骑单车	qi dan che
+骑单车女	qi dan che nv
+骑单车男	qi dan che nan
+骑自行车	qi zi xing che
+骑自行车女	qi zi xing che nv
+骑自行车男	qi zi xing che nan
+骑行	qi hang
+骑行女	qi hang nv
+骑行男	qi hang nan
+骑车	qi che
+骑车女	qi che nv
+骑车男	qi che nan
+骑马	qi ma
+骗人	pian ren
+骗你的	pian ni de
+骗子	pian zi
+骗钱	pian qian
+骨	gu
+骨头	gu tou
+骨灰	gu hui
+骨灰瓶	gu hui ping
+骨頭	gu tou
+骰子	tou zi
+骷髅	ku lou
+骷髅头	ku lou tou
+骷髏	ku lou
+骷髏頭	ku lou tou
+體操	ti cao
+體操女	ti cao nv
+體操男	ti cao nan
+體溫計	ti wen ji
+體育場	ti yu chang
+體育館	ti yu guan
+高中	gao zhong
+高兴	gao xing
+高压	gao ya
+高压电	gao ya dian
+高壓	gao ya
+高壓電	gao ya dian
+高尔夫	gao er fu
+高尔夫女	gao er fu nv
+高尔夫球	gao er fu qiu
+高尔夫球女	gao er fu qiu nv
+高尔夫球男	gao er fu qiu nan
+高尔夫男	gao er fu nan
+高帽	gao mao
+高度	gao du
+高温	gao wen
+高溫	gao wen
+高烧	gao shao
+高燒	gao shao
+高爾夫	gao er fu
+高爾夫女	gao er fu nv
+高爾夫球	gao er fu qiu
+高爾夫球女	gao er fu qiu nv
+高爾夫球男	gao er fu qiu nan
+高爾夫男	gao er fu nan
+高脚杯	gao jiao bei
+高腳杯	gao jiao bei
+高興	gao xing
+高跟鞋	gao gen xie
+高速	gao su
+高速公路	gao su gong lu
+高速路	gao su lu
+高鐵	gao tie
+高铁	gao tie
+高音量	gao yin liang
+髯	ran
+髯女	ran nv
+髯男	ran nan
+鬆餅	song bing
+鬍	hu
+鬍女	hu nv
+鬍子	hu zi
+鬍子女	hu zi nv
+鬍子男	hu zi nan
+鬍男	hu nan
+鬍鬚	hu xu
+鬍鬚女	hu xu nv
+鬍鬚男	hu xu nan
+鬚	xu
+鬚女	xu nv
+鬚男	xu nan
+鬧鈴	nao ling
+鬧鐘	nao zhong
+鬱悶	yu men
+鬱金香	yu jin xiang
+鬼	gui
+鬼怪	gui guai
+鬼火	gui huo
+鬼脸	gui lian
+鬼臉	gui lian
+鬼話	gui hua
+鬼話連篇	gui hua lian pian
+鬼话	gui hua
+鬼话连篇	gui hua lian pian
+鬼魂	gui hun
+魂	hun
+魂魄	hun po
+魔头	mo tou
+魔头女	mo tou nv
+魔头男	mo tou nan
+魔术帽	mo shu mao
+魔杖	mo zhang
+魔棒	mo bang
+魔法	mo fa
+魔法女	mo fa nv
+魔法师	mo fa shi
+魔法师女	mo fa shi nv
+魔法师男	mo fa shi nan
+魔法師	mo fa shi
+魔法師女	mo fa shi nv
+魔法師男	mo fa shi nan
+魔法棒	mo fa bang
+魔法男	mo fa nan
+魔術帽	mo shu mao
+魔頭	mo tou
+魔頭女	mo tou nv
+魔頭男	mo tou nan
+魚板	yu ban
+魚類	yu lei
+魚餅	yu bing
+鮨	yi
+鯉魚旗	li yu qi
+鯊	sha
+鯊魚	sha yu
+鯨	jing
+鯨魚	jing yu
+鯨魚噴水	jing yu pen shui
+鯨魚座	jing yu zuo
+鰂	zei
+鰌魚	qiu yu
+鱡	zei
+鱷	e
+鱷魚	e yu
+鱼板	yu ban
+鱼类	yu lei
+鱼饼	yu bing
+鲗	zei
+鲤鱼旗	li yu qi
+鲨	sha
+鲨鱼	sha yu
+鲸	jing
+鲸鱼	jing yu
+鲸鱼喷水	jing yu pen shui
+鲸鱼座	jing yu zuo
+鳄	e
+鳄鱼	e yu
+鳥巢	niao chao
+鳥羽	niao yu
+鳥蛋	niao dan
+鳥類	niao lei
+鳩鴿	jiu ge
+鳳梨	feng li
+鴞	xiao
+鴨	ya
+鴨子	ya zi
+鴨舌㡌	ya she mao
+鴿	ge
+鴿子	ge zi
+鵝	e
+鷄蛋	ji dan
+鷹	ying
+鷹嘴豆餅	ying zui dou bing
+鸚鵡	ying wu
+鸟巢	niao chao
+鸟类	niao lei
+鸟羽	niao yu
+鸟蛋	niao dan
+鸠鸽	jiu ge
+鸡	ji
+鸡头	ji tou
+鸡尾酒	ji wei jiu
+鸡年	ji nian
+鸡翅	ji chi
+鸡翼	ji yi
+鸡肉	ji rou
+鸡腿	ji tui
+鸡蛋	ji dan
+鸡蛋饼	ji dan bing
+鸭	ya
+鸭子	ya zi
+鸭舌㡌	ya she mao
+鸮	xiao
+鸽	ge
+鸽子	ge zi
+鹅	e
+鹦鹉	ying wu
+鹰	ying
+鹰嘴豆饼	ying zui dou bing
+鹽	yan
+鹿	lu
+麒麟	qi lin
+麥	mai
+麥克風	mai ke feng
+麦	mai
+麦克风	mai ke feng
+麵	mian
+麵包	mian bao
+麵包圈	mian bao quan
+麵包車	mian bao che
+麵條	mian tiao
+麻将	ma jiang
+麻將	ma jiang
+麻烦	ma fan
+麻烦女	ma fan nv
+麻烦男	ma fan nan
+麻煩	ma fan
+麻煩女	ma fan nv
+麻煩男	ma fan nan
+麻雀	ma que
+黃	huang
+黃包車	huang bao che
+黃圓	huang yuan
+黃心	huang xin
+黃昏	huang hun
+黃油	huang you
+黃瓜	huang gua
+黃絲帶	huang si dai
+黃色	huang se
+黃色小菱形	huang se xiao ling xing
+黃菱	huang ling
+黃葉	huang ye
+黃蜂	huang feng
+黃鼠狼	huang shu lang
+黄	huang
+黄丝带	huang si dai
+黄包车	huang bao che
+黄叶	huang ye
+黄圆	huang yuan
+黄心	huang xin
+黄昏	huang hun
+黄油	huang you
+黄瓜	huang gua
+黄色	huang se
+黄色小菱形	huang se xiao ling xing
+黄菱	huang ling
+黄蜂	huang feng
+黄鼠狼	huang shu lang
+黎巴嫩	li ba nen
+黑	hei
+黑中有白	hei zhong you bai
+黑圆	hei yuan
+黑圓	hei yuan
+黑子	hei zi
+黑山	hei shan
+黑心	hei xin
+黑方	hei fang
+黑旗	hei qi
+黑桃	hei tao
+黑猫	hei mao
+黑珠	hei zhu
+黑色	hei se
+黑貓	hei mao
+點心	dian xin
+點火	dian huo
+點煙	dian yan
+點菸	dian yan
+點著	dian zhu
+鼅鼄	zhi zhu
+鼓掌	gu zhang
+鼔	gu
+鼔点	gu dian
+鼔點	gu dian
+鼠	shu
+鼠头	shu tou
+鼠年	shu nian
+鼠标	shu biao
+鼠標	shu biao
+鼠頭	shu tou
+鼬	you
+鼻	bi
+鼻子	bi zi
+齒	chi
+齒輪	chi lun
+齿	chi
+齿轮	chi lun
+龍	long
+龍年	long nian
+龍捲風	long juan feng
+龍蝦	long xia
+龍頭	long tou
+龍鳳胎	long feng tai
+龙	long
+龙凤胎	long feng tai
+龙卷风	long juan feng
+龙头	long tou
+龙年	long nian
+龙虾	long xia
+龜	gui
+龟	gui
+东亚人	dong ya ren
+东亚人女	dong ya ren nv
+东亚人男	dong ya ren nan
+中华	zhong hua
+中華	zhong hua
+中餐	zhong can
+串点	chuan dian
+串點	chuan dian
+乐器	yue qi
+亚裔	ya yi
+亚裔女	ya yi nv
+亚裔男	ya yi nan
+亞裔	ya yi
+亞裔女	ya yi nv
+亞裔男	ya yi nan
+做运动	zuo yun dong
+做运动女	zuo yun dong nv
+做运动男	zuo yun dong nan
+做運動	zuo yun dong
+做運動女	zuo yun dong nv
+做運動男	zuo yun dong nan
+公交	gong jiao
+动物	dong wu
+动物脸	dong wu lian
+動物	dong wu
+動物臉	dong wu lian
+包	bao
+午餐	wu can
+卷	juan
+发型	fa xing
+发色	fa se
+叶	ye
+名勝	ming sheng
+名胜	ming sheng
+器官	qi guan
+圆型	yuan xing
+圓型	yuan xing
+城軌	cheng gui
+城轨	cheng gui
+多媒体	duo mei ti
+多媒體	duo mei ti
+夜空	ye kong
+大自然	da zi ran
+天气	tian qi
+天氣	tian qi
+奖	jiang
+娛樂	yu le
+娱乐	yu le
+宗教	zong jiao
+家禽	jia qin
+工具	gong ju
+帽	mao
+帽子	mao zi
+心型	xin xing
+快餐	kuai can
+怪物	guai wu
+拉丁裔	la ding yi
+拉丁裔女	la ding yi nv
+拉丁裔男	la ding yi nan
+拉美人	la mei ren
+拉美人女	la mei ren nv
+拉美人男	la mei ren nan
+拉美裔	la mei yi
+拉美裔女	la mei yi nv
+拉美裔男	la mei yi nan
+捲	juan
+数码	shu ma
+數碼	shu ma
+方型	fang xing
+日式料理	ri shi liao li
+日料	ri liao
+日本菜	ri ben cai
+日用	ri yong
+早点	zao dian
+早餐	zao can
+早點	zao dian
+时钟	shi zhong
+時鐘	shi zhong
+景点	jing dian
+景點	jing dian
+月相	yue xiang
+有害	you hai
+服装	fu zhuang
+服裝	fu zhuang
+服飾	fu shi
+服饰	fu shi
+机械	ji xie
+東亞人	dong ya ren
+東亞人女	dong ya ren nv
+東亞人男	dong ya ren nan
+棕色人种	zong se ren zhong
+棕色人种女	zong se ren zhong nv
+棕色人种男	zong se ren zhong nan
+棕色人種	zong se ren zhong
+棕色人種女	zong se ren zhong nv
+棕色人種男	zong se ren zhong nan
+植物	zhi wu
+樂器	le qi
+機械	ji xie
+正餐	zheng can
+武器	wu qi
+气象	qi xiang
+氣象	qi xiang
+水果	shui guo
+汽車	qi che
+汽车	qi che
+游乐园	you le yuan
+火車	huo che
+火车	huo che
+热饮	re yin
+熱飲	re yin
+牲畜	sheng chu
+獎	jiang
+球	qiu
+甜食	tian shi
+生肖	sheng xiao
+电器	dian qi
+电子	dian zi
+畜牲	chu sheng
+白人	bai ren
+白人女	bai ren nv
+白人男	bai ren nan
+白种人	bai zhong ren
+白种人女	bai zhong ren nv
+白种人男	bai zhong ren nan
+白種人	bai zhong ren
+白種人女	bai zhong ren nv
+白種人男	bai zhong ren nan
+眼鏡	yan jing
+眼镜	yan jing
+科学	ke xue
+科學	ke xue
+穆斯林女	mu si lin nv
+穆斯林男	mu si lin nan
+節日	jie ri
+粗粮	cu liang
+粗糧	cu liang
+精怪	jing guai
+精怪女	jing guai nv
+精怪男	jing guai nan
+紙幣	zhi bi
+纸币	zhi bi
+肉	rou
+肤色	fu se
+膚色	fu se
+自然	zi ran
+船	chuan
+节日	jie ri
+花	hua
+葉	ye
+蔬菜	shu cai
+虫	chong
+蟲	chong
+血型	xue xing
+衣服	yi fu
+西餐	xi can
+运动	yun dong
+遊樂園	you le yuan
+運動	yun dong
+酒	jiu
+野味	ye wei
+野生动物	ye sheng dong wu
+野生動物	ye sheng dong wu
+阿拉伯人	a la bo ren
+阿拉伯人女	a la bo ren nv
+阿拉伯人男	a la bo ren nan
+雪	xue
+零食	ling shi
+電器	dian qi
+電子	dian zi
+鞋	xie
+鞋子	xie zi
+顏色	yan se
+颜色	yan se
+飛行器	fei hang qi
+飞行器	fei hang qi
+飯	fan
+餐具	can ju
+饭	fan
+髮型	fa xing
+髮色	fa se
+魚	yu
+鱼	yu
+鳥	niao
+鸟	niao
+麪包	mian bao
+黃種人	huang zhong ren
+黃種人女	huang zhong ren nv
+黃種人男	huang zhong ren nan
+黄种人	huang zhong ren
+黄种人女	huang zhong ren nv
+黄种人男	huang zhong ren nan
+黑人	hei ren
+黑人女	hei ren nv
+黑人男	hei ren nan
