@@ -4,6 +4,12 @@
 
 [Rime](https://rime.im) 繪文字
 
+本方案使用八股文及默認方案所用字型，**默認方案的簡繁轉換可正常使用**。
+
+如與其它 OpenCC 轉換並用，建議將本條`simplifier`置於`filters`首位（`emoji_suggestion.yaml`已如此設計）。
+
+如使用自定詞典，且詞典內所用字型與八股文不同者，請自行調整本方案轉換表用字。
+
 ## 自動安裝
 
 [東風破](https://github.com/rime/plum) 安裝口令： `bash rime-install emoji`
