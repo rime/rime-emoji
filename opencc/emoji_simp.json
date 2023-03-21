@@ -1,0 +1,22 @@
+{
+  "name": "Simplified Chinese to Emoji",
+  "segmentation": {
+    "type": "mmseg",
+    "dict": {
+      "type": "text",
+      "file": "emoji_word_simp.txt"
+    }
+  },
+  "conversion_chain": [{
+    "dict": {
+      "type": "group",
+      "dicts": [{
+        "type": "text",
+        "file": "emoji_word_simp.txt"
+      }, {
+        "type": "text",
+        "file": "emoji_category_simp.txt"
+      }]
+    }
+  }]
+}
