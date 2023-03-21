@@ -6,8 +6,8 @@ $	$ 💰
 $眼睛	$眼睛 🤑
 $舌頭	$舌頭 🤑
 (C)	(C) ©️ ©️️
-(R)	(R) ®️
 (c)	(c) ©️ ©️️
+(R)	(R) ®️
 *	* *️⃣
 +	+ ➕
 0	0 👌 0️⃣
@@ -189,18 +189,19 @@ $舌頭	$舌頭 🤑
 ;P	;P 😜
 ?	? ❓ ❔
 A	A 🅰️
+a	a 🅰️
 AB	AB 🆎️
+ab	ab 🆎️
+abc	abc 🔤
 AB型	AB型 🆎️
 AB型血	AB型血 🆎️
 AB型血型	AB型血型 🆎️
-ATM	ATM 🏧
-ATM自動取款機符號	ATM自動取款機符號 🏧
+amen	amen 🙏
+AppleDev	AppleDev 👨‍💻 👩‍💻
 AppleGenius	AppleGenius 👨‍💻 👩‍💻
 AppleMouse鼠標	AppleMouse鼠標 🖱
 AppleMusic	AppleMusic 🎧
-Appledev	Appledev 👨‍💻 👩‍💻
-Applegenius	Applegenius 👨‍💻 👩‍💻
-Applewatch	Applewatch ⌚️
+AppleWatch	AppleWatch ⌚️
 Apple天才	Apple天才 👨‍💻 👩‍💻
 Apple工程師	Apple工程師 👨‍💻 👩‍💻
 Apple滑鼠	Apple滑鼠 🖱
@@ -208,162 +209,30 @@ Apple開發	Apple開發 👨‍💻 👩‍💻
 Apple開發人員	Apple開發人員 👨‍💻 👩‍💻
 Apple開發者	Apple開發者 👨‍💻 👩‍💻
 Apple鼠標	Apple鼠標 🖱
+ATM	ATM 🏧
+ATM自動取款機符號	ATM自動取款機符號 🏧
+aum符號	aum符號 🕉
 A型	A型 🅰️
 A型血	A型血 🅰️
 A型血型	A型血型 🅰️
 B	B 🅱️
-BB	BB 🍼 👶
-BBQ	BBQ 🍖 🍗
-BB仔	BB仔 👶
-BB天使	BB天使 👼
-BB機	BB機 📟
-BFF	BFF 👯‍♀️ 👯‍♂️
-BIOT旗	BIOT旗 🇮🇴
-BIOT旗幟	BIOT旗幟 🇮🇴
-BZZ	BZZ 🐝
-B型	B型 🅱️
-B型血	B型血 🅱️
-B型血型	B型血型 🅱️
-CD	CD 💽 💿 📀
-CEO	CEO 👨‍💼 👩‍💼
-CFO	CFO 👨‍💼 👩‍💼
-CL	CL 🆑️
-CL標誌	CL標誌 🆑️
-CL符號	CL符號 🆑️
-COO	COO 👨‍💼 👩‍💼
-COOL	COOL 🆒️
-CPA	CPA 👨‍💼 👩‍💼
-DNA	DNA 🧬
-DVD	DVD 📀
-E.T.	E.T. 👽
-EMT	EMT 🚑
-ET	ET 👽
-EUR	EUR 💶
-EarPod	EarPod 🎧
-EarPods	EarPods 🎧
-Euro	Euro 💶
-F1	F1 🏎
-F1方程式賽車	F1方程式賽車 🏎
-F1賽車	F1賽車 🏎
-FM	FM 📻
-FREE	FREE 🆓️
-Frosty	Frosty ☃️
-GB	GB 🇬🇧
-GBP	GBP 💷
-GLBT	GLBT 🏳️‍🌈
-GarageBand	GarageBand 🎸
-Halloween	Halloween 🎃
-ICHC	ICHC 🥺
-ID	ID 🎫 🪪 🆔️
-ILY	ILY 🤟
-IT	IT 👨‍💻 👩‍💻
-IT人員	IT人員 👨‍💻 👩‍💻
-IT人士	IT人士 👨‍💻 👩‍💻
-IT女	IT女 👩‍💻
-IT工人	IT工人 👨‍💻 👩‍💻
-IT工作者	IT工作者 👨‍💻 👩‍💻
-IT男	IT男 👨‍💻
-JPY	JPY 💴
-KTV	KTV 🎤
-Kaaba	Kaaba 🕋
-K到頭	K到頭 🤕
-K歌	K歌 🪩
-LGBT	LGBT 🏳️‍🌈
-LGBTQ	LGBTQ 🏳️‍🌈
-LGBTpride旗幟	LGBTpride旗幟 🏳️‍🌈
-LGBT自豪	LGBT自豪 🏳️‍🌈
-LGBT驕傲	LGBT驕傲 🏳️‍🌈
-LGBT驕傲旗	LGBT驕傲旗 🏳️‍🌈
-LPGA	LPGA ⛳️
-M	M Ⓜ️
-MD	MD 💽
-MLB	MLB ⚾️
-MLS	MLS ⚽️
-Mac	Mac 💻 🖥
-MacBook	MacBook 💻
-MacBookAir	MacBookAir 💻
-MacBookPro	MacBookPro 💻
-Madam	Madam 👮‍♀️ 🚓
-NBA	NBA 🏀
-NEW	NEW 🆕️
-NFL	NFL 🏈
-NG	NG 🆖️
-NG標誌	NG標誌 🆖️
-NG符號	NG符號 🆖️
-O	O 🅾️
-OB	OB 👨‍💼
-OG	OG 👨‍💼
-OK	OK 👍 🆗️
-OK手勢	OK手勢 👌 🙆‍♀️ 🙆‍♂️
-OK符號	OK符號 🆗️
-OK繃	OK繃 🩹
-OL	OL 👩‍💼
-O咀	O咀 😶
-O嘴	O嘴 😶
-O型	O型 🅾️
-O型血	O型血 🅾️
-O型血型	O型血型 🅾️
-PC	PC 💻
-PGA	PGA ⛳️
-PI	PI 🕵️‍♀️ 🕵️‍♂️
-Polo衫	Polo衫 👕
-RIP	RIP 💀
-RV	RV 🚙
-SARS	SARS 😷
-SOS	SOS 🆘️
-SOS符號	SOS符號 🆘️
-SPA	SPA 🧖‍♀️ 🧖‍♂️
-SUV	SUV 🚙
-Shaka標誌	Shaka標誌 🤙
-Sherlock	Sherlock 🕵️‍♂️
-SherlockHolmes	SherlockHolmes 🕵️‍♂️
-TM	TM ™️
-TMD	TMD 🤬
-TV	TV 📺
-Triton	Triton 🔱
-U.N	U.N 🇺🇳
-U.N.旗幟	U.N.旗幟 🇺🇳
-U.S.國旗	U.S.國旗 🇺🇸
-UAE	UAE 🇦🇪
-UAE國旗	UAE國旗 🇦🇪
-UAE旗	UAE旗 🇦🇪
-UFO	UFO 🛸
-UK	UK 🇬🇧
-UN	UN 🇺🇳
-UN旗幟	UN旗幟 🇺🇳
-UP	UP 🆙️
-US	US 🇺🇸
-USA	USA 🇺🇸
-US國旗	US國旗 🇺🇸
-U型磁鐵	U型磁鐵 🧲
-VHS	VHS 📼
-V字形和平手勢	V字形和平手勢 ✌️
-WC	WC 🚻 🚽 🚾
-WC廁所	WC廁所 🚾
-WIFI	WIFI 🛜
-Watch	Watch ⌚️
-X	X ❌ ❎
-XD	XD 🤣 😂 😆
-XDD	XDD 🤣 😂 😆
-XDDD	XDDD 🤣 😂 😆
-XP	XP 😝
-X光	X光 🩻
-X標記	X標記 ❎
-Yeah	Yeah 🥳
-a	a 🅰️
-ab	ab 🆎️
-abc	abc 🔤
-amen	amen 🙏
-aum符號	aum符號 🕉
 b	b 🅱️
 back標誌的箭嘴	back標誌的箭嘴 🔙
 back標誌的箭頭	back標誌的箭頭 🔙
 balloon	balloon 🎈
 band-aid	band-aid 🩹
+BB	BB 🍼 👶
 bb	bb 👶 👼 🚼
+BBQ	BBQ 🍖 🍗
+BB仔	BB仔 👶
+BB天使	BB天使 👼
 bb天使	bb天使 👼
+BB機	BB機 📟
 beer	beer 🍻
+BFF	BFF 👯‍♀️ 👯‍♂️
 bicep	bicep 💪
+BIOT旗	BIOT旗 🇮🇴
+BIOT旗幟	BIOT旗幟 🇮🇴
 birthday	birthday 🎈
 boo	boo 😒
 bot	bot 🤖
@@ -372,28 +241,60 @@ brrr	brrr 🥶
 buzz	buzz 🐝
 bye	bye 👋
 byebye	byebye 👋
+BZZ	BZZ 🐝
 bzzz	bzzz 🐝
 bzzzz	bzzzz 🐝
 bzzzzz	bzzzzz 🐝
+B型	B型 🅱️
+B型血	B型血 🅱️
+B型血型	B型血型 🅱️
 call我	call我 🤙
+CD	CD 💽 💿 📀
 cd	cd 💽 💿 📀
+CEO	CEO 👨‍💼 👩‍💼
+CFO	CFO 👨‍💼 👩‍💼
 cheers	cheers 🍻
+CL	CL 🆑️
+CL標誌	CL標誌 🆑️
+CL符號	CL符號 🆑️
 cl符號	cl符號 🆑️
+COO	COO 👨‍💼 👩‍💼
+COOL	COOL 🆒️
 cool符號	cool符號 🆒️
+CPA	CPA 👨‍💼 👩‍💼
 disco	disco 💃
 dllm	dllm 🤬
+DNA	DNA 🧬
 dna	dna 🧬
+DVD	DVD 📀
 dvd	dvd 📀
+EarPod	EarPod 🎧
+EarPods	EarPods 🎧
+EMT	EMT 🚑
 end標誌的箭嘴	end標誌的箭嘴 🔚
 end標誌的箭頭	end標誌的箭頭 🔚
+ET	ET 👽
+EUR	EUR 💶
+Euro	Euro 💶
+F1	F1 🏎
+F1方程式賽車	F1方程式賽車 🏎
+F1賽車	F1賽車 🏎
 flamenco	flamenco 💃
+FM	FM 📻
 formula1	formula1 🏎
 formulaone	formulaone 🏎
+FREE	FREE 🆓️
 free符號	free符號 🆓️
+Frosty	Frosty ☃️
+GarageBand	GarageBand 🎸
+GB	GB 🇬🇧
+GBP	GBP 💷
 gelato	gelato 🍧 🍨
+GLBT	GLBT 🏳️‍🌈
 grrrr	grrrr 🐯 👿 😖
 haha	haha 😜 😝
 hahaha	hahaha 😆
+Halloween	Halloween 🎃
 handsonhead	handsonhead 🙆‍♀️ 🙆‍♂️
 heehee	heehee 😜
 hello	hello 👋
@@ -401,20 +302,51 @@ hey	hey 👋
 hi	hi 👋
 hmm	hmm 🤔
 i	i ℹ️
+ICHC	ICHC 🥺
+ID	ID 🎫 🪪 🆔️
+ILY	ILY 🤟
 iMac	iMac 🖥
 iPhone	iPhone 🎧 📱 📲
 iPhones	iPhones 📱
 iPhone和箭頭	iPhone和箭頭 📲
 iPod	iPod 🎧 📱
 iPods	iPods 📱
+IT	IT 👨‍💻 👩‍💻
+IT人員	IT人員 👨‍💻 👩‍💻
+IT人士	IT人士 👨‍💻 👩‍💻
+IT女	IT女 👩‍💻
+IT工人	IT工人 👨‍💻 👩‍💻
+IT工作者	IT工作者 👨‍💻 👩‍💻
+IT男	IT男 👨‍💻
 jeans	jeans 👖
+JPY	JPY 💴
+Kaaba	Kaaba 🕋
 kissbye	kissbye 😘
+KTV	KTV 🎤
+K到頭	K到頭 🤕
+K歌	K歌 🪩
 lab	lab 🔬
 laptop	laptop 💻
+LGBT	LGBT 🏳️‍🌈
+LGBTpride旗幟	LGBTpride旗幟 🏳️‍🌈
+LGBTQ	LGBTQ 🏳️‍🌈
+LGBT自豪	LGBT自豪 🏳️‍🌈
+LGBT驕傲	LGBT驕傲 🏳️‍🌈
+LGBT驕傲旗	LGBT驕傲旗 🏳️‍🌈
 lmao	lmao 🤣 😂 😆
+LPGA	LPGA ⛳️
 lucky	lucky ☺️
 lulz	lulz 🤣 😆
+M	M Ⓜ️
 m	m 👣
+Mac	Mac 💻 🖥
+MacBook	MacBook 💻
+MacBookAir	MacBookAir 💻
+MacBookPro	MacBookPro 💻
+Madam	Madam 👮‍♀️ 🚓
+MD	MD 💽
+MLB	MLB ⚾️
+MLS	MLS ⚽️
 mmmm	mmmm 😋
 moai	moai 🗿
 moyai	moyai 🗿
@@ -423,85 +355,146 @@ muah	muah 😘 😚
 muahaha	muahaha 😈
 music	music 🎵 🎶
 namaste	namaste 🙏
+NBA	NBA 🏀
 neenerneener	neenerneener 🤪 😜
+NEW	NEW 🆕️
 new符號	new符號 🆕️
+NFL	NFL 🏈
+NG	NG 🆖️
 ng	ng 🆖️
+NG標誌	NG標誌 🆖️
+NG符號	NG符號 🆖️
 no	no 👎
 notebook	notebook 💻
+O	O 🅾️
 o	o 🅾️
+OB	OB 👨‍💼
+OG	OG 👨‍💼
 ok	ok 👌 👍 🆗️
+OK	OK 👍 🆗️
 okay	okay 👌 🆗️
 okay手勢	okay手勢 👌
 ok手	ok手 👌
+OK手勢	OK手勢 👌 🙆‍♀️ 🙆‍♂️
 ok手勢	ok手勢 👌 🙆‍♀️ 🙆‍♂️
+OK符號	OK符號 🆗️
+OK繃	OK繃 🩹
+OL	OL 👩‍💼
 om符號	om符號 🕉
 on	on 🔛
-on!標誌的箭頭	on!標誌的箭頭 🔛
-on!箭頭	on!箭頭 🔛
+on標誌的箭頭	on標誌的箭頭 🔛
+On箭嘴	On箭嘴 🔛
 on箭頭	on箭頭 🔛
 oops	oops 🙊
 ooxx	ooxx 😘 😚
 ouch	ouch 😣
+O咀	O咀 😶
+O嘴	O嘴 😶
+O型	O型 🅾️
+O型血	O型血 🅾️
+O型血型	O型血型 🅾️
 p	p 🅿️
 party時間	party時間 🥳
+PC	PC 💻
 pc	pc 💻
 peace	peace ✌️
+PGA	PGA ⛳️
+PI	PI 🕵️‍♀️ 🕵️‍♂️
 polo	polo 👕 👚
 polo恤	polo恤 👕
+Polo衫	Polo衫 👕
 polo衫	polo衫 👕
 portfolio	portfolio 💼
 prrr	prrr 😸 😺 😻
 puaaloalo	puaaloalo 🌺
+RIP	RIP 💀
 rofl	rofl 🤣
 rotfl	rotfl 😂 😜 😝
+RV	RV 🚙
 sales	sales 👨‍💼 👩‍💼
 salsa	salsa 💃
 salsa舞	salsa舞 💃
+SARS	SARS 😷
+Shaka標誌	Shaka標誌 🤙
+Sherlock	Sherlock 🕵️‍♂️
+SherlockHolmes	SherlockHolmes 🕵️‍♂️
 sing	sing 🎵 🎶
 snapstreak	snapstreak 🔥
 soon標誌	soon標誌 🔜
 soon標誌的箭嘴	soon標誌的箭嘴 🔜
 soon標誌的箭頭	soon標誌的箭頭 🔜
 soon箭頭	soon箭頭 🔜
+SOS	SOS 🆘️
 sos	sos 🆘️
+SOS符號	SOS符號 🆘️
+SPA	SPA 🧖‍♀️ 🧖‍♂️
 spa	spa 🧖‍♀️ 🧖‍♂️
 spf	spf 🧴
+SUV	SUV 🚙
 taco	taco 🌮
+TM	TM ™️
+TMD	TMD 🤬
 tmd	tmd 🤬
 tnt	tnt 🧨
 top標誌的箭嘴	top標誌的箭嘴 🔝
 top標誌的箭頭	top標誌的箭頭 🔝
+Triton	Triton 🔱
+TV	TV 📺
 tv	tv 📺
+UAE	UAE 🇦🇪
+UAE國旗	UAE國旗 🇦🇪
+UAE旗	UAE旗 🇦🇪
+UFO	UFO 🛸
+UK	UK 🇬🇧
 ummm	ummm 🤔 🤨 🧐
 ummmm	ummmm 😳
+UN	UN 🇺🇳
+UN旗幟	UN旗幟 🇺🇳
+UP	UP 🆙️
 up符號	up符號 🆙️
+US	US 🇺🇸
+USA	USA 🇺🇸
+US國旗	US國旗 🇺🇸
+U型磁鐵	U型磁鐵 🧲
 van仔	van仔 🚐
+VHS	VHS 📼
 vs	vs 🆚️
 vs標誌	vs標誌 🆚️
 vs符號	vs符號 🆚️
+V字形和平手勢	V字形和平手勢 ✌️
+Watch	Watch ⌚️
+WC	WC 🚻 🚽 🚾
 wc	wc 🚻 🚽 🚾
+WC廁所	WC廁所 🚾
 wc符號	wc符號 🚾
+WIFI	WIFI 🛜
 wink表情	wink表情 😉
 wohoo	wohoo 🙌
 woof	woof 🐶
 woohoo	woohoo 🎉 🙌
 word天	word天 🤦‍♀️ 🤦‍♂️
+X	X ❌ ❎
 x	x ❌ ❎
+XD	XD 🤣 😂 😆
+XDD	XDD 🤣 😂 😆
+XDDD	XDDD 🤣 😂 😆
 xo	xo 😘 😚
 xoxo	xoxo 💋 😘 😚
+XP	XP 😝
 xx	xx 💋 😘 😚
 xxoo	xxoo 😘 😚
 xx眼	xx眼 😵
+X光	X光 🩻
+X標記	X標記 ❎
 x符號	x符號 ❎
 yay	yay 👏
+Yeah	Yeah 🥳
 yes	yes 🙆‍♀️ 🙆‍♂️
 yo-yo	yo-yo 🪀
 yoyo	yoyo 🪀
 zzZ	zzZ 💤 😴
 zzz	zzz 💤 😴
 〇	〇 0️⃣
-「On!」箭嘴	「On!」箭嘴 🔛
-「唵」符號	「唵」符號 🕉
 㖿	㖿 ✌🏻️
 㞎㞎	㞎㞎 💩️
 㡌	㡌 🧢
@@ -2337,11 +2330,9 @@ zzz	zzz 💤 😴
 加號	加號 ➕
 加號標誌	加號標誌 ➕
 加那利羣島	加那利羣島 🇮🇨
+加那利羣島國旗	加那利羣島國旗 🇮🇨
+加那利羣島旗	加那利羣島旗 🇮🇨
 加那利羣島旗幟	加那利羣島旗幟 🇮🇨
-加那利群島	加那利群島 🇮🇨
-加那利群島國旗	加那利群島國旗 🇮🇨
-加那利群島旗	加那利群島旗 🇮🇨
-加那利群島旗幟	加那利群島旗幟 🇮🇨
 助力車	助力車 🏍
 助動車	助動車 🏍
 助曬劑	助曬劑 🧴
@@ -2443,15 +2434,11 @@ zzz	zzz 💤 😴
 北馬其頓國旗	北馬其頓國旗 🇲🇰
 北馬其頓旗	北馬其頓旗 🇲🇰
 北馬利安納羣島	北馬利安納羣島 🇲🇵
-北馬利安納群島旗	北馬利安納群島旗 🇲🇵
+北馬利安納羣島旗	北馬利安納羣島旗 🇲🇵
 北馬里亞納島	北馬里亞納島 🇲🇵
 北馬里亞納島島旗	北馬里亞納島島旗 🇲🇵
 北馬里亞納羣島	北馬里亞納羣島 🇲🇵
 北馬里亞納羣島旗幟	北馬里亞納羣島旗幟 🇲🇵
-北馬里亞納群島	北馬里亞納群島 🇲🇵
-北馬里亞納群島旗幟	北馬里亞納群島旗幟 🇲🇵
-北马里亞納羣島	北马里亞納羣島 🇲🇵
-北马里亞納羣島旗幟	北马里亞納羣島旗幟 🇲🇵
 匙	匙 🥄
 匙羮	匙羮 🥣
 匙羮同碗	匙羮同碗 🥣
@@ -2539,11 +2526,11 @@ zzz	zzz 💤 😴
 卒子	卒子 ♟️
 協助	協助 🐕‍🦺 🦮
 南三明治羣島旗幟	南三明治羣島旗幟 🇬🇸
-南喬治亞及南桑威奇群島	南喬治亞及南桑威奇群島 🇬🇸
-南喬治亞及南桑威奇群島旗	南喬治亞及南桑威奇群島旗 🇬🇸
+南喬治亞及南桑威奇羣島	南喬治亞及南桑威奇羣島 🇬🇸
+南喬治亞及南桑威奇羣島旗	南喬治亞及南桑威奇羣島旗 🇬🇸
 南喬治亞和南桑威奇羣島	南喬治亞和南桑威奇羣島 🇬🇸
-南喬治亞地區及南桑威奇群島	南喬治亞地區及南桑威奇群島 🇬🇸
-南喬治亞地區及南桑威奇群島旗	南喬治亞地區及南桑威奇群島旗 🇬🇸
+南喬治亞地區及南桑威奇羣島	南喬治亞地區及南桑威奇羣島 🇬🇸
+南喬治亞地區及南桑威奇羣島旗	南喬治亞地區及南桑威奇羣島旗 🇬🇸
 南喬治亞島和南桑威奇羣島	南喬治亞島和南桑威奇羣島 🇬🇸
 南喬治亞島和南桑威奇羣島旗幟	南喬治亞島和南桑威奇羣島旗幟 🇬🇸
 南喬治亞旗	南喬治亞旗 🇬🇸
@@ -2552,7 +2539,7 @@ zzz	zzz 💤 😴
 南喬治亞與南三明治羣島旗幟	南喬治亞與南三明治羣島旗幟 🇬🇸
 南帽	南帽 🎩️
 南朝鮮	南朝鮮 🇰🇷
-南桑威奇群島旗	南桑威奇群島旗 🇬🇸
+南桑威奇羣島旗	南桑威奇羣島旗 🇬🇸
 南極	南極 🇦🇶
 南極洲	南極洲 🇦🇶
 南極洲國旗	南極洲國旗 🇦🇶
@@ -2778,8 +2765,8 @@ zzz	zzz 💤 😴
 可	可 🉑️
 可以	可以 👌🏻️ 😉️ 😌 🆗️
 可口的紅蘋果	可口的紅蘋果 🍎
-可可斯（基林）群島	可可斯（基林）群島 🇨🇨
-可可斯（基林）群島島旗	可可斯（基林）群島島旗 🇨🇨
+可可斯（基林）羣島	可可斯（基林）羣島 🇨🇨
+可可斯（基林）羣島島旗	可可斯（基林）羣島島旗 🇨🇨
 可回收	可回收 ♻️
 可怕	可怕 👹 👺 👿 🤯 😈 😧 😨️ 😱️ 🙀️
 可悲的女人	可悲的女人 🙍‍♀️
@@ -3263,6 +3250,7 @@ zzz	zzz 💤 😴
 唱歌	唱歌 🎤 🎤️ 🎵 🎶
 唱片	唱片 💽 💿 📀
 唵	唵 🕉 🕉️
+唵符號	唵符號 🕉
 唷	唷 😌 😥 😬
 唸咒	唸咒 🤬
 唸珠	唸珠 📿
@@ -3389,8 +3377,7 @@ zzz	zzz 💤 😴
 單人票	單人票 🎟
 單件式泳裝	單件式泳裝 🩱
 單個音軌重複按鈕	單個音軌重複按鈕 🔂
-單峯駱駝	單峯駱駝 🐪 🐪️
-單峰駱駝	單峰駱駝 🐪
+單峯駱駝	單峯駱駝 🐪
 單彎曲線	單彎曲線 ➰
 單手舉起	單手舉起 🙋‍♀️ 🙋‍♂️
 單曲循環	單曲循環 🔂️
@@ -3852,7 +3839,6 @@ zzz	zzz 💤 😴
 基情	基情 👯‍♂️
 基林	基林 🇨🇨
 基林羣島	基林羣島 🇨🇨
-基林群島	基林群島 🇨🇨
 基督	基督 ⛪️ ✝️
 基督宗教	基督宗教 ✝️
 基督徒	基督徒 ✝️
@@ -4393,10 +4379,8 @@ zzz	zzz 💤 😴
 奧姆符號	奧姆符號 🕉
 奧斯卡金像獎	奧斯卡金像獎 🏆
 奧蘭羣島	奧蘭羣島 🇦🇽
+奧蘭羣島旗	奧蘭羣島旗 🇦🇽
 奧蘭羣島旗幟	奧蘭羣島旗幟 🇦🇽
-奧蘭群島	奧蘭群島 🇦🇽
-奧蘭群島旗	奧蘭群島旗 🇦🇽
-奧蘭群島旗幟	奧蘭群島旗幟 🇦🇽
 女AppleGenius	女AppleGenius 👩‍💻
 女Applegenius	女Applegenius 👩‍💻
 女Apple天才	女Apple天才 👩‍💻
@@ -5180,14 +5164,14 @@ zzz	zzz 💤 😴
 密克羅尼西亞羣島旗幟	密克羅尼西亞羣島旗幟 🇫🇲
 密克隆旗	密克隆旗 🇵🇲
 密克隆旗幟	密克隆旗幟 🇵🇲
-密克隆群島旗	密克隆群島旗 🇵🇲
+密克隆羣島旗	密克隆羣島旗 🇵🇲
 密探	密探 🕵️‍♀️ 🕵️‍♂️
 密碼	密碼 🔏️
 密鑰	密鑰 🔐️
 富	富 🤑
 富圖納旗	富圖納旗 🇼🇫
 富圖那旗幟	富圖那旗幟 🇼🇫
-富圖那群島旗	富圖那群島旗 🇼🇫
+富圖那羣島旗	富圖那羣島旗 🇼🇫
 富士山	富士山 🗻 🗻️
 富士山脈	富士山脈 🗻
 富有	富有 🤑
@@ -5970,11 +5954,9 @@ zzz	zzz 💤 😴
 座頭鯨	座頭鯨 🐋
 庫克羣島	庫克羣島 🇨🇰
 庫克羣島國旗	庫克羣島國旗 🇨🇰
+庫克羣島島旗	庫克羣島島旗 🇨🇰
+庫克羣島旗	庫克羣島旗 🇨🇰
 庫克羣島旗幟	庫克羣島旗幟 🇨🇰
-庫克群島	庫克群島 🇨🇰
-庫克群島島旗	庫克群島島旗 🇨🇰
-庫克群島旗	庫克群島旗 🇨🇰
-庫克群島旗幟	庫克群島旗幟 🇨🇰
 庫拉索	庫拉索 🇨🇼
 庫拉索國旗	庫拉索國旗 🇨🇼
 庫拉索島旗	庫拉索島旗 🇨🇼
@@ -6806,10 +6788,8 @@ zzz	zzz 💤 😴
 所以呢男	所以呢男 🤷🏻‍♂️
 所羅門羣島	所羅門羣島 🇸🇧
 所羅門羣島國旗	所羅門羣島國旗 🇸🇧
-所羅門群島	所羅門群島 🇸🇧
-所羅門群島國旗	所羅門群島國旗 🇸🇧
-所羅門群島旗	所羅門群島旗 🇸🇧
-所羅門群島旗幟	所羅門群島旗幟 🇸🇧
+所羅門羣島旗	所羅門羣島旗 🇸🇧
+所羅門羣島旗幟	所羅門羣島旗幟 🇸🇧
 扁平餐具	扁平餐具 🍴 🍽
 扇	扇 🪭
 手	手 ☝️ ✊ ✋ ✋🏻️ ✌️ ✍️ 👆 👇 👈 👉 👊 👋 👌 👍 👎 👏 👐 💅 💪 🖐 🖕 🖖 🤏 🤘 🤙 🤚 🙋‍♀️ 🙌 🙏
@@ -7143,7 +7123,7 @@ zzz	zzz 💤 😴
 技術工人	技術工人 👨‍💻 👩‍💻
 技術工作者	技術工作者 👨‍💻 👩‍💻
 抄筆記	抄筆記 📝
-把你的疲累貧困交給我。你那蜷曲的身軀渴望自由的呼吸	把你的疲累貧困交給我。你那蜷曲的身軀渴望自由的呼吸 🗽
+把你的疲累貧困交給我你那蜷曲的身軀渴望自由的呼吸	把你的疲累貧困交給我你那蜷曲的身軀渴望自由的呼吸 🗽
 把口乾淨啲	把口乾淨啲 🧼
 把嘴封住	把嘴封住 🤐
 把垃圾放在此符號	把垃圾放在此符號 🚮
@@ -8134,7 +8114,6 @@ zzz	zzz 💤 😴
 旋鈕	旋鈕 🎚 🎛 🎛️
 旋風	旋風 🌀 🌀️
 族羣	族羣 👲
-族群	族群 👲
 旗子升起	旗子升起 📫
 旗子立起	旗子立起 📫
 旗子站起	旗子站起 📫
@@ -8205,7 +8184,6 @@ zzz	zzz 💤 😴
 日本的俯瞰圖	日本的俯瞰圖 🗾
 日本的輪廓	日本的輪廓 🗾
 日本羣島	日本羣島 🗾
-日本群島	日本群島 🗾
 日本貨幣	日本貨幣 💴
 日本輪廓	日本輪廓 🗾
 日本郵局	日本郵局 🏣 🏣️
@@ -9611,11 +9589,9 @@ zzz	zzz 💤 😴
 法棍	法棍 🥖
 法羅羣島	法羅羣島 🇫🇴
 法羅羣島國旗	法羅羣島國旗 🇫🇴
+法羅羣島島旗	法羅羣島島旗 🇫🇴
+法羅羣島旗	法羅羣島旗 🇫🇴
 法羅羣島旗幟	法羅羣島旗幟 🇫🇴
-法羅群島	法羅群島 🇫🇴
-法羅群島島旗	法羅群島島旗 🇫🇴
-法羅群島旗	法羅群島旗 🇫🇴
-法羅群島旗幟	法羅群島旗幟 🇫🇴
 法蒂瑪之手	法蒂瑪之手 🪬
 法蘭克福香腸	法蘭克福香腸 🌭
 法蘭西	法蘭西 ⚜️ 🇫🇷
@@ -9859,8 +9835,8 @@ zzz	zzz 💤 😴
 海地國旗	海地國旗 🇭🇹
 海地旗	海地旗 🇭🇹
 海島	海島 🌴 🏝 🏝️
+海峽羣島旗	海峽羣島旗 🇬🇬 🇯🇪
 海峽羣島旗幟	海峽羣島旗幟 🇬🇬 🇯🇪
-海峽群島旗	海峽群島旗 🇬🇬 🇯🇪
 海底	海底 🏴‍☠️
 海底世界	海底世界 🐳️
 海棠	海棠 🌺️
@@ -10783,10 +10759,9 @@ zzz	zzz 💤 😴
 特價午餐	特價午餐 🍱
 特克斯和凱科斯	特克斯和凱科斯 🇹🇨
 特克斯和凱科斯羣島	特克斯和凱科斯羣島 🇹🇨
+特克斯和凱科斯羣島島旗	特克斯和凱科斯羣島島旗 🇹🇨
+特克斯和凱科斯羣島旗	特克斯和凱科斯羣島旗 🇹🇨
 特克斯和凱科斯羣島旗幟	特克斯和凱科斯羣島旗幟 🇹🇨
-特克斯和凱科斯群島	特克斯和凱科斯群島 🇹🇨
-特克斯和凱科斯群島島旗	特克斯和凱科斯群島島旗 🇹🇨
-特克斯和凱科斯群島旗	特克斯和凱科斯群島旗 🇹🇨
 特務	特務 🕵️‍♀️ 🕵️‍♂️
 特多	特多 🇹🇹
 特工	特工 🕵️‍♀️ 🕵️‍♂️
@@ -11086,12 +11061,11 @@ zzz	zzz 💤 😴
 瓦利斯和富圖納羣島旗幟	瓦利斯和富圖納羣島旗幟 🇼🇫
 瓦利斯旗	瓦利斯旗 🇼🇫
 瓦利斯旗幟	瓦利斯旗幟 🇼🇫
+瓦利斯羣島和富圖納羣島旗	瓦利斯羣島和富圖納羣島旗 🇼🇫
 瓦利斯羣島和富圖那羣島	瓦利斯羣島和富圖那羣島 🇼🇫
+瓦利斯羣島和富圖那羣島旗	瓦利斯羣島和富圖那羣島旗 🇼🇫
 瓦利斯羣島和富圖那羣島旗幟	瓦利斯羣島和富圖那羣島旗幟 🇼🇫
-瓦利斯群島和富圖納群島旗	瓦利斯群島和富圖納群島旗 🇼🇫
-瓦利斯群島和富圖那群島	瓦利斯群島和富圖那群島 🇼🇫
-瓦利斯群島和富圖那群島旗	瓦利斯群島和富圖那群島旗 🇼🇫
-瓦利斯群島旗	瓦利斯群島旗 🇼🇫
+瓦利斯羣島旗	瓦利斯羣島旗 🇼🇫
 瓦努阿圖	瓦努阿圖 🇻🇺
 瓦努阿圖國旗	瓦努阿圖國旗 🇻🇺
 瓦努阿圖旗	瓦努阿圖旗 🇻🇺
@@ -11922,9 +11896,9 @@ zzz	zzz 💤 😴
 皮特凱恩旗	皮特凱恩旗 🇵🇳
 皮特凱恩羣島	皮特凱恩羣島 🇵🇳
 皮特凱恩羣島旗幟	皮特凱恩羣島旗幟 🇵🇳
-皮特康群島	皮特康群島 🇵🇳
-皮特康群島島旗	皮特康群島島旗 🇵🇳
-皮特康群島旗	皮特康群島旗 🇵🇳
+皮特康羣島	皮特康羣島 🇵🇳
+皮特康羣島島旗	皮特康羣島島旗 🇵🇳
+皮特康羣島旗	皮特康羣島旗 🇵🇳
 皮特肯	皮特肯 🇵🇳
 皮特肯旗幟	皮特肯旗幟 🇵🇳
 皮特肯羣島	皮特肯羣島 🇵🇳
@@ -12417,10 +12391,8 @@ zzz	zzz 💤 😴
 禁騎單車	禁騎單車 🚳
 禁騎自行車	禁騎自行車 🚳
 福克蘭羣島	福克蘭羣島 🇫🇰
+福克蘭羣島旗	福克蘭羣島旗 🇫🇰
 福克蘭羣島旗幟	福克蘭羣島旗幟 🇫🇰
-福克蘭群島	福克蘭群島 🇫🇰
-福克蘭群島旗	福克蘭群島旗 🇫🇰
-福克蘭群島旗幟	福克蘭群島旗幟 🇫🇰
 福爾摩斯	福爾摩斯 🕵️‍♀️ 🕵️‍♂️
 福餅	福餅 🥠
 禮	禮 🎁
@@ -12514,13 +12486,11 @@ zzz	zzz 💤 😴
 科研工作者	科研工作者 🥼
 科科斯	科科斯 🇨🇨
 科科斯羣島	科科斯羣島 🇨🇨
+科科斯羣島旗	科科斯羣島旗 🇨🇨
 科科斯羣島旗幟	科科斯羣島旗幟 🇨🇨
-科科斯群島	科科斯群島 🇨🇨
-科科斯群島旗	科科斯群島旗 🇨🇨
 科科斯（基林）羣島	科科斯（基林）羣島 🇨🇨
+科科斯（基林）羣島旗	科科斯（基林）羣島旗 🇨🇨
 科科斯（基林）羣島旗幟	科科斯（基林）羣島旗幟 🇨🇨
-科科斯（基林）群島	科科斯（基林）群島 🇨🇨
-科科斯（基林）群島旗	科科斯（基林）群島旗 🇨🇨
 科科斯（科靈）羣島旗幟	科科斯（科靈）羣島旗幟 🇨🇨
 科索沃	科索沃 🇽🇰
 科索沃國旗	科索沃國旗 🇽🇰
@@ -13295,9 +13265,8 @@ zzz	zzz 💤 😴
 維德角	維德角 🇨🇻
 維德角國旗	維德角國旗 🇨🇻
 維爾京羣島	維爾京羣島 🇻🇬 🇻🇮
-維爾京群島	維爾京群島 🇻🇬 🇻🇮
-維爾京群島旗	維爾京群島旗 🇻🇬
-維爾京群島旗幟	維爾京群島旗幟 🇻🇬
+維爾京羣島旗	維爾京羣島旗 🇻🇬
+維爾京羣島旗幟	維爾京羣島旗幟 🇻🇬
 維蘇威	維蘇威 🌋
 維蘇威山	維蘇威山 🌋
 維蘇威火山	維蘇威火山 🌋
@@ -13453,17 +13422,15 @@ zzz	zzz 💤 😴
 美屬維京羣島	美屬維京羣島 🇻🇮
 美屬維京羣島旗幟	美屬維京羣島旗幟 🇻🇮
 美屬維爾京羣島	美屬維爾京羣島 🇻🇮
+美屬維爾京羣島島旗	美屬維爾京羣島島旗 🇻🇮
+美屬維爾京羣島旗	美屬維爾京羣島旗 🇻🇮
 美屬維爾京羣島旗幟	美屬維爾京羣島旗幟 🇻🇮
-美屬維爾京群島	美屬維爾京群島 🇻🇮
-美屬維爾京群島島旗	美屬維爾京群島島旗 🇻🇮
-美屬維爾京群島旗	美屬維爾京群島旗 🇻🇮
-美屬維爾京群島旗幟	美屬維爾京群島旗幟 🇻🇮
 美屬薩摩亞	美屬薩摩亞 🇦🇸
 美屬薩摩亞國旗	美屬薩摩亞國旗 🇦🇸
 美屬薩摩亞旗	美屬薩摩亞旗 🇦🇸
 美屬薩摩亞旗幟	美屬薩摩亞旗幟 🇦🇸
-美屬薩摩亞群島	美屬薩摩亞群島 🇦🇸
-美屬薩摩亞群島旗	美屬薩摩亞群島旗 🇦🇸
+美屬薩摩亞羣島	美屬薩摩亞羣島 🇦🇸
+美屬薩摩亞羣島旗	美屬薩摩亞羣島旗 🇦🇸
 美工鋼筆	美工鋼筆 ✒️ 🖋
 美式	美式 ☕️
 美式九球	美式九球 🎱️
@@ -13710,10 +13677,9 @@ zzz	zzz 💤 😴
 聖皮埃爾和密克隆	聖皮埃爾和密克隆 🇵🇲
 聖皮埃爾和密克隆旗幟	聖皮埃爾和密克隆旗幟 🇵🇲
 聖皮埃爾和密克隆羣島	聖皮埃爾和密克隆羣島 🇵🇲
+聖皮埃爾和密克隆羣島島旗	聖皮埃爾和密克隆羣島島旗 🇵🇲
+聖皮埃爾和密克隆羣島旗	聖皮埃爾和密克隆羣島旗 🇵🇲
 聖皮埃爾和密克隆羣島旗幟	聖皮埃爾和密克隆羣島旗幟 🇵🇲
-聖皮埃爾和密克隆群島	聖皮埃爾和密克隆群島 🇵🇲
-聖皮埃爾和密克隆群島島旗	聖皮埃爾和密克隆群島島旗 🇵🇲
-聖皮埃爾和密克隆群島旗	聖皮埃爾和密克隆群島旗 🇵🇲
 聖皮埃爾國旗	聖皮埃爾國旗 🇵🇲
 聖皮埃爾旗	聖皮埃爾旗 🇵🇲
 聖皮埃爾旗幟	聖皮埃爾旗幟 🇵🇲
@@ -14225,10 +14191,9 @@ zzz	zzz 💤 😴
 英屬維京羣島	英屬維京羣島 🇻🇬
 英屬維京羣島旗幟	英屬維京羣島旗幟 🇻🇬
 英屬維爾京羣島	英屬維爾京羣島 🇻🇬
+英屬維爾京羣島國旗	英屬維爾京羣島國旗 🇻🇬
+英屬維爾京羣島旗	英屬維爾京羣島旗 🇻🇬
 英屬維爾京羣島旗幟	英屬維爾京羣島旗幟 🇻🇬
-英屬維爾京群島	英屬維爾京群島 🇻🇬
-英屬維爾京群島國旗	英屬維爾京群島國旗 🇻🇬
-英屬維爾京群島旗	英屬維爾京群島旗 🇻🇬
 英幣	英幣 💷
 英式撞球	英式撞球 🎱
 英式早餐茶	英式早餐茶 ☕️
@@ -14491,7 +14456,7 @@ zzz	zzz 💤 😴
 薩摩亞旗	薩摩亞旗 🇼🇸
 薩摩亞羣島	薩摩亞羣島 🇼🇸
 薩摩亞羣島國旗	薩摩亞羣島國旗 🇼🇸
-薩摩亞群島旗	薩摩亞群島旗 🇼🇸
+薩摩亞羣島旗	薩摩亞羣島旗 🇼🇸
 薩沃伊白菜	薩沃伊白菜 🥬
 薩爾瓦多	薩爾瓦多 🇸🇻
 薩爾瓦多國旗	薩爾瓦多國旗 🇸🇻
@@ -16609,10 +16574,8 @@ zzz	zzz 💤 😴
 開心難過臉	開心難過臉 🎭
 開曼	開曼 🇰🇾
 開曼羣島	開曼羣島 🇰🇾
+開曼羣島旗	開曼羣島旗 🇰🇾
 開曼羣島旗幟	開曼羣島旗幟 🇰🇾
-開曼群島	開曼群島 🇰🇾
-開曼群島旗	開曼群島旗 🇰🇾
-開曼群島旗幟	開曼群島旗幟 🇰🇾
 開派對	開派對 👯‍♀️ 👯‍♂️ 🥳
 開派對樣	開派對樣 🥳
 開玩笑	開玩笑 😜️ 🙃
@@ -16826,8 +16789,7 @@ zzz	zzz 💤 😴
 雙向箭頭	雙向箭頭 ↔️
 雙子座	雙子座 ♊️
 雙峯駝	雙峯駝 🐫
-雙峯駱駝	雙峯駱駝 🐫 🐫️
-雙峰駱駝	雙峰駱駝 🐫
+雙峯駱駝	雙峯駱駝 🐫
 雙彎曲	雙彎曲 ➿
 雙彎曲線	雙彎曲線 ➿
 雙感嘆號	雙感嘆號 ‼️
@@ -16952,7 +16914,7 @@ zzz	zzz 💤 😴
 雪人周圍有雪花飄落	雪人周圍有雪花飄落 ☃️
 雪女	雪女 ☃️ ⛄️
 雪山	雪山 🏔 🏔️
-雪峰	雪峰 🏔
+雪峯	雪峯 🏔
 雪嶺	雪嶺 🏔️
 雪暴	雪暴 🌨
 雪松	雪松 🎄️
@@ -17593,11 +17555,9 @@ zzz	zzz 💤 😴
 馬約蘭旗	馬約蘭旗 🇾🇹
 馬紹爾羣島	馬紹爾羣島 🇲🇭
 馬紹爾羣島國旗	馬紹爾羣島國旗 🇲🇭
+馬紹爾羣島島旗	馬紹爾羣島島旗 🇲🇭
+馬紹爾羣島旗	馬紹爾羣島旗 🇲🇭
 馬紹爾羣島旗幟	馬紹爾羣島旗幟 🇲🇭
-馬紹爾群島	馬紹爾群島 🇲🇭
-馬紹爾群島島旗	馬紹爾群島島旗 🇲🇭
-馬紹爾群島旗	馬紹爾群島旗 🇲🇭
-馬紹爾群島旗幟	馬紹爾群島旗幟 🇲🇭
 馬耳他	馬耳他 🇲🇹
 馬耳他國旗	馬耳他國旗 🇲🇹
 馬耳他旗	馬耳他旗 🇲🇹
@@ -17644,7 +17604,7 @@ zzz	zzz 💤 😴
 駝鹿	駝鹿 🫎
 駭人	駭人 👹
 駱馬	駱馬 🦙
-駱駝	駱駝 🐪 🐫 🐫️
+駱駝	駱駝 🐪 🐫
 騎公路車	騎公路車 🚴‍♀️ 🚴‍♂️
 騎單車	騎單車 🚲 🚴‍♀️ 🚴‍♂️ 🚴🏻 🚵‍♀️ 🚵‍♂️
 騎單車女	騎單車女 🚴🏻‍♀️
