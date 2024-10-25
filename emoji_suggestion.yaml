@@ -4,7 +4,7 @@ patch:
   switches/@next:
     name: emoji_suggestion
     reset: 1
-    states: [ "🈚︎", "🈶️" ]
+    states: [ "🈚︎", "🈶" ]
   'engine/filters/@before 0':
     simplifier@emoji_suggestion
   emoji_suggestion:
