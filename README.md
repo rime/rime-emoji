@@ -22,6 +22,6 @@
 
 1. 下載`opencc`檔案夾內容，將完整檔案夾放入Rime用戶檔案夾內
 
-2. 將`emoji_suggestion.yaml`內的內容加入至想添加Emoji的方案custom檔中
+2. 將[`emoji_suggestion.yaml`](emoji_suggestion.yaml)內的配置內容加入至想添加Emoji的方案custom檔中
 
 授權條款：見 [LICENSE](LICENSE)
